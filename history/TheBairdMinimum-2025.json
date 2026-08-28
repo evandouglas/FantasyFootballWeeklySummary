@@ -1,0 +1,19 @@
+{
+  "league": "TheBairdMinimum",
+  "season": 2025,
+  "weeks": [
+    {
+      "week": 10,
+      "matchups": [
+        {"winner": "Schrammel's Mammals", "winner_score": 116.6, "loser": "Joe's Finest Team", "loser_score": 108.78},
+        {"winner": "Tom's !Talented Team", "winner_score": 105.14, "loser": "Deanna's Daring Team", "loser_score": 59.44},
+        {"winner": "Georgie N' tha' Cloons", "winner_score": 138.8, "loser": "McConkeyTonk Badonkadonk", "loser_score": 78.1},
+        {"winner": "All Gas, No Brake", "winner_score": 113.4, "loser": "Johnny Utah", "loser_score": 89.2},
+        {"winner": "Rob's Unremarkable Team", "winner_score": 120.72, "loser": "Beth's Best Team", "loser_score": 51.34},
+        {"winner": "Brady's Brilliant Team", "winner_score": 102.46, "loser": "Joe Buck Yourself", "loser_score": 78.14},
+        {"winner": "Kermaine's Top-Notch Team", "winner_score": 126.4, "loser": "Jake's Supreme Team", "loser_score": 125.92}
+      ],
+      "lowest_scorer": {"team": "Beth's Best Team", "score": 51.34}
+    }
+  ]
+}

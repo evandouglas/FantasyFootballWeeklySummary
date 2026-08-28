@@ -1,0 +1,17 @@
+{
+  "league": "BairdIT",
+  "season": 2025,
+  "weeks": [
+    {
+      "week": 10,
+      "matchups": [
+        {"winner": "Wes Coast Offense", "winner_score": 138.42, "loser": "Game of Throws", "loser_score": 114.82},
+        {"winner": "The Maddy Efffect", "winner_score": 113.1, "loser": "Skibidi Solar", "loser_score": 70.94},
+        {"winner": "Jackson's Jukes", "winner_score": 143.62, "loser": "Da Beers", "loser_score": 78.02},
+        {"winner": "Amon A Boat!", "winner_score": 109.14, "loser": "InstantRiyaPlay", "loser_score": 91.14},
+        {"winner": "NY Jets 2 Holiday", "winner_score": 150.8, "loser": "Little Saucy Boy", "loser_score": 113.22}
+      ],
+      "lowest_scorer": {"team": "Skibidi Solar", "score": 70.94}
+    }
+  ]
+}
