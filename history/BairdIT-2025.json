@@ -79,6 +79,45 @@
         "team": "Da Beers",
         "score": 86.7
       }
+    },
+    {
+      "week": 13,
+      "matchups": [
+        {
+          "winner": "InstantRiyaPlay",
+          "winner_score": 105.38,
+          "loser": "Little Saucy Boy",
+          "loser_score": 103.4
+        },
+        {
+          "winner": "Amon A Boat!",
+          "winner_score": 121.46,
+          "loser": "The Maddy Efffect ",
+          "loser_score": 72.14
+        },
+        {
+          "winner": "NY Jets 2 Holiday",
+          "winner_score": 118.9,
+          "loser": "Jackson\u2019s Jukes",
+          "loser_score": 80.98
+        },
+        {
+          "winner": "Skibidi Solar",
+          "winner_score": 140.16,
+          "loser": "Game of Throws",
+          "loser_score": 129.7
+        },
+        {
+          "winner": "Da Beers",
+          "winner_score": 99.24,
+          "loser": "Wes Coast Offense ",
+          "loser_score": 72.48
+        }
+      ],
+      "lowest_scorer": {
+        "team": "The Maddy Efffect ",
+        "score": 72.14
+      }
     }
   ]
 }

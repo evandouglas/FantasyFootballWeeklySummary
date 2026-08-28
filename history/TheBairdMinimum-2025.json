@@ -103,6 +103,57 @@
         "team": "Kermaine's Top-Notch Team",
         "score": 83.58
       }
+    },
+    {
+      "week": 13,
+      "matchups": [
+        {
+          "winner": "Johnny Utah",
+          "winner_score": 118.54,
+          "loser": "Joe's Finest Team",
+          "loser_score": 66.06
+        },
+        {
+          "winner": "Rob's Unremarkable Team",
+          "winner_score": 107.9,
+          "loser": "Georgie N' tha' Cloons",
+          "loser_score": 106.34
+        },
+        {
+          "winner": "Deanna's Daring Team",
+          "winner_score": 96.56,
+          "loser": "Brady's Brilliant Team",
+          "loser_score": 82.56
+        },
+        {
+          "winner": "Jake's Supreme Team",
+          "winner_score": 123.74,
+          "loser": "Schrammel's Mammals",
+          "loser_score": 107.78
+        },
+        {
+          "winner": "Kermaine's Top-Notch Team",
+          "winner_score": 110.64,
+          "loser": "Tom's !Talented Team",
+          "loser_score": 76.22
+        },
+        {
+          "winner": "McConkeyTonk Badonkadonk",
+          "winner_score": 106.04,
+          "loser": "Joe Buck Yourself",
+          "loser_score": 71.04
+        },
+        {
+          "winner": "Beth's Best Team",
+          "winner_score": 90.92,
+          "loser": "All Gas, No Brake",
+          "loser_score": 78.0
+        }
+      ],
+      "lowest_scorer": {
+        "team": "Joe's Finest Team",
+        "score": 66.06
+      }
     }
   ]
 }
