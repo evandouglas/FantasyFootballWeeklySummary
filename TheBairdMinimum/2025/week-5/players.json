@@ -1,0 +1,46 @@
+{
+  "playerOfWeek": {"player": "Rico Dowdle", "pos": "RB", "nflTeam": "CAR", "fantasyTeam": "All Gas, No Brake", "points": 30.9},
+  "topStarters": [
+    {"player": "Rico Dowdle", "pos": "RB", "fantasyTeam": "All Gas, No Brake", "points": 30.9},
+    {"player": "Jonathan Taylor", "pos": "RB", "fantasyTeam": "Jake's Supreme Team", "points": 30.1},
+    {"player": "C.J. Stroud", "pos": "QB", "fantasyTeam": "Brady's Brilliant Team", "points": 28.76},
+    {"player": "Emeka Egbuka", "pos": "WR", "fantasyTeam": "Schrammel's Mammals", "points": 27.8},
+    {"player": "Kyren Williams", "pos": "RB", "fantasyTeam": "Joe's Finest Team", "points": 27.1}
+  ],
+  "benchWarmer": {"player": "Dak Prescott", "pos": "QB", "fantasyTeam": "All Gas, No Brake", "points": 28.28},
+  "topBench": [
+    {"player": "Dak Prescott", "pos": "QB", "fantasyTeam": "All Gas, No Brake", "points": 28.28},
+    {"player": "Baker Mayfield", "pos": "QB", "fantasyTeam": "Beth's Best Team", "points": 26.66},
+    {"player": "Trevor Lawrence", "pos": "QB", "fantasyTeam": "Johnny Utah", "points": 26.24},
+    {"player": "Jacory Croskey-Merritt", "pos": "RB", "fantasyTeam": "Beth's Best Team", "points": 26.0},
+    {"player": "Jared Goff", "pos": "QB", "fantasyTeam": "Georgie N' tha' Cloons", "points": 20.12}
+  ],
+  "gooseEggsAndDisasters": [
+    {"player": "Seahawks D/ST", "fantasyTeam": "Georgie N' tha' Cloons", "points": -5.0},
+    {"player": "Buccaneers D/ST", "fantasyTeam": "Johnny Utah", "points": -4.0},
+    {"player": "Rams D/ST", "fantasyTeam": "McConkeyTonk Badonkadonk", "points": -2.0},
+    {"player": "Giants D/ST", "fantasyTeam": "Joe's Finest Team", "points": 0.0},
+    {"player": "Jalen Tolbert", "pos": "WR", "fantasyTeam": "Joe's Finest Team", "points": 0.0},
+    {"player": "Ricky Pearsall", "pos": "WR", "fantasyTeam": "Joe Buck Yourself", "points": 0.0},
+    {"player": "Eagles D/ST", "fantasyTeam": "Joe Buck Yourself", "points": 1.0},
+    {"player": "Spencer Shrader", "pos": "K", "fantasyTeam": "Tom's !Talented Team", "points": 2.0},
+    {"player": "Jaguars D/ST", "fantasyTeam": "Tom's !Talented Team", "points": 2.0},
+    {"player": "Malik Washington", "pos": "WR", "fantasyTeam": "Kermaine's Top-Notch Team", "points": 2.0}
+  ],
+  "benchTotalsByTeam": {
+    "Beth's Best Team": 52.66,
+    "Tom's !Talented Team": 39.8,
+    "Jake's Supreme Team": 35.9,
+    "Schrammel's Mammals": 28.6,
+    "All Gas, No Brake": 28.28,
+    "Johnny Utah": 26.34,
+    "Georgie N' tha' Cloons": 24.22,
+    "Deanna's Daring Team": 22.8,
+    "McConkeyTonk Badonkadonk": 21.9,
+    "Kermaine's Top-Notch Team": 20.06,
+    "Rob's Unremarkable Team": 19.5,
+    "Joe's Finest Team": 11.3,
+    "Joe Buck Yourself": 0.0,
+    "Brady's Brilliant Team": -0.2
+  }
+}

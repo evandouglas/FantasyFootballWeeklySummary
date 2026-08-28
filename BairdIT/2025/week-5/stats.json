@@ -1,0 +1,26 @@
+{
+  "league": "BairdIT",
+  "leagueName": "Baird IT",
+  "season": 2025,
+  "week": 5,
+  "matchups": [
+    {"home": "The Maddy Efffect ", "homeScore": 100.52, "away": "Little Saucy Boy", "awayScore": 129.76, "winner": "Little Saucy Boy", "margin": 29.24},
+    {"home": "InstantRiyaPlay", "homeScore": 121.0, "away": "Game of Throws", "awayScore": 123.48, "winner": "Game of Throws", "margin": 2.48},
+    {"home": "NY Jets 2 Holiday", "homeScore": 135.34, "away": "Jackson’s Jukes", "awayScore": 148.02, "winner": "Jackson’s Jukes", "margin": 12.68},
+    {"home": "Amon A Boat!", "homeScore": 101.42, "away": "Skibidi Solar", "awayScore": 113.64, "winner": "Skibidi Solar", "margin": 12.22},
+    {"home": "Da Beers", "homeScore": 86.7, "away": "Wes Coast Offense ", "awayScore": 156.0, "winner": "Wes Coast Offense ", "margin": 69.3}
+  ],
+  "biggestBlowout": {"winner": "Wes Coast Offense ", "loser": "Da Beers", "margin": 69.3},
+  "closestGame": {"winner": "Game of Throws", "loser": "InstantRiyaPlay", "margin": 2.48},
+  "highestScore": {"team": "Wes Coast Offense ", "score": 156.0},
+  "lowestScore": {"team": "Da Beers", "score": 86.7},
+  "playerOfWeek": {"player": "C.J. Stroud", "pos": "QB", "team": "Wes Coast Offense ", "points": 36.76},
+  "benchWarmer": {"team": "Little Saucy Boy", "player": "Trevor Lawrence", "points": 27.24},
+  "lineupEfficiency": {
+    "mostAccurate": {"team": "Wes Coast Offense ", "accuracy": 98.6, "actual": 156.0, "optimal": 158.2},
+    "leastAccurate": {"team": "Little Saucy Boy", "accuracy": 78.0, "actual": 129.76, "optimal": 166.38}
+  },
+  "unluckyLoss": {"team": "InstantRiyaPlay", "score": 121.0, "note": "would have beaten 3 of 4 other losers this week but lost by 2.48"},
+  "trades": [],
+  "notes": "No K position rostered in this league (0 kicker roster slots / entries found). No trade transactions found for week 5 or week 4 in this league's transactions array."
+}
