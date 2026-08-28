@@ -1,163 +1,139 @@
 {
-  "league": "BairdIT",
+  "league_key": "BairdIT",
   "week": 10,
   "season": 2025,
-  "matchups": [
+  "games": [
     {
-      "away_id": 7,
-      "home_id": 3,
-      "away_name": "Wes Coast Offense ",
-      "home_name": "Game of Throws",
-      "away_score": 138.42,
-      "home_score": 114.82,
-      "winner_id": 7,
-      "loser_id": 3,
-      "winner_name": "Wes Coast Offense ",
-      "loser_name": "Game of Throws",
+      "winner": "Wes Coast Offense ",
+      "winner_score": 138.42,
+      "loser": "Game of Throws",
+      "loser_score": 114.82,
       "margin": 23.6
     },
     {
-      "away_id": 4,
-      "home_id": 6,
-      "away_name": "The Maddy Efffect ",
-      "home_name": "Skibidi Solar",
-      "away_score": 113.1,
-      "home_score": 70.94,
-      "winner_id": 4,
-      "loser_id": 6,
-      "winner_name": "The Maddy Efffect ",
-      "loser_name": "Skibidi Solar",
+      "winner": "The Maddy Efffect ",
+      "winner_score": 113.1,
+      "loser": "Skibidi Solar",
+      "loser_score": 70.94,
       "margin": 42.16
     },
     {
-      "away_id": 12,
-      "home_id": 9,
-      "away_name": "Da Beers",
-      "home_name": "Jackson\u2019s Jukes",
-      "away_score": 78.02,
-      "home_score": 143.62,
-      "winner_id": 9,
-      "loser_id": 12,
-      "winner_name": "Jackson\u2019s Jukes",
-      "loser_name": "Da Beers",
+      "winner": "Jackson\u2019s Jukes",
+      "winner_score": 143.62,
+      "loser": "Da Beers",
+      "loser_score": 78.02,
       "margin": 65.6
     },
     {
-      "away_id": 2,
-      "home_id": 1,
-      "away_name": "InstantRiyaPlay",
-      "home_name": "Amon A Boat!",
-      "away_score": 91.14,
-      "home_score": 109.14,
-      "winner_id": 1,
-      "loser_id": 2,
-      "winner_name": "Amon A Boat!",
-      "loser_name": "InstantRiyaPlay",
+      "winner": "Amon A Boat!",
+      "winner_score": 109.14,
+      "loser": "InstantRiyaPlay",
+      "loser_score": 91.14,
       "margin": 18.0
     },
     {
-      "away_id": 8,
-      "home_id": 5,
-      "away_name": "NY Jets 2 Holiday",
-      "home_name": "Little Saucy Boy",
-      "away_score": 150.8,
-      "home_score": 113.22,
-      "winner_id": 8,
-      "loser_id": 5,
-      "winner_name": "NY Jets 2 Holiday",
-      "loser_name": "Little Saucy Boy",
+      "winner": "NY Jets 2 Holiday",
+      "winner_score": 150.8,
+      "loser": "Little Saucy Boy",
+      "loser_score": 113.22,
       "margin": 37.58
     }
   ],
   "biggest_blowout": {
-    "away_id": 12,
-    "home_id": 9,
-    "away_name": "Da Beers",
-    "home_name": "Jackson\u2019s Jukes",
-    "away_score": 78.02,
-    "home_score": 143.62,
-    "winner_id": 9,
-    "loser_id": 12,
-    "winner_name": "Jackson\u2019s Jukes",
-    "loser_name": "Da Beers",
+    "winner": "Jackson\u2019s Jukes",
+    "loser": "Da Beers",
     "margin": 65.6
   },
   "closest_game": {
-    "away_id": 2,
-    "home_id": 1,
-    "away_name": "InstantRiyaPlay",
-    "home_name": "Amon A Boat!",
-    "away_score": 91.14,
-    "home_score": 109.14,
-    "winner_id": 1,
-    "loser_id": 2,
-    "winner_name": "Amon A Boat!",
-    "loser_name": "InstantRiyaPlay",
+    "winner": "Amon A Boat!",
+    "loser": "InstantRiyaPlay",
     "margin": 18.0
   },
   "highest_score": {
     "team": "NY Jets 2 Holiday",
-    "points": 150.8
+    "score": 150.8
   },
   "lowest_score": {
     "team": "Skibidi Solar",
-    "points": 70.94
+    "score": 70.94
+  },
+  "unlucky_loss": {
+    "team": "Game of Throws",
+    "score": 114.82
   },
   "player_of_week": {
-    "player": "Jonathan Taylor",
-    "points": 48.1,
-    "team": "Little Saucy Boy",
-    "pos": 2
+    "team_id": 5,
+    "name": "Jonathan Taylor",
+    "pos_id": 2,
+    "pro_team_id": 11,
+    "points": 48.10000000000001,
+    "slot": 2,
+    "started": true
   },
-  "bench_warmer": {
-    "player": "Jacoby Brissett",
+  "best_benched": {
+    "team_id": 1,
+    "name": "Jacoby Brissett",
+    "pos_id": 1,
+    "pro_team_id": 22,
     "points": 23.42,
-    "team": "Amon A Boat!"
+    "slot": 20,
+    "started": false
   },
   "goose_eggs": [
     {
-      "player": "Emanuel Wilson",
-      "points": 0.9,
-      "team": "Game of Throws"
+      "team_id": 3,
+      "name": "Emanuel Wilson",
+      "pos_id": 2,
+      "pro_team_id": 9,
+      "points": 0.8999999999999999,
+      "slot": 2,
+      "started": true
     },
     {
-      "player": "Kenneth Gainwell",
+      "team_id": 6,
+      "name": "DJ Moore",
+      "pos_id": 3,
+      "pro_team_id": 3,
+      "points": 0.0,
+      "slot": 4,
+      "started": true
+    },
+    {
+      "team_id": 4,
+      "name": "Kenneth Gainwell",
+      "pos_id": 2,
+      "pro_team_id": 23,
       "points": 1.4,
-      "team": "The Maddy Efffect "
+      "slot": 2,
+      "started": true
     },
     {
-      "player": "DJ Moore",
+      "team_id": 1,
+      "name": "Garrett Wilson",
+      "pos_id": 3,
+      "pro_team_id": 20,
       "points": 0.0,
-      "team": "Skibidi Solar"
+      "slot": 4,
+      "started": true
     },
     {
-      "player": "Garrett Wilson",
-      "points": 0.0,
-      "team": "Amon A Boat!"
-    },
-    {
-      "player": "Romeo Doubs",
+      "team_id": 5,
+      "name": "Romeo Doubs",
+      "pos_id": 3,
+      "pro_team_id": 9,
       "points": 1.0,
-      "team": "Little Saucy Boy"
+      "slot": 23,
+      "started": true
     }
   ],
-  "defensive_disasters": [],
-  "max_bench_points_team": {
+  "def_disasters": [],
+  "top_bench_team": {
     "team": "Jackson\u2019s Jukes",
     "points": 42.8
   },
-  "unlucky_losses": [
-    {
-      "team": "Game of Throws",
-      "score": 114.82,
-      "rank": 4
-    },
-    {
-      "team": "Little Saucy Boy",
-      "score": 113.22,
-      "rank": 5
-    }
-  ],
+  "has_dst": false,
+  "has_k": false,
+  "trades": [],
   "streaks": [
     {
       "team": "The Maddy Efffect ",
@@ -165,47 +141,68 @@
       "length": 3
     }
   ],
-  "trades": [],
-  "sorted_scores": [
-    {
-      "team": "NY Jets 2 Holiday",
-      "score": 150.8
+  "lineup_efficiency": {
+    "Amon A Boat!": {
+      "actual_points": 109.14,
+      "optimal_points": 116.92,
+      "accuracy_pct": 93.3
     },
-    {
-      "team": "Jackson\u2019s Jukes",
-      "score": 143.62
+    "InstantRiyaPlay": {
+      "actual_points": 91.14,
+      "optimal_points": 106.44,
+      "accuracy_pct": 85.6
     },
-    {
-      "team": "Wes Coast Offense ",
-      "score": 138.42
+    "Game of Throws": {
+      "actual_points": 114.82,
+      "optimal_points": 128.02,
+      "accuracy_pct": 89.7
     },
-    {
-      "team": "Game of Throws",
-      "score": 114.82
+    "The Maddy Efffect ": {
+      "actual_points": 113.1,
+      "optimal_points": 129.6,
+      "accuracy_pct": 87.3
     },
-    {
-      "team": "Little Saucy Boy",
-      "score": 113.22
+    "Little Saucy Boy": {
+      "actual_points": 113.22,
+      "optimal_points": 119.82,
+      "accuracy_pct": 94.5
     },
-    {
-      "team": "The Maddy Efffect ",
-      "score": 113.1
+    "Skibidi Solar": {
+      "actual_points": 70.94,
+      "optimal_points": 73.14,
+      "accuracy_pct": 97.0
     },
-    {
-      "team": "Amon A Boat!",
-      "score": 109.14
+    "Wes Coast Offense ": {
+      "actual_points": 138.42,
+      "optimal_points": 143.32,
+      "accuracy_pct": 96.6
     },
-    {
-      "team": "InstantRiyaPlay",
-      "score": 91.14
+    "NY Jets 2 Holiday": {
+      "actual_points": 150.8,
+      "optimal_points": 164.2,
+      "accuracy_pct": 91.8
     },
-    {
-      "team": "Da Beers",
-      "score": 78.02
+    "Jackson\u2019s Jukes": {
+      "actual_points": 143.62,
+      "optimal_points": 156.62,
+      "accuracy_pct": 91.7
     },
-    {
-      "team": "Skibidi Solar",
-      "score": 70.94
+    "Da Beers": {
+      "actual_points": 78.02,
+      "optimal_points": 104.68,
+      "accuracy_pct": 74.5
     }
-  ]
+  },
+  "most_accurate_lineup": {
+    "team": "Skibidi Solar",
+    "actual_points": 70.94,
+    "optimal_points": 73.14,
+    "accuracy_pct": 97.0
+  },
+  "least_accurate_lineup": {
+    "team": "Da Beers",
+    "actual_points": 78.02,
+    "optimal_points": 104.68,
+    "accuracy_pct": 74.5
+  }
 }

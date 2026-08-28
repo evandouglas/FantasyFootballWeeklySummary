@@ -30,14 +30,40 @@ def week_points(entry, week):
     return 0.0
 
 
-def starting_slots(settings):
-    counts = settings.get("rosterSettings", {}).get("lineupSlotCounts", {})
-    return [
-        int(slot_id)
-        for slot_id, count in counts.items()
-        if int(slot_id) not in BENCH_SLOTS
-        for _ in range(count)
-    ]
+def starting_slots(data, week):
+    """Determine the league's starting-lineup slot composition.
+
+    Prefer settings.rosterSettings.lineupSlotCounts when present. Some cached ESPN
+    responses omit rosterSettings entirely, so fall back to inferring the slot counts
+    from the max number of players actually started in each non-bench slot across all
+    teams' rosters for this week (this reflects the league's real lineup requirements).
+    """
+    counts = data.get("settings", {}).get("rosterSettings", {}).get("lineupSlotCounts", {})
+    if counts:
+        return [
+            int(slot_id)
+            for slot_id, count in counts.items()
+            if int(slot_id) not in BENCH_SLOTS
+            for _ in range(count)
+        ]
+
+    from collections import Counter
+    observed = Counter()
+    for m in data.get("schedule", []):
+        if m.get("matchupPeriodId") != week:
+            continue
+        for side in ("home", "away"):
+            roster = m.get(side, {}).get("rosterForCurrentScoringPeriod")
+            if not roster:
+                continue
+            side_counts = Counter(
+                e["lineupSlotId"] for e in roster.get("entries", [])
+                if e.get("lineupSlotId") not in BENCH_SLOTS
+            )
+            for slot_id, cnt in side_counts.items():
+                observed[slot_id] = max(observed[slot_id], cnt)
+
+    return [slot_id for slot_id, cnt in observed.items() for _ in range(cnt)]
 
 
 def best_lineup(slots, candidates):
@@ -63,10 +89,26 @@ def best_lineup(slots, candidates):
     return result
 
 
-def team_efficiency(team, slots, week):
+def team_roster_entries(data, team_id, week):
+    """ESPN's per-week roster lives on the matchup side (schedule[]), not team["roster"]
+    (which is only populated for the team the requester owns). Pull entries from the
+    matchup period's rosterForCurrentScoringPeriod for the given teamId."""
+    for m in data.get("schedule", []):
+        if m.get("matchupPeriodId") != week:
+            continue
+        for side in ("home", "away"):
+            side_data = m.get(side, {})
+            if side_data.get("teamId") == team_id:
+                roster = side_data.get("rosterForCurrentScoringPeriod") or side_data.get("rosterForMatchupPeriod")
+                if roster:
+                    return roster.get("entries", [])
+    return []
+
+
+def team_efficiency(entries, slots, week):
     candidates = []
     actual_points = 0.0
-    for entry in team.get("roster", {}).get("entries", []):
+    for entry in entries:
         lineup_slot = entry.get("lineupSlotId")
         if lineup_slot == 21:  # IR players aren't eligible to move into a starting slot
             continue
@@ -94,11 +136,12 @@ def main():
     with open(data_path, encoding="utf-8") as f:
         data = json.load(f)
 
-    slots = starting_slots(data.get("settings", {}))
-    results = {
-        str(team["id"]): team_efficiency(team, slots, week)
-        for team in data.get("teams", [])
-    }
+    slots = starting_slots(data, week)
+    results = {}
+    for team in data.get("teams", []):
+        team_id = team["id"]
+        entries = team_roster_entries(data, team_id, week)
+        results[str(team_id)] = team_efficiency(entries, slots, week)
     print(json.dumps(results, indent=2))
 
 
