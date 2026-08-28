@@ -54,12 +54,19 @@ def load_schedule(season_id, week):
         return []
     schedule = json.loads(SCHEDULE_PATH.read_text(encoding="utf-8"))
     events = schedule.get("events", [])
-    return [
-        event for event in events
-        if event.get("season", {}).get("type", {}).get("type") == 2
-        and event.get("week", {}).get("number") == week
-        and str(event.get("season", {}).get("year")) == str(season_id)
-    ]
+    matching_events = []
+    for event in events:
+        season = event.get("season", {})
+        season_type = season.get("type")
+        if isinstance(season_type, dict):
+            season_type = season_type.get("type")
+        if (
+            season_type == 2
+            and event.get("week", {}).get("number") == week
+            and str(season.get("year")) == str(season_id)
+        ):
+            matching_events.append(event)
+    return matching_events
 
 
 def generate_recap(league, week, data, schedule, agent_instructions):
