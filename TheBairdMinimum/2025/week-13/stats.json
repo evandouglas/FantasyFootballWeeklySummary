@@ -1,0 +1,45 @@
+{
+  "league": "The Baird Minimum",
+  "season": 2025,
+  "week": 13,
+  "matchups": [
+    {"home": "Johnny Utah", "home_score": 118.54, "away": "Joe's Finest Team", "away_score": 66.06, "winner": "Johnny Utah", "margin": 52.48},
+    {"home": "Georgie N' tha' Cloons", "home_score": 106.34, "away": "Rob's Unremarkable Team", "away_score": 107.9, "winner": "Rob's Unremarkable Team", "margin": 1.56, "upset": true},
+    {"home": "Deanna's Daring Team", "home_score": 96.56, "away": "Brady's Brilliant Team", "away_score": 82.56, "winner": "Deanna's Daring Team", "margin": 14.0},
+    {"home": "Schrammel's Mammals", "home_score": 107.78, "away": "Jake's Supreme Team", "away_score": 123.74, "winner": "Jake's Supreme Team", "margin": 15.96},
+    {"home": "Tom's !Talented Team", "home_score": 76.22, "away": "Kermaine's Top-Notch Team", "away_score": 110.64, "winner": "Kermaine's Top-Notch Team", "margin": 34.42},
+    {"home": "McConkeyTonk Badonkadonk", "home_score": 106.04, "away": "Joe Buck Yourself", "away_score": 71.04, "winner": "McConkeyTonk Badonkadonk", "margin": 35.0},
+    {"home": "All Gas, No Brake", "home_score": 78.0, "away": "Beth's Best Team", "away_score": 90.92, "winner": "Beth's Best Team", "margin": 12.92}
+  ],
+  "superlatives": {
+    "biggest_blowout": {"winner": "Johnny Utah", "loser": "Joe's Finest Team", "margin": 52.48},
+    "closest_game": {"winner": "Rob's Unremarkable Team", "loser": "Georgie N' tha' Cloons", "margin": 1.56},
+    "highest_score": {"team": "Jake's Supreme Team", "score": 123.74},
+    "lowest_score": {"team": "Joe's Finest Team", "score": 66.06},
+    "player_of_week": {"player": "A.J. Brown", "position": "WR", "team": "Deanna's Daring Team", "points": 30.2},
+    "bench_warmer": {"team": "Joe Buck Yourself", "player": "Bryce Young", "points": 22.54},
+    "most_accurate_lineup": {"team": "All Gas, No Brake", "actual": 78.0, "optimal": 78.7, "accuracy_pct": 99.1},
+    "least_accurate_lineup": {"team": "Joe Buck Yourself", "actual": 71.04, "optimal": 117.94, "accuracy_pct": 60.2}
+  },
+  "unlucky_loss": {"team": "Schrammel's Mammals", "score": 107.78},
+  "goose_eggs_count": 12,
+  "defensive_disasters": [{"team": "Deanna's Daring Team", "player": "Zay Flowers", "points": -0.4}],
+  "max_bench_points": {"team": "Kermaine's Top-Notch Team", "points": 69.7},
+  "streaks": {
+    "win_streaks_3plus": [{"team": "Jake's Supreme Team", "length": 3}],
+    "loss_streaks_3plus": [{"team": "Schrammel's Mammals", "length": 3}, {"team": "Tom's !Talented Team", "length": 4}, {"team": "All Gas, No Brake", "length": 3}]
+  },
+  "playoff_context": {
+    "matchup_period_count_regular_season_note": "Week 13 - heavy playoff seeding implications, top playoff seeds per playoffSeed field",
+    "top_seeds": [
+      {"seed": 1, "team": "Jake's Supreme Team", "record": "10-4"},
+      {"seed": 2, "team": "Rob's Unremarkable Team", "record": "10-4"}
+    ],
+    "bubble": [
+      {"seed": 6, "team": "Beth's Best Team", "record": "8-6"},
+      {"seed": 7, "team": "Kermaine's Top-Notch Team", "record": "7-7"}
+    ]
+  },
+  "trades": [],
+  "verification_note": "All scores/superlatives verified against sorted totalPoints from data.json schedule entries for matchupPeriodId 13."
+}

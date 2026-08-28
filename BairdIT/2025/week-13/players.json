@@ -1,0 +1,20 @@
+{
+  "player_of_week": {"player": "Patrick Mahomes", "position": "QB", "nfl_team": "Kansas City", "fantasy_team": "NY Jets 2 Holiday", "points": 37.44, "note": "37.44 pts came in the CBS Sunday game vs Dallas"},
+  "bench_warmer_of_week": {"player": "Joe Burrow", "position": "QB", "fantasy_team": "Amon A Boat!", "points": 23.24, "note": "Left on bench in a blowout win, didn't matter this week"},
+  "goose_eggs": [
+    {"team": "Amon A Boat!", "player": "Amon-Ra St. Brown", "points": 0.0},
+    {"team": "The Maddy Efffect", "player": "Joe Flacco", "points": 0.0},
+    {"team": "Jackson's Jukes", "player": "Justin Jefferson", "points": 1.4},
+    {"team": "Jackson's Jukes", "player": "Rome Odunze", "points": 1.8},
+    {"team": "Wes Coast Offense", "player": "Cade Otton", "points": 1.9},
+    {"team": "Da Beers", "player": "Michael Pittman Jr.", "points": 1.8}
+  ],
+  "defensive_disasters": [
+    {"team": "Wes Coast Offense", "player": "Zay Flowers", "points": -0.4}
+  ],
+  "lineup_efficiency": {
+    "most_accurate": {"team": "Game of Throws", "team_id": 3, "actual_points": 129.7, "optimal_points": 132.7, "accuracy_pct": 97.7},
+    "least_accurate": {"team": "Wes Coast Offense", "team_id": 7, "actual_points": 72.48, "optimal_points": 104.68, "accuracy_pct": 69.2},
+    "source": "scripts/lineup_efficiency.py output for all 10 teamIds"
+  }
+}
