@@ -9,6 +9,7 @@ permissions:
   contents: read
   copilot-requests: write
 strict: true
+model: gpt-5-mini
 engine:
   id: copilot
   agent: fantasy-football
