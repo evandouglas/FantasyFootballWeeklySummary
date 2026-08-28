@@ -46,6 +46,12 @@ tools:
     - ls
     - mkdir
     - find
+    - head
+    - tail
+    - grep
+    - wc
+    - jq
+    - python3
 mcp-scripts:
   fetch-espn-leagues:
     description: Fetch the current completed-week ESPN data for every league in config.json. Credentials are isolated to this read-only tool and are never returned.
