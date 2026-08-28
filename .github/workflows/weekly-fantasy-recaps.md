@@ -8,7 +8,7 @@ on:
 permissions:
   contents: read
 strict: true
-model: gemini-2.5-flash
+model: gemini-3.6-flash
 engine:
   id: gemini
 imports:
