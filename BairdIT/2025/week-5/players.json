@@ -1,0 +1,76 @@
+{
+  "bench_warmers_ranked": [
+    {
+      "team": "Little Saucy Boy",
+      "player": "Trevor Lawrence",
+      "pts": 27.24,
+      "pos": "QB"
+    },
+    {
+      "team": "NY Jets 2 Holiday",
+      "player": "Rachaad White",
+      "pts": 21.1,
+      "pos": "RB"
+    },
+    {
+      "team": "Amon A Boat!",
+      "player": "Jake Ferguson",
+      "pts": 20.4,
+      "pos": "TE"
+    },
+    {
+      "team": "The Maddy Efffect ",
+      "player": "Stefon Diggs",
+      "pts": 19.6,
+      "pos": "WR"
+    },
+    {
+      "team": "Jackson\u2019s Jukes",
+      "player": "Jayden Daniels",
+      "pts": 19.14,
+      "pos": "QB"
+    },
+    {
+      "team": "Skibidi Solar",
+      "player": "Calvin Ridley",
+      "pts": 15.6,
+      "pos": "WR"
+    },
+    {
+      "team": "Game of Throws",
+      "player": "Jordan Addison",
+      "pts": 12.6,
+      "pos": "WR"
+    },
+    {
+      "team": "InstantRiyaPlay",
+      "player": "Zach Charbonnet",
+      "pts": 11.3,
+      "pos": "RB"
+    },
+    {
+      "team": "Da Beers",
+      "player": "Tee Higgins",
+      "pts": 9.7,
+      "pos": "WR"
+    },
+    {
+      "team": "Wes Coast Offense ",
+      "player": "Travis Hunter",
+      "pts": 7.9,
+      "pos": "WR"
+    }
+  ],
+  "team_bench_totals": {
+    "The Maddy Efffect ": 42.62,
+    "Little Saucy Boy": 72.74,
+    "InstantRiyaPlay": 11.3,
+    "Game of Throws": 36.6,
+    "NY Jets 2 Holiday": 66.18,
+    "Jackson\u2019s Jukes": 50.54,
+    "Amon A Boat!": 36.1,
+    "Skibidi Solar": 31.8,
+    "Da Beers": 13.8,
+    "Wes Coast Offense ": 18.0
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "bench_warmers_ranked": [
+    {
+      "team": "All Gas, No Brake",
+      "player": "Dak Prescott",
+      "pts": 28.28,
+      "pos": "QB"
+    },
+    {
+      "team": "Beth's Best Team",
+      "player": "Baker Mayfield",
+      "pts": 26.66,
+      "pos": "QB"
+    },
+    {
+      "team": "Johnny Utah",
+      "player": "Trevor Lawrence",
+      "pts": 26.24,
+      "pos": "QB"
+    },
+    {
+      "team": "Georgie N' tha' Cloons",
+      "player": "Jared Goff",
+      "pts": 20.12,
+      "pos": "QB"
+    },
+    {
+      "team": "Deanna's Daring Team",
+      "player": "Kareem Hunt",
+      "pts": 18.2,
+      "pos": "RB"
+    },
+    {
+      "team": "Tom's !Talented Team",
+      "player": "Michael Carter",
+      "pts": 15.8,
+      "pos": "RB"
+    },
+    {
+      "team": "Kermaine's Top-Notch Team",
+      "player": "David Njoku",
+      "pts": 15.7,
+      "pos": "TE"
+    },
+    {
+      "team": "Jake's Supreme Team",
+      "player": "DeVonta Smith",
+      "pts": 15.4,
+      "pos": "WR"
+    },
+    {
+      "team": "Schrammel's Mammals",
+      "player": "J.K. Dobbins",
+      "pts": 14.9,
+      "pos": "RB"
+    },
+    {
+      "team": "Joe's Finest Team",
+      "player": "Evan Engram",
+      "pts": 11.3,
+      "pos": "TE"
+    },
+    {
+      "team": "McConkeyTonk Badonkadonk",
+      "player": "Harold Fannin Jr.",
+      "pts": 9.3,
+      "pos": "TE"
+    },
+    {
+      "team": "Rob's Unremarkable Team",
+      "player": "Christian Kirk",
+      "pts": 8.4,
+      "pos": "WR"
+    },
+    {
+      "team": "Joe Buck Yourself",
+      "player": "Brock Bowers",
+      "pts": 0.0,
+      "pos": "TE"
+    },
+    {
+      "team": "Brady's Brilliant Team",
+      "player": "Drake London",
+      "pts": 0.0,
+      "pos": "WR"
+    }
+  ],
+  "team_bench_totals": {
+    "Joe Buck Yourself": 0.0,
+    "Joe's Finest Team": 11.3,
+    "Kermaine's Top-Notch Team": 20.06,
+    "Beth's Best Team": 52.66,
+    "Jake's Supreme Team": 35.9,
+    "All Gas, No Brake": 28.28,
+    "Brady's Brilliant Team": -0.2,
+    "McConkeyTonk Badonkadonk": 21.9,
+    "Rob's Unremarkable Team": 19.5,
+    "Tom's !Talented Team": 39.8,
+    "Johnny Utah": 26.34,
+    "Schrammel's Mammals": 28.6,
+    "Georgie N' tha' Cloons": 25.62,
+    "Deanna's Daring Team": 22.8
+  }
+}

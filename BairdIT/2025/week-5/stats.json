@@ -1,0 +1,141 @@
+{
+  "league": "Baird IT",
+  "season": 2025,
+  "week": 5,
+  "matchups": [
+    {
+      "home": "The Maddy Efffect ",
+      "home_owner": "Madalyn",
+      "home_score": 100.52,
+      "away": "Little Saucy Boy",
+      "away_owner": "Rob",
+      "away_score": 129.76,
+      "winner": "AWAY",
+      "margin": 29.24
+    },
+    {
+      "home": "InstantRiyaPlay",
+      "home_owner": "Riya",
+      "home_score": 121.0,
+      "away": "Game of Throws",
+      "away_owner": "Demarion",
+      "away_score": 123.48,
+      "winner": "AWAY",
+      "margin": 2.48
+    },
+    {
+      "home": "NY Jets 2 Holiday",
+      "home_owner": "Evan",
+      "home_score": 135.34,
+      "away": "Jackson\u2019s Jukes",
+      "away_owner": "Julianna",
+      "away_score": 148.02,
+      "winner": "AWAY",
+      "margin": 12.68
+    },
+    {
+      "home": "Amon A Boat!",
+      "home_owner": "Ryan",
+      "home_score": 101.42,
+      "away": "Skibidi Solar",
+      "away_owner": "Benjamin",
+      "away_score": 113.64,
+      "winner": "AWAY",
+      "margin": 12.22
+    },
+    {
+      "home": "Da Beers",
+      "home_owner": "Nick",
+      "home_score": 86.7,
+      "away": "Wes Coast Offense ",
+      "away_owner": "Wesley",
+      "away_score": 156.0,
+      "winner": "AWAY",
+      "margin": 69.3
+    }
+  ],
+  "highest_score": {
+    "team": "Wes Coast Offense ",
+    "score": 156.0
+  },
+  "lowest_score": {
+    "team": "Da Beers",
+    "score": 86.7
+  },
+  "biggest_blowout": {
+    "winner": "Wes Coast Offense ",
+    "loser": "Da Beers",
+    "margin": 69.3
+  },
+  "closest_game": {
+    "team1": "InstantRiyaPlay",
+    "team2": "Game of Throws",
+    "margin": 2.48
+  },
+  "player_of_week": {
+    "name": "C.J. Stroud",
+    "pts": 36.76,
+    "pos": "QB",
+    "team": "Wes Coast Offense "
+  },
+  "top_bench_warmer": {
+    "team": "Little Saucy Boy",
+    "player": "Trevor Lawrence",
+    "pts": 27.24,
+    "pos": "QB"
+  },
+  "max_bench_team": {
+    "team": "Little Saucy Boy",
+    "pts": 72.74
+  },
+  "goose_eggs": [
+    {
+      "team": "InstantRiyaPlay",
+      "player": "Brock Purdy",
+      "pts": 0.0,
+      "pos": "QB"
+    },
+    {
+      "team": "Game of Throws",
+      "player": "Jameson Williams",
+      "pts": 1.5,
+      "pos": "WR"
+    },
+    {
+      "team": "Da Beers",
+      "player": "Justice Hill",
+      "pts": 1.7000000000000002,
+      "pos": "RB"
+    }
+  ],
+  "def_disasters": [],
+  "unlucky_losses": [
+    {
+      "team": "NY Jets 2 Holiday",
+      "score": 135.34,
+      "beat_pct": 70.0
+    }
+  ],
+  "streaks": [
+    {
+      "team": "The Maddy Efffect ",
+      "type": "LOSS",
+      "length": 3
+    }
+  ],
+  "trades_count": 0,
+  "winners_first_names": [
+    "Rob",
+    "Demarion",
+    "Julianna",
+    "Benjamin",
+    "Wesley"
+  ],
+  "losers_first_names": [
+    "Madalyn",
+    "Riya",
+    "Evan",
+    "Ryan",
+    "Nick"
+  ]
+}

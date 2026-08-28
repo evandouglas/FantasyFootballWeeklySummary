@@ -1,0 +1,202 @@
+{
+  "league": "The Baird Minimum",
+  "season": 2025,
+  "week": 5,
+  "matchups": [
+    {
+      "home": "Joe Buck Yourself",
+      "home_owner": "Riya",
+      "home_score": 93.9,
+      "away": "Joe's Finest Team",
+      "away_owner": "Joe",
+      "away_score": 103.72,
+      "winner": "AWAY",
+      "margin": 9.82
+    },
+    {
+      "home": "Kermaine's Top-Notch Team",
+      "home_owner": "Kermaine",
+      "home_score": 83.58,
+      "away": "Beth's Best Team",
+      "away_owner": "Beth",
+      "away_score": 121.02,
+      "winner": "AWAY",
+      "margin": 37.44
+    },
+    {
+      "home": "Jake's Supreme Team",
+      "home_owner": "Jake",
+      "home_score": 127.74,
+      "away": "All Gas, No Brake",
+      "away_owner": "Zack",
+      "away_score": 120.96,
+      "winner": "HOME",
+      "margin": 6.78
+    },
+    {
+      "home": "Brady's Brilliant Team",
+      "home_owner": "Brady",
+      "home_score": 92.86,
+      "away": "McConkeyTonk Badonkadonk",
+      "away_owner": "Evan",
+      "away_score": 99.58,
+      "winner": "AWAY",
+      "margin": 6.72
+    },
+    {
+      "home": "Rob's Unremarkable Team",
+      "home_owner": "Rob",
+      "home_score": 103.4,
+      "away": "Tom's !Talented Team",
+      "away_owner": "Tom",
+      "away_score": 93.2,
+      "winner": "HOME",
+      "margin": 10.2
+    },
+    {
+      "home": "Johnny Utah",
+      "home_owner": "Justin",
+      "home_score": 92.24,
+      "away": "Schrammel's Mammals",
+      "away_owner": "Carl",
+      "away_score": 107.52,
+      "winner": "AWAY",
+      "margin": 15.28
+    },
+    {
+      "home": "Georgie N' tha' Cloons",
+      "home_owner": "Angelo",
+      "home_score": 104.02,
+      "away": "Deanna's Daring Team",
+      "away_owner": "Deanna",
+      "away_score": 96.62,
+      "winner": "HOME",
+      "margin": 7.4
+    }
+  ],
+  "highest_score": {
+    "team": "Jake's Supreme Team",
+    "score": 127.74
+  },
+  "lowest_score": {
+    "team": "Kermaine's Top-Notch Team",
+    "score": 83.58
+  },
+  "biggest_blowout": {
+    "winner": "Beth's Best Team",
+    "loser": "Kermaine's Top-Notch Team",
+    "margin": 37.44
+  },
+  "closest_game": {
+    "team1": "Brady's Brilliant Team",
+    "team2": "McConkeyTonk Badonkadonk",
+    "margin": 6.72
+  },
+  "player_of_week": {
+    "name": "Rico Dowdle",
+    "pts": 30.9,
+    "pos": "RB",
+    "team": "All Gas, No Brake"
+  },
+  "top_bench_warmer": {
+    "team": "All Gas, No Brake",
+    "player": "Dak Prescott",
+    "pts": 28.28,
+    "pos": "QB"
+  },
+  "max_bench_team": {
+    "team": "Beth's Best Team",
+    "pts": 52.66
+  },
+  "goose_eggs": [
+    {
+      "team": "Joe Buck Yourself",
+      "player": "Ricky Pearsall",
+      "pts": 0.0,
+      "pos": "WR"
+    },
+    {
+      "team": "Joe's Finest Team",
+      "player": "Jalen Tolbert",
+      "pts": 0.0,
+      "pos": "WR"
+    },
+    {
+      "team": "Kermaine's Top-Notch Team",
+      "player": "Malik Washington",
+      "pts": 2.0,
+      "pos": "WR"
+    },
+    {
+      "team": "Rob's Unremarkable Team",
+      "player": "Sean Tucker",
+      "pts": 1.4,
+      "pos": "RB"
+    }
+  ],
+  "def_disasters": [
+    {
+      "team": "McConkeyTonk Badonkadonk",
+      "player": "Rams D/ST",
+      "pts": -2.0
+    },
+    {
+      "team": "Johnny Utah",
+      "player": "Buccaneers D/ST",
+      "pts": -4.0
+    },
+    {
+      "team": "Georgie N' tha' Cloons",
+      "player": "Seahawks D/ST",
+      "pts": -5.0
+    }
+  ],
+  "unlucky_losses": [
+    {
+      "team": "All Gas, No Brake",
+      "score": 120.96,
+      "beat_pct": 78.6
+    }
+  ],
+  "streaks": [
+    {
+      "team": "Schrammel's Mammals",
+      "type": "LOSS",
+      "length": 3
+    },
+    {
+      "team": "Tom's !Talented Team",
+      "type": "LOSS",
+      "length": 4
+    },
+    {
+      "team": "All Gas, No Brake",
+      "type": "LOSS",
+      "length": 3
+    },
+    {
+      "team": "Jake's Supreme Team",
+      "type": "WIN",
+      "length": 3
+    }
+  ],
+  "trades_count": 1,
+  "winners_first_names": [
+    "Joe",
+    "Beth",
+    "Jake",
+    "Evan",
+    "Rob",
+    "Carl",
+    "Angelo"
+  ],
+  "losers_first_names": [
+    "Riya",
+    "Kermaine",
+    "Zack",
+    "Brady",
+    "Tom",
+    "Justin",
+    "Deanna"
+  ]
+}
