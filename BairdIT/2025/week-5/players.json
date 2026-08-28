@@ -1,0 +1,39 @@
+{
+  "playerOfWeek": {"player": "C.J. Stroud", "pos": "QB", "nflTeam": "HOU", "fantasyTeam": "Wes Coast Offense ", "points": 36.76},
+  "topStarters": [
+    {"player": "C.J. Stroud", "pos": "QB", "fantasyTeam": "Wes Coast Offense ", "points": 36.76},
+    {"player": "Dak Prescott", "pos": "QB", "fantasyTeam": "Game of Throws", "points": 36.28},
+    {"player": "Matthew Stafford", "pos": "QB", "fantasyTeam": "Jackson’s Jukes", "points": 31.56},
+    {"player": "Rico Dowdle", "pos": "RB", "fantasyTeam": "Wes Coast Offense ", "points": 30.9},
+    {"player": "Baker Mayfield", "pos": "QB", "fantasyTeam": "Jackson’s Jukes", "points": 30.66}
+  ],
+  "qbDuels": [
+    {"note": "Both Dak Prescott (36.28) for Game of Throws and Baker Mayfield (30.66) for Jackson's Jukes went off in the same week."}
+  ],
+  "benchWarmer": {"player": "Trevor Lawrence", "pos": "QB", "fantasyTeam": "Little Saucy Boy", "points": 27.24},
+  "topBench": [
+    {"player": "Trevor Lawrence", "pos": "QB", "fantasyTeam": "Little Saucy Boy", "points": 27.24},
+    {"player": "Jacory Croskey-Merritt", "pos": "RB", "fantasyTeam": "Little Saucy Boy", "points": 26.0},
+    {"player": "Rachaad White", "pos": "RB", "fantasyTeam": "NY Jets 2 Holiday", "points": 21.1},
+    {"player": "Jake Ferguson", "pos": "TE", "fantasyTeam": "Amon A Boat!", "points": 20.4},
+    {"player": "Stefon Diggs", "pos": "WR", "fantasyTeam": "The Maddy Efffect ", "points": 19.6}
+  ],
+  "gooseEggsAndDisasters": [
+    {"player": "Brock Purdy", "pos": "QB", "fantasyTeam": "InstantRiyaPlay", "points": 0.0},
+    {"player": "Jameson Williams", "pos": "WR", "fantasyTeam": "Game of Throws", "points": 1.5},
+    {"player": "Justice Hill", "pos": "RB", "fantasyTeam": "Da Beers", "points": 1.7}
+  ],
+  "benchTotalsByTeam": {
+    "Little Saucy Boy": 72.74,
+    "NY Jets 2 Holiday": 66.18,
+    "Jackson’s Jukes": 50.54,
+    "The Maddy Efffect ": 42.62,
+    "Game of Throws": 36.6,
+    "Amon A Boat!": 36.1,
+    "Skibidi Solar": 31.8,
+    "Wes Coast Offense ": 18.0,
+    "Da Beers": 13.8,
+    "InstantRiyaPlay": 11.3
+  },
+  "rosterNote": "This league does not roster any K (kicker) slots/entries — kicker commentary omitted per roster reality check."
+}
