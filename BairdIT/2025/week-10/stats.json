@@ -1,0 +1,211 @@
+{
+  "league": "BairdIT",
+  "week": 10,
+  "season": 2025,
+  "matchups": [
+    {
+      "away_id": 7,
+      "home_id": 3,
+      "away_name": "Wes Coast Offense ",
+      "home_name": "Game of Throws",
+      "away_score": 138.42,
+      "home_score": 114.82,
+      "winner_id": 7,
+      "loser_id": 3,
+      "winner_name": "Wes Coast Offense ",
+      "loser_name": "Game of Throws",
+      "margin": 23.6
+    },
+    {
+      "away_id": 4,
+      "home_id": 6,
+      "away_name": "The Maddy Efffect ",
+      "home_name": "Skibidi Solar",
+      "away_score": 113.1,
+      "home_score": 70.94,
+      "winner_id": 4,
+      "loser_id": 6,
+      "winner_name": "The Maddy Efffect ",
+      "loser_name": "Skibidi Solar",
+      "margin": 42.16
+    },
+    {
+      "away_id": 12,
+      "home_id": 9,
+      "away_name": "Da Beers",
+      "home_name": "Jackson\u2019s Jukes",
+      "away_score": 78.02,
+      "home_score": 143.62,
+      "winner_id": 9,
+      "loser_id": 12,
+      "winner_name": "Jackson\u2019s Jukes",
+      "loser_name": "Da Beers",
+      "margin": 65.6
+    },
+    {
+      "away_id": 2,
+      "home_id": 1,
+      "away_name": "InstantRiyaPlay",
+      "home_name": "Amon A Boat!",
+      "away_score": 91.14,
+      "home_score": 109.14,
+      "winner_id": 1,
+      "loser_id": 2,
+      "winner_name": "Amon A Boat!",
+      "loser_name": "InstantRiyaPlay",
+      "margin": 18.0
+    },
+    {
+      "away_id": 8,
+      "home_id": 5,
+      "away_name": "NY Jets 2 Holiday",
+      "home_name": "Little Saucy Boy",
+      "away_score": 150.8,
+      "home_score": 113.22,
+      "winner_id": 8,
+      "loser_id": 5,
+      "winner_name": "NY Jets 2 Holiday",
+      "loser_name": "Little Saucy Boy",
+      "margin": 37.58
+    }
+  ],
+  "biggest_blowout": {
+    "away_id": 12,
+    "home_id": 9,
+    "away_name": "Da Beers",
+    "home_name": "Jackson\u2019s Jukes",
+    "away_score": 78.02,
+    "home_score": 143.62,
+    "winner_id": 9,
+    "loser_id": 12,
+    "winner_name": "Jackson\u2019s Jukes",
+    "loser_name": "Da Beers",
+    "margin": 65.6
+  },
+  "closest_game": {
+    "away_id": 2,
+    "home_id": 1,
+    "away_name": "InstantRiyaPlay",
+    "home_name": "Amon A Boat!",
+    "away_score": 91.14,
+    "home_score": 109.14,
+    "winner_id": 1,
+    "loser_id": 2,
+    "winner_name": "Amon A Boat!",
+    "loser_name": "InstantRiyaPlay",
+    "margin": 18.0
+  },
+  "highest_score": {
+    "team": "NY Jets 2 Holiday",
+    "points": 150.8
+  },
+  "lowest_score": {
+    "team": "Skibidi Solar",
+    "points": 70.94
+  },
+  "player_of_week": {
+    "player": "Jonathan Taylor",
+    "points": 48.1,
+    "team": "Little Saucy Boy",
+    "pos": 2
+  },
+  "bench_warmer": {
+    "player": "Jacoby Brissett",
+    "points": 23.42,
+    "team": "Amon A Boat!"
+  },
+  "goose_eggs": [
+    {
+      "player": "Emanuel Wilson",
+      "points": 0.9,
+      "team": "Game of Throws"
+    },
+    {
+      "player": "Kenneth Gainwell",
+      "points": 1.4,
+      "team": "The Maddy Efffect "
+    },
+    {
+      "player": "DJ Moore",
+      "points": 0.0,
+      "team": "Skibidi Solar"
+    },
+    {
+      "player": "Garrett Wilson",
+      "points": 0.0,
+      "team": "Amon A Boat!"
+    },
+    {
+      "player": "Romeo Doubs",
+      "points": 1.0,
+      "team": "Little Saucy Boy"
+    }
+  ],
+  "defensive_disasters": [],
+  "max_bench_points_team": {
+    "team": "Jackson\u2019s Jukes",
+    "points": 42.8
+  },
+  "unlucky_losses": [
+    {
+      "team": "Game of Throws",
+      "score": 114.82,
+      "rank": 4
+    },
+    {
+      "team": "Little Saucy Boy",
+      "score": 113.22,
+      "rank": 5
+    }
+  ],
+  "streaks": [
+    {
+      "team": "The Maddy Efffect ",
+      "type": "LOSS",
+      "length": 3
+    }
+  ],
+  "trades": [],
+  "sorted_scores": [
+    {
+      "team": "NY Jets 2 Holiday",
+      "score": 150.8
+    },
+    {
+      "team": "Jackson\u2019s Jukes",
+      "score": 143.62
+    },
+    {
+      "team": "Wes Coast Offense ",
+      "score": 138.42
+    },
+    {
+      "team": "Game of Throws",
+      "score": 114.82
+    },
+    {
+      "team": "Little Saucy Boy",
+      "score": 113.22
+    },
+    {
+      "team": "The Maddy Efffect ",
+      "score": 113.1
+    },
+    {
+      "team": "Amon A Boat!",
+      "score": 109.14
+    },
+    {
+      "team": "InstantRiyaPlay",
+      "score": 91.14
+    },
+    {
+      "team": "Da Beers",
+      "score": 78.02
+    },
+    {
+      "team": "Skibidi Solar",
+      "score": 70.94
+    }
+  ]
+}
