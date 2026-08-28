@@ -4,7 +4,7 @@ _Kermaine survives by 0.48 points, Beth gets run off the field by 69.38, and som
 
 ## ✅ Winners & ❌ Losers
 
-**Congratulations to this week's winners:** Carl, Tom, Angelo, Zack, Rob, Brady, Kermaine
+**Congratulations to this week's winners:** Carl, Tom, Angelo/William, Zack, Rob, Brady, Kermaine
 
 **Better luck next time, losers:** Joe, Deanna, Evan, Justin, Beth, Riya, Jake
 
@@ -28,6 +28,8 @@ _Kermaine survives by 0.48 points, Beth gets run off the field by 69.38, and som
 - **🥶 Lowest Score:** Beth's Best Team — 51.34 points. Not exactly living up to the name this week, Beth.
 - **⭐ Player of the Week:** Jonathan Taylor (RB, Colts) — 48.1 points for Jake's Supreme Team.
 - **🪑 Bench Warmer of the Week:** Kermaine left Caleb Williams (25.1 pts) glued to the bench — and still won by 0.48. Insane.
+- **🎯 Most Accurate Lineup:** Georgie N' tha' Cloons started 100.0% of their optimal lineup (138.8 of 138.8 points). Perfect week.
+- **🪦 Least Accurate Lineup:** Beth's Best Team used only 81.6% of their optimal lineup (51.34 of 62.92 points). A bad week made worse.
 
 ## 📣 Shoutouts
 

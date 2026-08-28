@@ -26,10 +26,12 @@ _NY Jets 2 Holiday drops 150.8 like it's nothing, and Skibidi Solar just... didn
 - **🥶 Lowest Score:** Skibidi Solar — 70.94 points. Skibidi rizz, zero points.
 - **⭐ Player of the Week:** Jonathan Taylor (RB, Colts) — 48.1 points for Little Saucy Boy.
 - **🪑 Bench Warmer of the Week:** Amon A Boat! parked Jacoby Brissett (23.42 pts) on the bench all week.
+- **🎯 Most Accurate Lineup:** Skibidi Solar started 97.0% of their optimal lineup (70.94 of 73.14 points). Efficient, even in defeat.
+- **🪦 Least Accurate Lineup:** Da Beers used only 74.5% of their optimal lineup (78.02 of 104.68 points). Left over 26 points on the bench in a blowout loss.
 
 ## 📣 Shoutouts
 
-- Little Saucy Boy scored 113.22 — the 5th-highest score of the week, boosted by Jonathan Taylor's 48-point explosion — and still went home with a loss. Tough beat.
+- Game of Throws scored 114.82 — the 4th-highest total of the week — and still dropped the game to Wes Coast Offense. That's the unlucky loss of the week.
 - Jackson's Jukes left a league-high 42.8 points riding the pine and still cruised to a blowout win. Imagine winning by 65 with your B-team.
 - The Maddy Efffect snapped a 3-game losing streak with a comfortable win over Skibidi Solar. Welcome back to the win column, Madalyn.
 

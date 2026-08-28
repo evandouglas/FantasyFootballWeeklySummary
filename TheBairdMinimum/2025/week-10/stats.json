@@ -1,210 +1,190 @@
 {
-  "league": "TheBairdMinimum",
+  "league_key": "TheBairdMinimum",
   "week": 10,
   "season": 2025,
-  "matchups": [
+  "games": [
     {
-      "away_id": 5,
-      "home_id": 13,
-      "away_name": "Schrammel's Mammals",
-      "home_name": "Joe's Finest Team",
-      "away_score": 116.6,
-      "home_score": 108.78,
-      "winner_id": 5,
-      "loser_id": 13,
-      "winner_name": "Schrammel's Mammals",
-      "loser_name": "Joe's Finest Team",
+      "winner": "Schrammel's Mammals",
+      "winner_score": 116.6,
+      "loser": "Joe's Finest Team",
+      "loser_score": 108.78,
       "margin": 7.82
     },
     {
-      "away_id": 8,
-      "home_id": 4,
-      "away_name": "Tom's !Talented Team",
-      "home_name": "Deanna's Daring Team",
-      "away_score": 105.14,
-      "home_score": 59.44,
-      "winner_id": 8,
-      "loser_id": 4,
-      "winner_name": "Tom's !Talented Team",
-      "loser_name": "Deanna's Daring Team",
+      "winner": "Tom's !Talented Team",
+      "winner_score": 105.14,
+      "loser": "Deanna's Daring Team",
+      "loser_score": 59.44,
       "margin": 45.7
     },
     {
-      "away_id": 2,
-      "home_id": 3,
-      "away_name": "McConkeyTonk Badonkadonk",
-      "home_name": "Georgie N' tha' Cloons",
-      "away_score": 78.1,
-      "home_score": 138.8,
-      "winner_id": 3,
-      "loser_id": 2,
-      "winner_name": "Georgie N' tha' Cloons",
-      "loser_name": "McConkeyTonk Badonkadonk",
+      "winner": "Georgie N' tha' Cloons",
+      "winner_score": 138.8,
+      "loser": "McConkeyTonk Badonkadonk",
+      "loser_score": 78.1,
       "margin": 60.7
     },
     {
-      "away_id": 10,
-      "home_id": 9,
-      "away_name": "All Gas, No Brake",
-      "home_name": "Johnny Utah",
-      "away_score": 113.4,
-      "home_score": 89.2,
-      "winner_id": 10,
-      "loser_id": 9,
-      "winner_name": "All Gas, No Brake",
-      "loser_name": "Johnny Utah",
+      "winner": "All Gas, No Brake",
+      "winner_score": 113.4,
+      "loser": "Johnny Utah",
+      "loser_score": 89.2,
       "margin": 24.2
     },
     {
-      "away_id": 14,
-      "home_id": 7,
-      "away_name": "Beth's Best Team",
-      "home_name": "Rob's Unremarkable Team",
-      "away_score": 51.34,
-      "home_score": 120.72,
-      "winner_id": 7,
-      "loser_id": 14,
-      "winner_name": "Rob's Unremarkable Team",
-      "loser_name": "Beth's Best Team",
+      "winner": "Rob's Unremarkable Team",
+      "winner_score": 120.72,
+      "loser": "Beth's Best Team",
+      "loser_score": 51.34,
       "margin": 69.38
     },
     {
-      "away_id": 1,
-      "home_id": 12,
-      "away_name": "Joe Buck Yourself",
-      "home_name": "Brady's Brilliant Team",
-      "away_score": 78.14,
-      "home_score": 102.46,
-      "winner_id": 12,
-      "loser_id": 1,
-      "winner_name": "Brady's Brilliant Team",
-      "loser_name": "Joe Buck Yourself",
+      "winner": "Brady's Brilliant Team",
+      "winner_score": 102.46,
+      "loser": "Joe Buck Yourself",
+      "loser_score": 78.14,
       "margin": 24.32
     },
     {
-      "away_id": 6,
-      "home_id": 11,
-      "away_name": "Kermaine's Top-Notch Team",
-      "home_name": "Jake's Supreme Team",
-      "away_score": 126.4,
-      "home_score": 125.92,
-      "winner_id": 6,
-      "loser_id": 11,
-      "winner_name": "Kermaine's Top-Notch Team",
-      "loser_name": "Jake's Supreme Team",
+      "winner": "Kermaine's Top-Notch Team",
+      "winner_score": 126.4,
+      "loser": "Jake's Supreme Team",
+      "loser_score": 125.92,
       "margin": 0.48
     }
   ],
   "biggest_blowout": {
-    "away_id": 14,
-    "home_id": 7,
-    "away_name": "Beth's Best Team",
-    "home_name": "Rob's Unremarkable Team",
-    "away_score": 51.34,
-    "home_score": 120.72,
-    "winner_id": 7,
-    "loser_id": 14,
-    "winner_name": "Rob's Unremarkable Team",
-    "loser_name": "Beth's Best Team",
+    "winner": "Rob's Unremarkable Team",
+    "loser": "Beth's Best Team",
     "margin": 69.38
   },
   "closest_game": {
-    "away_id": 6,
-    "home_id": 11,
-    "away_name": "Kermaine's Top-Notch Team",
-    "home_name": "Jake's Supreme Team",
-    "away_score": 126.4,
-    "home_score": 125.92,
-    "winner_id": 6,
-    "loser_id": 11,
-    "winner_name": "Kermaine's Top-Notch Team",
-    "loser_name": "Jake's Supreme Team",
+    "winner": "Kermaine's Top-Notch Team",
+    "loser": "Jake's Supreme Team",
     "margin": 0.48
   },
   "highest_score": {
     "team": "Georgie N' tha' Cloons",
-    "points": 138.8
+    "score": 138.8
   },
   "lowest_score": {
     "team": "Beth's Best Team",
-    "points": 51.34
+    "score": 51.34
+  },
+  "unlucky_loss": {
+    "team": "Jake's Supreme Team",
+    "score": 125.92
   },
   "player_of_week": {
-    "player": "Jonathan Taylor",
-    "points": 48.1,
-    "team": "Jake's Supreme Team",
-    "pos": 2
+    "team_id": 11,
+    "name": "Jonathan Taylor",
+    "pos_id": 2,
+    "pro_team_id": 11,
+    "points": 48.10000000000001,
+    "slot": 2,
+    "started": true
   },
-  "bench_warmer": {
-    "player": "Caleb Williams",
+  "best_benched": {
+    "team_id": 6,
+    "name": "Caleb Williams",
+    "pos_id": 1,
+    "pro_team_id": 3,
     "points": 25.1,
-    "team": "Kermaine's Top-Notch Team"
+    "slot": 20,
+    "started": false
   },
   "goose_eggs": [
     {
-      "player": "Josh Downs",
+      "team_id": 13,
+      "name": "Josh Downs",
+      "pos_id": 3,
+      "pro_team_id": 11,
       "points": 0.8,
-      "team": "Joe's Finest Team"
+      "slot": 4,
+      "started": true
     },
     {
-      "player": "Jonnu Smith",
+      "team_id": 4,
+      "name": "Jonnu Smith",
+      "pos_id": 4,
+      "pro_team_id": 23,
       "points": 0.9,
-      "team": "Deanna's Daring Team"
+      "slot": 23,
+      "started": true
     },
     {
-      "player": "T.J. Hockenson",
+      "team_id": 3,
+      "name": "T.J. Hockenson",
+      "pos_id": 4,
+      "pro_team_id": 16,
       "points": 1.8,
-      "team": "Georgie N' tha' Cloons"
+      "slot": 6,
+      "started": true
     },
     {
-      "player": "Garrett Wilson",
+      "team_id": 14,
+      "name": "Garrett Wilson",
+      "pos_id": 3,
+      "pro_team_id": 20,
       "points": 0.0,
-      "team": "Beth's Best Team"
+      "slot": 4,
+      "started": true
     },
     {
-      "player": "Hunter Henry",
+      "team_id": 14,
+      "name": "Hunter Henry",
+      "pos_id": 4,
+      "pro_team_id": 17,
       "points": 1.4,
-      "team": "Beth's Best Team"
+      "slot": 6,
+      "started": true
     },
     {
-      "player": "Ryan Fitzgerald",
+      "team_id": 14,
+      "name": "Ryan Fitzgerald",
+      "pos_id": 5,
+      "pro_team_id": 29,
       "points": 0.0,
-      "team": "Beth's Best Team"
+      "slot": 17,
+      "started": true
     },
     {
-      "player": "Eddy Pineiro",
-      "points": 2.0,
-      "team": "Kermaine's Top-Notch Team"
-    },
-    {
-      "player": "Matt Prater",
+      "team_id": 11,
+      "name": "Matt Prater",
+      "pos_id": 5,
+      "pro_team_id": 2,
       "points": 1.0,
-      "team": "Jake's Supreme Team"
-    }
-  ],
-  "defensive_disasters": [
+      "slot": 17,
+      "started": true
+    },
     {
-      "player": "Buccaneers D/ST",
-      "points": -1.0,
-      "team": "Kermaine's Top-Notch Team"
+      "team_id": 6,
+      "name": "Eddy Pineiro",
+      "pos_id": 5,
+      "pro_team_id": 25,
+      "points": 2.0,
+      "slot": 17,
+      "started": true
     }
   ],
-  "max_bench_points_team": {
+  "def_disasters": [
+    {
+      "team_id": 6,
+      "name": "Buccaneers D/ST",
+      "pos_id": 16,
+      "pro_team_id": 27,
+      "points": -1.0,
+      "slot": 16,
+      "started": true
+    }
+  ],
+  "top_bench_team": {
     "team": "Kermaine's Top-Notch Team",
     "points": 40.2
   },
-  "unlucky_losses": [
-    {
-      "team": "Joe's Finest Team",
-      "score": 108.78,
-      "rank": 7
-    },
-    {
-      "team": "Jake's Supreme Team",
-      "score": 125.92,
-      "rank": 3
-    }
-  ],
+  "has_dst": true,
+  "has_k": true,
+  "trades": [],
   "streaks": [
     {
       "team": "Schrammel's Mammals",
@@ -227,63 +207,88 @@
       "length": 3
     }
   ],
-  "trades": [],
-  "sorted_scores": [
-    {
-      "team": "Georgie N' tha' Cloons",
-      "score": 138.8
+  "lineup_efficiency": {
+    "Joe Buck Yourself": {
+      "actual_points": 78.14,
+      "optimal_points": 89.44,
+      "accuracy_pct": 87.4
     },
-    {
-      "team": "Kermaine's Top-Notch Team",
-      "score": 126.4
+    "McConkeyTonk Badonkadonk": {
+      "actual_points": 78.1,
+      "optimal_points": 79.4,
+      "accuracy_pct": 98.4
     },
-    {
-      "team": "Jake's Supreme Team",
-      "score": 125.92
+    "Georgie N' tha' Cloons": {
+      "actual_points": 138.8,
+      "optimal_points": 138.8,
+      "accuracy_pct": 100.0
     },
-    {
-      "team": "Rob's Unremarkable Team",
-      "score": 120.72
+    "Deanna's Daring Team": {
+      "actual_points": 59.44,
+      "optimal_points": 64.04,
+      "accuracy_pct": 92.8
     },
-    {
-      "team": "Schrammel's Mammals",
-      "score": 116.6
+    "Schrammel's Mammals": {
+      "actual_points": 116.6,
+      "optimal_points": 126.7,
+      "accuracy_pct": 92.0
     },
-    {
-      "team": "All Gas, No Brake",
-      "score": 113.4
+    "Kermaine's Top-Notch Team": {
+      "actual_points": 126.4,
+      "optimal_points": 136.8,
+      "accuracy_pct": 92.4
     },
-    {
-      "team": "Joe's Finest Team",
-      "score": 108.78
+    "Rob's Unremarkable Team": {
+      "actual_points": 120.72,
+      "optimal_points": 121.52,
+      "accuracy_pct": 99.3
     },
-    {
-      "team": "Tom's !Talented Team",
-      "score": 105.14
+    "Tom's !Talented Team": {
+      "actual_points": 105.14,
+      "optimal_points": 109.94,
+      "accuracy_pct": 95.6
     },
-    {
-      "team": "Brady's Brilliant Team",
-      "score": 102.46
+    "Johnny Utah": {
+      "actual_points": 89.2,
+      "optimal_points": 99.3,
+      "accuracy_pct": 89.8
     },
-    {
-      "team": "Johnny Utah",
-      "score": 89.2
+    "All Gas, No Brake": {
+      "actual_points": 113.4,
+      "optimal_points": 124.1,
+      "accuracy_pct": 91.4
     },
-    {
-      "team": "Joe Buck Yourself",
-      "score": 78.14
+    "Jake's Supreme Team": {
+      "actual_points": 125.92,
+      "optimal_points": 137.42,
+      "accuracy_pct": 91.6
     },
-    {
-      "team": "McConkeyTonk Badonkadonk",
-      "score": 78.1
+    "Brady's Brilliant Team": {
+      "actual_points": 102.46,
+      "optimal_points": 118.26,
+      "accuracy_pct": 86.6
     },
-    {
-      "team": "Deanna's Daring Team",
-      "score": 59.44
+    "Joe's Finest Team": {
+      "actual_points": 108.78,
+      "optimal_points": 128.88,
+      "accuracy_pct": 84.4
     },
-    {
-      "team": "Beth's Best Team",
-      "score": 51.34
+    "Beth's Best Team": {
+      "actual_points": 51.34,
+      "optimal_points": 62.92,
+      "accuracy_pct": 81.6
     }
-  ]
+  },
+  "most_accurate_lineup": {
+    "team": "Georgie N' tha' Cloons",
+    "actual_points": 138.8,
+    "optimal_points": 138.8,
+    "accuracy_pct": 100.0
+  },
+  "least_accurate_lineup": {
+    "team": "Beth's Best Team",
+    "actual_points": 51.34,
+    "optimal_points": 62.92,
+    "accuracy_pct": 81.6
+  }
 }
