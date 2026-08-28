@@ -30,14 +30,49 @@ def week_points(entry, week):
     return 0.0
 
 
-def starting_slots(settings):
+def get_week_rosters(data, week):
+    """Return list of (teamId, roster_entries) for the given week's matchups.
+
+    This league's cached data.json does not include settings.rosterSettings or
+    team.roster; per-team weekly rosters live in schedule[].home/away.rosterForCurrentScoringPeriod.
+    """
+    rosters = []
+    for matchup in data.get("schedule", []):
+        if matchup.get("matchupPeriodId") != week:
+            continue
+        for side in ("home", "away"):
+            side_data = matchup.get(side)
+            if not side_data:
+                continue
+            roster = side_data.get("rosterForCurrentScoringPeriod") or side_data.get("rosterForMatchupPeriod")
+            if not roster:
+                continue
+            rosters.append((side_data["teamId"], roster.get("entries", [])))
+    return rosters
+
+
+def starting_slots(settings, rosters):
     counts = settings.get("rosterSettings", {}).get("lineupSlotCounts", {})
-    return [
-        int(slot_id)
-        for slot_id, count in counts.items()
-        if int(slot_id) not in BENCH_SLOTS
-        for _ in range(count)
-    ]
+    if counts:
+        return [
+            int(slot_id)
+            for slot_id, count in counts.items()
+            if int(slot_id) not in BENCH_SLOTS
+            for _ in range(count)
+        ]
+
+    # Fallback: settings didn't include configured slot counts (observed in some
+    # cached responses). Infer required starting slots from the max number of
+    # players any team actually started in each non-bench slot this week.
+    from collections import Counter
+
+    max_counts = Counter()
+    for _, entries in rosters:
+        team_counts = Counter(e["lineupSlotId"] for e in entries if e["lineupSlotId"] not in BENCH_SLOTS)
+        for slot_id, count in team_counts.items():
+            max_counts[slot_id] = max(max_counts[slot_id], count)
+
+    return [slot_id for slot_id, count in max_counts.items() for _ in range(count)]
 
 
 def best_lineup(slots, candidates):
@@ -63,10 +98,10 @@ def best_lineup(slots, candidates):
     return result
 
 
-def team_efficiency(team, slots, week):
+def team_efficiency(entries, slots, week):
     candidates = []
     actual_points = 0.0
-    for entry in team.get("roster", {}).get("entries", []):
+    for entry in entries:
         lineup_slot = entry.get("lineupSlotId")
         if lineup_slot == 21:  # IR players aren't eligible to move into a starting slot
             continue
@@ -94,10 +129,11 @@ def main():
     with open(data_path, encoding="utf-8") as f:
         data = json.load(f)
 
-    slots = starting_slots(data.get("settings", {}))
+    rosters = get_week_rosters(data, week)
+    slots = starting_slots(data.get("settings", {}), rosters)
     results = {
-        str(team["id"]): team_efficiency(team, slots, week)
-        for team in data.get("teams", [])
+        str(team_id): team_efficiency(entries, slots, week)
+        for team_id, entries in rosters
     }
     print(json.dumps(results, indent=2))
 

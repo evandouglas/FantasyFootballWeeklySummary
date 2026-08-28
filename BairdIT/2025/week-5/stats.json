@@ -1,0 +1,169 @@
+{
+  "league_name": "Baird IT",
+  "week": 5,
+  "season": 2025,
+  "games": [
+    {
+      "home_id": 4,
+      "away_id": 5,
+      "home_name": "The Maddy Efffect ",
+      "away_name": "Little Saucy Boy",
+      "home_score": 100.52,
+      "away_score": 129.76,
+      "winner": "AWAY",
+      "margin": 29.24
+    },
+    {
+      "home_id": 2,
+      "away_id": 3,
+      "home_name": "InstantRiyaPlay",
+      "away_name": "Game of Throws",
+      "home_score": 121.0,
+      "away_score": 123.48,
+      "winner": "AWAY",
+      "margin": 2.48
+    },
+    {
+      "home_id": 8,
+      "away_id": 9,
+      "home_name": "NY Jets 2 Holiday",
+      "away_name": "Jackson\u2019s Jukes",
+      "home_score": 135.34,
+      "away_score": 148.02,
+      "winner": "AWAY",
+      "margin": 12.68
+    },
+    {
+      "home_id": 1,
+      "away_id": 6,
+      "home_name": "Amon A Boat!",
+      "away_name": "Skibidi Solar",
+      "home_score": 101.42,
+      "away_score": 113.64,
+      "winner": "AWAY",
+      "margin": 12.22
+    },
+    {
+      "home_id": 12,
+      "away_id": 7,
+      "home_name": "Da Beers",
+      "away_name": "Wes Coast Offense ",
+      "home_score": 86.7,
+      "away_score": 156.0,
+      "winner": "AWAY",
+      "margin": 69.3
+    }
+  ],
+  "highest": [
+    "Wes Coast Offense ",
+    156.0,
+    7
+  ],
+  "lowest": [
+    "Da Beers",
+    86.7,
+    12
+  ],
+  "blowout": {
+    "home_id": 12,
+    "away_id": 7,
+    "home_name": "Da Beers",
+    "away_name": "Wes Coast Offense ",
+    "home_score": 86.7,
+    "away_score": 156.0,
+    "winner": "AWAY",
+    "margin": 69.3
+  },
+  "closest": {
+    "home_id": 2,
+    "away_id": 3,
+    "home_name": "InstantRiyaPlay",
+    "away_name": "Game of Throws",
+    "home_score": 121.0,
+    "away_score": 123.48,
+    "winner": "AWAY",
+    "margin": 2.48
+  },
+  "winners": [
+    "Rob",
+    "Demarion",
+    "Julianna",
+    "Benjamin",
+    "Wesley"
+  ],
+  "losers": [
+    "Madalyn",
+    "Riya",
+    "Evan",
+    "Ryan",
+    "Nick"
+  ],
+  "unlucky": [
+    "NY Jets 2 Holiday",
+    135.34
+  ],
+  "best_player": [
+    36.76,
+    "C.J. Stroud",
+    "QB",
+    "Wes Coast Offense "
+  ],
+  "best_bench": [
+    27.240000000000002,
+    "Trevor Lawrence",
+    "QB",
+    "Little Saucy Boy"
+  ],
+  "goose_eggs": [
+    [
+      "Brock Purdy",
+      0.0,
+      "QB",
+      "InstantRiyaPlay"
+    ],
+    [
+      "Jameson Williams",
+      1.5,
+      "WR",
+      "Game of Throws"
+    ],
+    [
+      "Justice Hill",
+      1.7000000000000002,
+      "RB",
+      "Da Beers"
+    ]
+  ],
+  "def_disasters": [],
+  "top_bench_team": [
+    "Little Saucy Boy",
+    72.74000000000001
+  ],
+  "trades": [],
+  "streaks": [
+    [
+      "The Maddy Efffect ",
+      "Madalyn",
+      "LOSS",
+      3
+    ]
+  ],
+  "most_accurate": [
+    "Wes Coast Offense ",
+    98.6,
+    156.0,
+    158.2
+  ],
+  "least_accurate": [
+    "Little Saucy Boy",
+    78.0,
+    129.76,
+    166.38
+  ],
+  "positions_used": [
+    1,
+    2,
+    3,
+    4
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "player_of_week": {
+    "name": "Rico Dowdle",
+    "position": "RB",
+    "points": 30.900000000000002,
+    "team": "All Gas, No Brake"
+  },
+  "bench_warmer": {
+    "name": "Dak Prescott",
+    "position": "QB",
+    "points": 28.28,
+    "team": "All Gas, No Brake"
+  },
+  "goose_eggs": [
+    {
+      "name": "Ricky Pearsall",
+      "points": 0.0,
+      "position": "WR",
+      "team": "Joe Buck Yourself"
+    },
+    {
+      "name": "Jalen Tolbert",
+      "points": 0.0,
+      "position": "WR",
+      "team": "Joe's Finest Team"
+    },
+    {
+      "name": "Sean Tucker",
+      "points": 1.4,
+      "position": "RB",
+      "team": "Rob's Unremarkable Team"
+    },
+    {
+      "name": "Malik Washington",
+      "points": 2.0,
+      "position": "WR",
+      "team": "Kermaine's Top-Notch Team"
+    },
+    {
+      "name": "Spencer Shrader",
+      "points": 2.0,
+      "position": "K",
+      "team": "Tom's !Talented Team"
+    }
+  ],
+  "def_disasters": [
+    {
+      "name": "Rams D/ST",
+      "points": -2.0,
+      "team": "McConkeyTonk Badonkadonk"
+    },
+    {
+      "name": "Buccaneers D/ST",
+      "points": -4.0,
+      "team": "Johnny Utah"
+    },
+    {
+      "name": "Seahawks D/ST",
+      "points": -5.0,
+      "team": "Georgie N' tha' Cloons"
+    }
+  ]
+}

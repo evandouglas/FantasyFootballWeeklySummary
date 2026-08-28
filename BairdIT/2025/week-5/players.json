@@ -1,0 +1,35 @@
+{
+  "player_of_week": {
+    "name": "C.J. Stroud",
+    "position": "QB",
+    "points": 36.76,
+    "team": "Wes Coast Offense "
+  },
+  "bench_warmer": {
+    "name": "Trevor Lawrence",
+    "position": "QB",
+    "points": 27.240000000000002,
+    "team": "Little Saucy Boy"
+  },
+  "goose_eggs": [
+    {
+      "name": "Brock Purdy",
+      "points": 0.0,
+      "position": "QB",
+      "team": "InstantRiyaPlay"
+    },
+    {
+      "name": "Jameson Williams",
+      "points": 1.5,
+      "position": "WR",
+      "team": "Game of Throws"
+    },
+    {
+      "name": "Justice Hill",
+      "points": 1.7000000000000002,
+      "position": "RB",
+      "team": "Da Beers"
+    }
+  ],
+  "def_disasters": []
+}

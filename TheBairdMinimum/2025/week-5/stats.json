@@ -1,0 +1,241 @@
+{
+  "league_name": "The Baird Minimum",
+  "week": 5,
+  "season": 2025,
+  "games": [
+    {
+      "home_id": 1,
+      "away_id": 13,
+      "home_name": "Joe Buck Yourself",
+      "away_name": "Joe's Finest Team",
+      "home_score": 93.9,
+      "away_score": 103.72,
+      "winner": "AWAY",
+      "margin": 9.82
+    },
+    {
+      "home_id": 6,
+      "away_id": 14,
+      "home_name": "Kermaine's Top-Notch Team",
+      "away_name": "Beth's Best Team",
+      "home_score": 83.58,
+      "away_score": 121.02,
+      "winner": "AWAY",
+      "margin": 37.44
+    },
+    {
+      "home_id": 11,
+      "away_id": 10,
+      "home_name": "Jake's Supreme Team",
+      "away_name": "All Gas, No Brake",
+      "home_score": 127.74,
+      "away_score": 120.96,
+      "winner": "HOME",
+      "margin": 6.78
+    },
+    {
+      "home_id": 12,
+      "away_id": 2,
+      "home_name": "Brady's Brilliant Team",
+      "away_name": "McConkeyTonk Badonkadonk",
+      "home_score": 92.86,
+      "away_score": 99.58,
+      "winner": "AWAY",
+      "margin": 6.72
+    },
+    {
+      "home_id": 7,
+      "away_id": 8,
+      "home_name": "Rob's Unremarkable Team",
+      "away_name": "Tom's !Talented Team",
+      "home_score": 103.4,
+      "away_score": 93.2,
+      "winner": "HOME",
+      "margin": 10.2
+    },
+    {
+      "home_id": 9,
+      "away_id": 5,
+      "home_name": "Johnny Utah",
+      "away_name": "Schrammel's Mammals",
+      "home_score": 92.24,
+      "away_score": 107.52,
+      "winner": "AWAY",
+      "margin": 15.28
+    },
+    {
+      "home_id": 3,
+      "away_id": 4,
+      "home_name": "Georgie N' tha' Cloons",
+      "away_name": "Deanna's Daring Team",
+      "home_score": 104.02,
+      "away_score": 96.62,
+      "winner": "HOME",
+      "margin": 7.4
+    }
+  ],
+  "highest": [
+    "Jake's Supreme Team",
+    127.74,
+    11
+  ],
+  "lowest": [
+    "Kermaine's Top-Notch Team",
+    83.58,
+    6
+  ],
+  "blowout": {
+    "home_id": 6,
+    "away_id": 14,
+    "home_name": "Kermaine's Top-Notch Team",
+    "away_name": "Beth's Best Team",
+    "home_score": 83.58,
+    "away_score": 121.02,
+    "winner": "AWAY",
+    "margin": 37.44
+  },
+  "closest": {
+    "home_id": 12,
+    "away_id": 2,
+    "home_name": "Brady's Brilliant Team",
+    "away_name": "McConkeyTonk Badonkadonk",
+    "home_score": 92.86,
+    "away_score": 99.58,
+    "winner": "AWAY",
+    "margin": 6.72
+  },
+  "winners": [
+    "Joe",
+    "Beth",
+    "Jake",
+    "Evan",
+    "Rob",
+    "Carl",
+    "Angelo & William"
+  ],
+  "losers": [
+    "Riya",
+    "Kermaine",
+    "Zack",
+    "Brady",
+    "Tom",
+    "Justin",
+    "Deanna"
+  ],
+  "unlucky": [
+    "All Gas, No Brake",
+    120.96
+  ],
+  "best_player": [
+    30.900000000000002,
+    "Rico Dowdle",
+    "RB",
+    "All Gas, No Brake"
+  ],
+  "best_bench": [
+    28.28,
+    "Dak Prescott",
+    "QB",
+    "All Gas, No Brake"
+  ],
+  "goose_eggs": [
+    [
+      "Ricky Pearsall",
+      0.0,
+      "WR",
+      "Joe Buck Yourself"
+    ],
+    [
+      "Jalen Tolbert",
+      0.0,
+      "WR",
+      "Joe's Finest Team"
+    ],
+    [
+      "Sean Tucker",
+      1.4,
+      "RB",
+      "Rob's Unremarkable Team"
+    ],
+    [
+      "Malik Washington",
+      2.0,
+      "WR",
+      "Kermaine's Top-Notch Team"
+    ],
+    [
+      "Spencer Shrader",
+      2.0,
+      "K",
+      "Tom's !Talented Team"
+    ]
+  ],
+  "def_disasters": [
+    [
+      "Rams D/ST",
+      -2.0,
+      "McConkeyTonk Badonkadonk"
+    ],
+    [
+      "Buccaneers D/ST",
+      -4.0,
+      "Johnny Utah"
+    ],
+    [
+      "Seahawks D/ST",
+      -5.0,
+      "Georgie N' tha' Cloons"
+    ]
+  ],
+  "top_bench_team": [
+    "Beth's Best Team",
+    52.66
+  ],
+  "trades": [],
+  "streaks": [
+    [
+      "Schrammel's Mammals",
+      "Carl",
+      "LOSS",
+      3
+    ],
+    [
+      "Tom's !Talented Team",
+      "Tom",
+      "LOSS",
+      4
+    ],
+    [
+      "All Gas, No Brake",
+      "Zack",
+      "LOSS",
+      3
+    ],
+    [
+      "Jake's Supreme Team",
+      "Jake",
+      "WIN",
+      3
+    ]
+  ],
+  "most_accurate": [
+    "Joe Buck Yourself",
+    100.0,
+    93.9,
+    93.9
+  ],
+  "least_accurate": [
+    "Beth's Best Team",
+    82.9,
+    121.02,
+    145.96
+  ],
+  "positions_used": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    16
+  ]
+}
