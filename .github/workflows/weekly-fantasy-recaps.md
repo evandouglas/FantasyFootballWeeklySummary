@@ -142,6 +142,7 @@ safe-outputs:
       - "*/*/week-*/stats.json"
       - "*/*/week-*/players.json"
       - "*/*/week-*/recap.md"
+      - "scripts/*.py"
     protected-files: blocked
     fallback-as-issue: false
 ---
