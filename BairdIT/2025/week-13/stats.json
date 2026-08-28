@@ -1,0 +1,41 @@
+{
+  "league": "Baird IT",
+  "season": 2025,
+  "week": 13,
+  "matchups": [
+    {"home": "InstantRiyaPlay", "home_score": 105.38, "away": "Little Saucy Boy", "away_score": 103.4, "winner": "InstantRiyaPlay", "margin": 1.98},
+    {"home": "Amon A Boat!", "home_score": 121.46, "away": "The Maddy Efffect", "away_score": 72.14, "winner": "Amon A Boat!", "margin": 49.32},
+    {"home": "Jackson's Jukes", "home_score": 80.98, "away": "NY Jets 2 Holiday", "away_score": 118.9, "winner": "NY Jets 2 Holiday", "margin": 37.92},
+    {"home": "Skibidi Solar", "home_score": 140.16, "away": "Game of Throws", "away_score": 129.7, "winner": "Skibidi Solar", "margin": 10.46},
+    {"home": "Wes Coast Offense", "home_score": 72.48, "away": "Da Beers", "away_score": 99.24, "winner": "Da Beers", "margin": 26.76}
+  ],
+  "superlatives": {
+    "biggest_blowout": {"winner": "Amon A Boat!", "loser": "The Maddy Efffect", "margin": 49.32},
+    "closest_game": {"winner": "InstantRiyaPlay", "loser": "Little Saucy Boy", "margin": 1.98},
+    "highest_score": {"team": "Skibidi Solar", "score": 140.16},
+    "lowest_score": {"team": "The Maddy Efffect", "score": 72.14},
+    "player_of_week": {"player": "Patrick Mahomes", "position": "QB", "team": "NY Jets 2 Holiday", "points": 37.44},
+    "bench_warmer": {"team": "Amon A Boat!", "player": "Joe Burrow", "points": 23.24},
+    "most_accurate_lineup": {"team": "Game of Throws", "actual": 129.7, "optimal": 132.7, "accuracy_pct": 97.7},
+    "least_accurate_lineup": {"team": "Wes Coast Offense", "actual": 72.48, "optimal": 104.68, "accuracy_pct": 69.2}
+  },
+  "unlucky_loss": {"team": "Game of Throws", "score": 129.7},
+  "goose_eggs_count": 6,
+  "defensive_disasters": [{"team": "Wes Coast Offense", "player": "Zay Flowers", "points": -0.4}],
+  "max_bench_points": {"team": "Amon A Boat!", "points": 79.3},
+  "streaks": {
+    "win_streaks_3plus": [],
+    "loss_streaks_3plus": [{"team": "The Maddy Efffect", "length": 3}]
+  },
+  "playoff_context": {
+    "note": "Week 13 - heavy playoff seeding implications",
+    "top_seeds": [
+      {"seed": 1, "team": "NY Jets 2 Holiday", "record": "9-5"},
+      {"seed": 3, "team": "Wes Coast Offense", "record": "9-5"},
+      {"seed": 4, "team": "Jackson's Jukes", "record": "9-5"}
+    ],
+    "winless_watch_note": "Skibidi Solar, InstantRiyaPlay, The Maddy Efffect all at 4-10, effectively eliminated from playoff contention"
+  },
+  "trades": [],
+  "verification_note": "All scores/superlatives verified against sorted totalPoints from data.json schedule entries for matchupPeriodId 13."
+}

@@ -1,0 +1,29 @@
+{
+  "player_of_week": {"player": "A.J. Brown", "position": "WR", "nfl_team": "Philadelphia", "fantasy_team": "Deanna's Daring Team", "points": 30.2},
+  "bench_warmer_of_week": {"player": "Bryce Young", "position": "QB", "fantasy_team": "Joe Buck Yourself", "points": 22.54, "note": "Left on bench while starting QB underperformed"},
+  "goose_eggs": [
+    {"team": "Georgie N' tha' Cloons", "player": "Michael Pittman Jr.", "points": 1.8},
+    {"team": "Rob's Unremarkable Team", "player": "Rams D/ST", "points": 1.0},
+    {"team": "Deanna's Daring Team", "player": "Justin Jefferson", "points": 1.4},
+    {"team": "Deanna's Daring Team", "player": "Tyler Loop", "points": 2.0},
+    {"team": "Brady's Brilliant Team", "player": "Amon-Ra St. Brown", "points": 0.0},
+    {"team": "Brady's Brilliant Team", "player": "Rome Odunze", "points": 1.8},
+    {"team": "Brady's Brilliant Team", "player": "Ravens D/ST", "points": 1.0},
+    {"team": "Schrammel's Mammals", "player": "Chris Boswell", "points": 1.0},
+    {"team": "McConkeyTonk Badonkadonk", "player": "Khalil Shakir", "points": 1.0},
+    {"team": "Joe Buck Yourself", "player": "Eagles D/ST", "points": 1.0},
+    {"team": "Joe Buck Yourself", "player": "Emanuel Wilson", "points": 1.4},
+    {"team": "All Gas, No Brake", "player": "Broncos D/ST", "points": 1.0}
+  ],
+  "defensive_disasters": [
+    {"team": "Deanna's Daring Team", "player": "Zay Flowers", "points": -0.4}
+  ],
+  "primetime": {
+    "note": "Jalen Hurts (16.3 pts, Prime Video Thu game) started by Rob's Unremarkable Team in the 1.56-point closest game of the week, but decided during Sunday scoring - schedule join used for context only, no decisive primetime margin confirmed."
+  },
+  "lineup_efficiency": {
+    "most_accurate": {"team": "All Gas, No Brake", "team_id": 10, "actual_points": 78.0, "optimal_points": 78.7, "accuracy_pct": 99.1},
+    "least_accurate": {"team": "Joe Buck Yourself", "team_id": 1, "actual_points": 71.04, "optimal_points": 117.94, "accuracy_pct": 60.2},
+    "source": "scripts/lineup_efficiency.py output for all 14 teamIds"
+  }
+}
