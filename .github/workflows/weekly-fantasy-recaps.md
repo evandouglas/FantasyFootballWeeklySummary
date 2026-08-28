@@ -139,7 +139,6 @@ safe-outputs:
     max: 1
     if-no-changes: warn
     allowed-files:
-      - "*/*/week-*/data.json"
       - "*/*/week-*/stats.json"
       - "*/*/week-*/players.json"
       - "*/*/week-*/recap.md"
@@ -158,7 +157,7 @@ For each league:
 1. Determine the week and season for every league. Manual overrides (for testing): week = `${{ github.event.inputs.week }}`, season = `${{ github.event.inputs.season }}`. If either value is non-empty, call `fetch-espn-leagues` passing it as `week_override` and/or `season_override` for every league. Otherwise call `fetch-espn-leagues` with no overrides; it infers the current NFL season year automatically and returns the week for each league. Do not ask the user for a week or season.
 2. Load the schedule for the season the fetch tool returned: look for `nfl-schedule-{seasonId}.json` at the workspace root first (using that returned `seasonId`), and fall back to the root `nfl-schedule.json` if the season-specific file does not exist. Filter its raw `events[]` to the returned week. In the cached ESPN shape, `event.season.type` is normally integer `2` for regular season, `event.week.number` is the week, and `event.id` is the game ID. Skip timing commentary when no schedule file is found or no matching game ID is available.
 3. Analyze the ESPN data accurately. Verify winners, losers, scores, margins, superlatives, starters, bench points, transactions, streaks, and playoff context against the source data. Never invent a stat or use data from another league or season.
-4. `data.json` is already written by `fetch-espn-leagues` at `{league-key}/{seasonId}/week-{week}/data.json`; read it directly from disk (with `jq`/`python3`) to compute stats — do not copy or re-fetch it. In the same directory, create `stats.json` with computed and verified stats, `players.json` with player-level analysis, and `recap.md` containing the final Teams-ready Markdown recap.
+4. `data.json` is already written by `fetch-espn-leagues` at `{league-key}/{seasonId}/week-{week}/data.json`; read it directly from disk (with `jq`/`python3`) to compute stats — do not copy or re-fetch it. `data.json` is raw working data only and must never be committed or included in the pull request (it is too large and is excluded from `allowed-files`). In the same directory, create `stats.json` with computed and verified stats, `players.json` with player-level analysis, and `recap.md` containing the final Teams-ready Markdown recap — these three files are the only outputs that belong in the pull request.
 5. Keep each recap under approximately 500 words, funny but PG-13 and work-appropriate. Use the requested league name, actual numbers, owner first names, consistent team names, and the weekly persona from the repository agent instructions.
 6. Do not modify config, workflow files, agent instructions, secrets, or unrelated files. Do not write credentials into any output.
 7. After all leagues are complete, call `create_pull_request` once with a concise summary and the generated recap paths. Create no pull request if no files changed. If the fetch tool cannot obtain a league's data, stop without partial output and explain the missing data in the workflow result.
