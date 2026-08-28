@@ -7,12 +7,12 @@ on:
   workflow_dispatch:
 permissions:
   contents: read
+  copilot-requests: write
 strict: true
-model: gemini-3.6-flash
+model: claude-sonnet-5
 engine:
-  id: gemini
-imports:
-  - .github/agents/fantasy-football.agent.md
+  id: copilot
+  agent: fantasy-football
 max-ai-credits: 500
 max-turns: 30
 network:
@@ -20,7 +20,6 @@ network:
     - defaults
     - github
     - lm-api-reads.fantasy.espn.com
-    - generativelanguage.googleapis.com
 tools:
   edit:
   repo-memory:
