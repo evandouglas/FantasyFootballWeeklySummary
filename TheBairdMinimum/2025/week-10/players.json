@@ -1,0 +1,62 @@
+{
+  "player_of_week": {
+    "player": "Jonathan Taylor",
+    "points": 48.1,
+    "team": "Jake's Supreme Team",
+    "pos": 2
+  },
+  "bench_warmer": {
+    "player": "Caleb Williams",
+    "points": 25.1,
+    "team": "Kermaine's Top-Notch Team"
+  },
+  "goose_eggs": [
+    {
+      "player": "Josh Downs",
+      "points": 0.8,
+      "team": "Joe's Finest Team"
+    },
+    {
+      "player": "Jonnu Smith",
+      "points": 0.9,
+      "team": "Deanna's Daring Team"
+    },
+    {
+      "player": "T.J. Hockenson",
+      "points": 1.8,
+      "team": "Georgie N' tha' Cloons"
+    },
+    {
+      "player": "Garrett Wilson",
+      "points": 0.0,
+      "team": "Beth's Best Team"
+    },
+    {
+      "player": "Hunter Henry",
+      "points": 1.4,
+      "team": "Beth's Best Team"
+    },
+    {
+      "player": "Ryan Fitzgerald",
+      "points": 0.0,
+      "team": "Beth's Best Team"
+    },
+    {
+      "player": "Eddy Pineiro",
+      "points": 2.0,
+      "team": "Kermaine's Top-Notch Team"
+    },
+    {
+      "player": "Matt Prater",
+      "points": 1.0,
+      "team": "Jake's Supreme Team"
+    }
+  ],
+  "defensive_disasters": [
+    {
+      "player": "Buccaneers D/ST",
+      "points": -1.0,
+      "team": "Kermaine's Top-Notch Team"
+    }
+  ]
+}
