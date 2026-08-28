@@ -1,0 +1,18 @@
+{
+  "league": "Baird IT",
+  "season": 2025,
+  "week": 5,
+  "player_of_week": {"name": "C.J. Stroud", "pos": "QB", "nfl_team": "HOU", "points": 36.76, "fantasy_team": "Wes Coast Offense"},
+  "top_starters": [
+    {"name": "C.J. Stroud", "pos": "QB", "points": 36.76, "team": "Wes Coast Offense"},
+    {"name": "Dak Prescott", "pos": "QB", "points": 36.28, "team": "Game of Throws"},
+    {"name": "Matthew Stafford", "pos": "QB", "points": 31.56, "team": "Jackson's Jukes"},
+    {"name": "Rico Dowdle", "pos": "RB", "points": 30.9, "team": "Wes Coast Offense"},
+    {"name": "Baker Mayfield", "pos": "QB", "points": 30.66, "team": "Jackson's Jukes"}
+  ],
+  "bench_warmer": {"name": "Trevor Lawrence", "pos": "QB", "points": 27.24, "team": "Little Saucy Boy"},
+  "goose_eggs": [
+    {"name": "Justice Hill", "pos": "RB", "points": 1.7, "team": "Da Beers"},
+    {"name": "Jameson Williams", "pos": "WR", "points": 1.5, "team": "Game of Throws"}
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "league": "The Baird Minimum",
+  "season": 2025,
+  "week": 5,
+  "player_of_week": {"name": "Jonathan Taylor", "pos": "RB", "nfl_team": "IND", "points": 30.1, "fantasy_team": "Jake's Supreme Team"},
+  "top_starters": [
+    {"name": "Rico Dowdle", "pos": "RB", "points": 30.9, "team": "All Gas, No Brake"},
+    {"name": "Jonathan Taylor", "pos": "RB", "points": 30.1, "team": "Jake's Supreme Team"},
+    {"name": "C.J. Stroud", "pos": "QB", "points": 28.76, "team": "Brady's Brilliant Team"},
+    {"name": "Emeka Egbuka", "pos": "WR", "points": 27.8, "team": "Schrammel's Mammals"},
+    {"name": "Kyren Williams", "pos": "RB", "points": 27.1, "team": "Joe's Finest Team"}
+  ],
+  "bench_warmer": {"name": "Dak Prescott", "pos": "QB", "points": 28.28, "team": "All Gas, No Brake"},
+  "goose_eggs": [
+    {"name": "Spencer Shrader", "pos": "K", "points": 2.0, "team": "Tom's !Talented Team"},
+    {"name": "Malik Washington", "pos": "WR", "points": 2.0, "team": "Kermaine's Top-Notch Team"}
+  ],
+  "defensive_disasters": [
+    {"name": "Seahawks D/ST", "points": -5.0, "team": "Georgie N' tha' Cloons"},
+    {"name": "Buccaneers D/ST", "points": -4.0, "team": "Johnny Utah"},
+    {"name": "Rams D/ST", "points": -2.0, "team": "McConkeyTonk Badonkadonk"}
+  ]
+}

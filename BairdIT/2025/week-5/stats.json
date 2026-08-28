@@ -1,0 +1,40 @@
+{
+  "league": "Baird IT",
+  "season": 2025,
+  "week": 5,
+  "matchups": [
+    {"winner": "Little Saucy Boy", "winner_score": 129.76, "loser": "The Maddy Efffect", "loser_score": 100.52, "margin": 29.24},
+    {"winner": "Game of Throws", "winner_score": 123.48, "loser": "InstantRiyaPlay", "loser_score": 121.0, "margin": 2.48},
+    {"winner": "Jackson's Jukes", "winner_score": 148.02, "loser": "NY Jets 2 Holiday", "loser_score": 135.34, "margin": 12.68},
+    {"winner": "Skibidi Solar", "winner_score": 113.64, "loser": "Amon A Boat!", "loser_score": 101.42, "margin": 12.22},
+    {"winner": "Wes Coast Offense", "winner_score": 156.0, "loser": "Da Beers", "loser_score": 86.7, "margin": 69.3}
+  ],
+  "superlatives": {
+    "highest_score": {"team": "Wes Coast Offense", "score": 156.0},
+    "lowest_score": {"team": "Da Beers", "score": 86.7},
+    "biggest_blowout": {"winner": "Wes Coast Offense", "loser": "Da Beers", "margin": 69.3},
+    "closest_game": {"winner": "Game of Throws", "loser": "InstantRiyaPlay", "margin": 2.48},
+    "player_of_week": {"name": "C.J. Stroud", "pos": "QB", "team": "Wes Coast Offense", "points": 36.76},
+    "bench_warmer": {"team": "Little Saucy Boy", "player": "Trevor Lawrence", "points": 27.24},
+    "unlucky_loss": {"team": "NY Jets 2 Holiday", "score": 135.34, "note": "3rd highest score of the week but lost"},
+    "goose_eggs": [
+      {"team": "Da Beers", "player": "Justice Hill", "points": 1.7},
+      {"team": "Game of Throws", "player": "Jameson Williams", "points": 1.5}
+    ],
+    "most_accurate_lineup": {"team": "Wes Coast Offense", "accuracy_pct": 98.6, "actual": 156.0, "optimal": 158.2},
+    "least_accurate_lineup": {"team": "Little Saucy Boy", "accuracy_pct": 78.0, "actual": 129.76, "optimal": 166.38}
+  },
+  "trades": [],
+  "lineup_efficiency": {
+    "1": {"team": "Amon A Boat!", "actual": 101.42, "optimal": 120.42, "accuracy_pct": 84.2},
+    "2": {"team": "InstantRiyaPlay", "actual": 121.0, "optimal": 132.3, "accuracy_pct": 91.5},
+    "3": {"team": "Game of Throws", "actual": 123.48, "optimal": 137.68, "accuracy_pct": 89.7},
+    "4": {"team": "The Maddy Efffect", "actual": 100.52, "optimal": 117.62, "accuracy_pct": 85.5},
+    "5": {"team": "Little Saucy Boy", "actual": 129.76, "optimal": 166.38, "accuracy_pct": 78.0},
+    "6": {"team": "Skibidi Solar", "actual": 113.64, "optimal": 126.64, "accuracy_pct": 89.7},
+    "7": {"team": "Wes Coast Offense", "actual": 156.0, "optimal": 158.2, "accuracy_pct": 98.6},
+    "8": {"team": "NY Jets 2 Holiday", "actual": 135.34, "optimal": 153.24, "accuracy_pct": 88.3},
+    "9": {"team": "Jackson's Jukes", "actual": 148.02, "optimal": 150.42, "accuracy_pct": 98.4},
+    "12": {"team": "Da Beers", "actual": 86.7, "optimal": 92.48, "accuracy_pct": 93.8}
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "league": "The Baird Minimum",
+  "season": 2025,
+  "week": 5,
+  "matchups": [
+    {"winner": "Joe's Finest Team", "winner_score": 103.72, "loser": "Joe Buck Yourself", "loser_score": 93.9, "margin": 9.82},
+    {"winner": "Beth's Best Team", "winner_score": 121.02, "loser": "Kermaine's Top-Notch Team", "loser_score": 83.58, "margin": 37.44},
+    {"winner": "Jake's Supreme Team", "winner_score": 127.74, "loser": "All Gas, No Brake", "loser_score": 120.96, "margin": 6.78},
+    {"winner": "McConkeyTonk Badonkadonk", "winner_score": 99.58, "loser": "Brady's Brilliant Team", "loser_score": 92.86, "margin": 6.72},
+    {"winner": "Rob's Unremarkable Team", "winner_score": 103.4, "loser": "Tom's !Talented Team", "loser_score": 93.2, "margin": 10.2},
+    {"winner": "Schrammel's Mammals", "winner_score": 107.52, "loser": "Johnny Utah", "loser_score": 92.24, "margin": 15.28},
+    {"winner": "Georgie N' tha' Cloons", "winner_score": 104.02, "loser": "Deanna's Daring Team", "loser_score": 96.62, "margin": 7.4}
+  ],
+  "superlatives": {
+    "highest_score": {"team": "Jake's Supreme Team", "score": 127.74},
+    "lowest_score": {"team": "Kermaine's Top-Notch Team", "score": 83.58},
+    "biggest_blowout": {"winner": "Beth's Best Team", "loser": "Kermaine's Top-Notch Team", "margin": 37.44},
+    "closest_game": {"winner": "McConkeyTonk Badonkadonk", "loser": "Brady's Brilliant Team", "margin": 6.72},
+    "player_of_week": {"name": "Jonathan Taylor", "pos": "RB", "team": "Jake's Supreme Team", "points": 30.1},
+    "bench_warmer": {"team": "All Gas, No Brake", "player": "Dak Prescott", "points": 28.28, "note": "would have flipped their loss"},
+    "unlucky_loss": {"team": "All Gas, No Brake", "score": 120.96, "note": "2nd highest score of the week but lost"},
+    "goose_eggs": [
+      {"team": "Tom's !Talented Team", "player": "Spencer Shrader", "points": 2.0},
+      {"team": "Kermaine's Top-Notch Team", "player": "Malik Washington", "points": 2.0}
+    ],
+    "defensive_disasters": [
+      {"team": "Georgie N' tha' Cloons", "player": "Seahawks D/ST", "points": -5.0},
+      {"team": "Johnny Utah", "player": "Buccaneers D/ST", "points": -4.0},
+      {"team": "McConkeyTonk Badonkadonk", "player": "Rams D/ST", "points": -2.0}
+    ],
+    "most_accurate_lineup": {"teams": ["Joe Buck Yourself", "Brady's Brilliant Team"], "accuracy_pct": 100.0},
+    "least_accurate_lineup": {"team": "Beth's Best Team", "accuracy_pct": 82.9, "actual": 121.02, "optimal": 145.96}
+  },
+  "trade": {
+    "teams": ["Jake's Supreme Team", "Joe's Finest Team"],
+    "status": "completed (TRADE_ACCEPT + TRADE_UPHOLD)"
+  },
+  "lineup_efficiency": {
+    "1": {"team": "Joe Buck Yourself", "actual": 93.9, "optimal": 93.9, "accuracy_pct": 100.0},
+    "2": {"team": "McConkeyTonk Badonkadonk", "actual": 99.58, "optimal": 100.88, "accuracy_pct": 98.7},
+    "3": {"team": "Georgie N' tha' Cloons", "actual": 104.02, "optimal": 105.32, "accuracy_pct": 98.8},
+    "4": {"team": "Deanna's Daring Team", "actual": 96.62, "optimal": 108.02, "accuracy_pct": 89.4},
+    "5": {"team": "Schrammel's Mammals", "actual": 107.52, "optimal": 117.52, "accuracy_pct": 91.5},
+    "6": {"team": "Kermaine's Top-Notch Team", "actual": 83.58, "optimal": 98.28, "accuracy_pct": 85.0},
+    "7": {"team": "Rob's Unremarkable Team", "actual": 103.4, "optimal": 115.9, "accuracy_pct": 89.2},
+    "8": {"team": "Tom's !Talented Team", "actual": 93.2, "optimal": 99.0, "accuracy_pct": 94.1},
+    "9": {"team": "Johnny Utah", "actual": 92.24, "optimal": 103.84, "accuracy_pct": 88.8},
+    "10": {"team": "All Gas, No Brake", "actual": 120.96, "optimal": 123.68, "accuracy_pct": 97.8},
+    "11": {"team": "Jake's Supreme Team", "actual": 127.74, "optimal": 130.54, "accuracy_pct": 97.9},
+    "12": {"team": "Brady's Brilliant Team", "actual": 92.86, "optimal": 92.86, "accuracy_pct": 100.0},
+    "13": {"team": "Joe's Finest Team", "actual": 103.72, "optimal": 115.02, "accuracy_pct": 90.2},
+    "14": {"team": "Beth's Best Team", "actual": 121.02, "optimal": 145.96, "accuracy_pct": 82.9}
+  }
+}
