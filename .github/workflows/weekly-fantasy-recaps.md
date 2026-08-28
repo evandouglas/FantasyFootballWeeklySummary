@@ -23,7 +23,7 @@ engine:
   id: copilot
   agent: fantasy-football
 max-ai-credits: 500
-max-turns: 30
+max-turns: 60
 network:
   allowed:
     - defaults
@@ -42,6 +42,7 @@ tools:
     max-patch-size: 1048576
   bash:
     - cat
+    - cp
     - date
     - ls
     - mkdir
@@ -54,7 +55,7 @@ tools:
     - python3
 mcp-scripts:
   fetch-espn-leagues:
-    description: Fetch the current completed-week ESPN data for every league in config.json. Credentials are isolated to this read-only tool and are never returned.
+    description: Fetch the current completed-week ESPN data for every league in config.json and write each league's raw data.json directly to its final path. Returns only small per-league summaries, never the raw payload, so responses stay small. Credentials are isolated to this read-only tool and are never returned.
     inputs:
       week_override:
         type: number
@@ -98,7 +99,7 @@ mcp-scripts:
           with urlopen(Request(url, headers=headers), timeout=60) as response:
               return json.load(response)
 
-      results = {}
+      summaries = {}
       for key, league in config.get("leagues", {}).items():
           effective_season = int(season_override) if season_override else infer_season_year()
           params = {"view": views}
@@ -113,9 +114,21 @@ mcp-scripts:
                   raise RuntimeError(f"ESPN did not provide a completed matchup period for {key}")
           params["scoringPeriodId"] = str(week)
           data_url = base.format(season=effective_season, league=league["leagueId"]) + "?" + urlencode(params, doseq=True)
-          results[key] = {"league": league, "seasonId": effective_season, "week": week, "data": fetch(data_url)}
+          data = fetch(data_url)
 
-      print(json.dumps(results, ensure_ascii=True))
+          output_dir = root / key / str(effective_season) / f"week-{week}"
+          output_dir.mkdir(parents=True, exist_ok=True)
+          (output_dir / "data.json").write_text(json.dumps(data, indent=2, ensure_ascii=True), encoding="utf-8")
+
+          teams = data.get("teams", [])
+          summaries[key] = {
+              "seasonId": effective_season,
+              "week": week,
+              "data_path": str(output_dir.relative_to(root) / "data.json"),
+              "team_count": len(teams),
+          }
+
+      print(json.dumps(summaries, ensure_ascii=True))
     env:
       ESPN_SWID: ${{ secrets.ESPN_SWID }}
       ESPN_S2: ${{ secrets.ESPN_S2 }}
@@ -136,7 +149,7 @@ safe-outputs:
 
 # Weekly Fantasy Football Recaps
 
-Run the `fetch-espn-leagues` tool once. It returns the current completed matchup data for every league in the root `config.json`; process every returned league, never just the first one. The tool keeps `ESPN_SWID` and `ESPN_S2` outside the agent and does not return them.
+Run the `fetch-espn-leagues` tool once. For every league in the root `config.json`, it writes the raw ESPN response directly to `{league-key}/{seasonId}/week-{week}/data.json` and returns only a small per-league summary (season, week, data path, team count) — never the raw payload. Process every league in that summary, never just the first one. The tool keeps `ESPN_SWID` and `ESPN_S2` outside the agent and does not return them.
 
 Use repo memory at `/tmp/gh-aw/repo-memory-default/history/` for long-term trend history. For each league and season, read and update `history/{league-key}-{seasonId}.json` with only verified week number, team score, winner/loser, and lowest-scorer results. This history branch is independent of the recap pull request and must be used when checking repeat lowest scorers or season trends. Never store credentials, cookies, raw API responses, owner personal data beyond what is needed for the trend, or generated prose in repo memory.
 
@@ -145,7 +158,7 @@ For each league:
 1. Determine the week and season for every league. Manual overrides (for testing): week = `${{ github.event.inputs.week }}`, season = `${{ github.event.inputs.season }}`. If either value is non-empty, call `fetch-espn-leagues` passing it as `week_override` and/or `season_override` for every league. Otherwise call `fetch-espn-leagues` with no overrides; it infers the current NFL season year automatically and returns the week for each league. Do not ask the user for a week or season.
 2. Load the schedule for the season the fetch tool returned: look for `nfl-schedule-{seasonId}.json` at the workspace root first (using that returned `seasonId`), and fall back to the root `nfl-schedule.json` if the season-specific file does not exist. Filter its raw `events[]` to the returned week. In the cached ESPN shape, `event.season.type` is normally integer `2` for regular season, `event.week.number` is the week, and `event.id` is the game ID. Skip timing commentary when no schedule file is found or no matching game ID is available.
 3. Analyze the ESPN data accurately. Verify winners, losers, scores, margins, superlatives, starters, bench points, transactions, streaks, and playoff context against the source data. Never invent a stat or use data from another league or season.
-4. Create these files under `{league-key}/{seasonId}/week-{week}/`: `data.json` with the fetched league response, `stats.json` with computed and verified stats, `players.json` with player-level analysis, and `recap.md` containing the final Teams-ready Markdown recap.
+4. `data.json` is already written by `fetch-espn-leagues` at `{league-key}/{seasonId}/week-{week}/data.json`; read it directly from disk (with `jq`/`python3`) to compute stats — do not copy or re-fetch it. In the same directory, create `stats.json` with computed and verified stats, `players.json` with player-level analysis, and `recap.md` containing the final Teams-ready Markdown recap.
 5. Keep each recap under approximately 500 words, funny but PG-13 and work-appropriate. Use the requested league name, actual numbers, owner first names, consistent team names, and the weekly persona from the repository agent instructions.
 6. Do not modify config, workflow files, agent instructions, secrets, or unrelated files. Do not write credentials into any output.
 7. After all leagues are complete, call `create_pull_request` once with a concise summary and the generated recap paths. Create no pull request if no files changed. If the fetch tool cannot obtain a league's data, stop without partial output and explain the missing data in the workflow result.
