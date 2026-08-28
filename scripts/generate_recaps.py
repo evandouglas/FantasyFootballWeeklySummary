@@ -70,6 +70,9 @@ def load_schedule(season_id, week):
 
 
 def generate_recap(league, week, data, schedule, agent_instructions):
+    openai_api_key = os.environ.get("OPENAI_API_KEY")
+    if not openai_api_key:
+        raise RuntimeError("OPENAI_API_KEY is missing; add it under repository Secrets, not Variables")
     request_body = {
         "model": os.environ.get("OPENAI_MODEL", "gpt-4o-mini"),
         "temperature": 0.8,
@@ -96,7 +99,7 @@ def generate_recap(league, week, data, schedule, agent_instructions):
         headers={
             "Accept": "application/json",
             "Content-Type": "application/json",
-            "Authorization": f"Bearer {os.environ['OPENAI_API_KEY']}",
+            "Authorization": f"Bearer {openai_api_key}",
         },
         method="POST",
     )
