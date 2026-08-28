@@ -1,0 +1,41 @@
+{
+  "player_of_week": {
+    "player": "Jonathan Taylor",
+    "points": 48.1,
+    "team": "Little Saucy Boy",
+    "pos": 2
+  },
+  "bench_warmer": {
+    "player": "Jacoby Brissett",
+    "points": 23.42,
+    "team": "Amon A Boat!"
+  },
+  "goose_eggs": [
+    {
+      "player": "Emanuel Wilson",
+      "points": 0.9,
+      "team": "Game of Throws"
+    },
+    {
+      "player": "Kenneth Gainwell",
+      "points": 1.4,
+      "team": "The Maddy Efffect "
+    },
+    {
+      "player": "DJ Moore",
+      "points": 0.0,
+      "team": "Skibidi Solar"
+    },
+    {
+      "player": "Garrett Wilson",
+      "points": 0.0,
+      "team": "Amon A Boat!"
+    },
+    {
+      "player": "Romeo Doubs",
+      "points": 1.0,
+      "team": "Little Saucy Boy"
+    }
+  ],
+  "defensive_disasters": []
+}

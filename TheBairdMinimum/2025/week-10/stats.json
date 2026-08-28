@@ -1,0 +1,289 @@
+{
+  "league": "TheBairdMinimum",
+  "week": 10,
+  "season": 2025,
+  "matchups": [
+    {
+      "away_id": 5,
+      "home_id": 13,
+      "away_name": "Schrammel's Mammals",
+      "home_name": "Joe's Finest Team",
+      "away_score": 116.6,
+      "home_score": 108.78,
+      "winner_id": 5,
+      "loser_id": 13,
+      "winner_name": "Schrammel's Mammals",
+      "loser_name": "Joe's Finest Team",
+      "margin": 7.82
+    },
+    {
+      "away_id": 8,
+      "home_id": 4,
+      "away_name": "Tom's !Talented Team",
+      "home_name": "Deanna's Daring Team",
+      "away_score": 105.14,
+      "home_score": 59.44,
+      "winner_id": 8,
+      "loser_id": 4,
+      "winner_name": "Tom's !Talented Team",
+      "loser_name": "Deanna's Daring Team",
+      "margin": 45.7
+    },
+    {
+      "away_id": 2,
+      "home_id": 3,
+      "away_name": "McConkeyTonk Badonkadonk",
+      "home_name": "Georgie N' tha' Cloons",
+      "away_score": 78.1,
+      "home_score": 138.8,
+      "winner_id": 3,
+      "loser_id": 2,
+      "winner_name": "Georgie N' tha' Cloons",
+      "loser_name": "McConkeyTonk Badonkadonk",
+      "margin": 60.7
+    },
+    {
+      "away_id": 10,
+      "home_id": 9,
+      "away_name": "All Gas, No Brake",
+      "home_name": "Johnny Utah",
+      "away_score": 113.4,
+      "home_score": 89.2,
+      "winner_id": 10,
+      "loser_id": 9,
+      "winner_name": "All Gas, No Brake",
+      "loser_name": "Johnny Utah",
+      "margin": 24.2
+    },
+    {
+      "away_id": 14,
+      "home_id": 7,
+      "away_name": "Beth's Best Team",
+      "home_name": "Rob's Unremarkable Team",
+      "away_score": 51.34,
+      "home_score": 120.72,
+      "winner_id": 7,
+      "loser_id": 14,
+      "winner_name": "Rob's Unremarkable Team",
+      "loser_name": "Beth's Best Team",
+      "margin": 69.38
+    },
+    {
+      "away_id": 1,
+      "home_id": 12,
+      "away_name": "Joe Buck Yourself",
+      "home_name": "Brady's Brilliant Team",
+      "away_score": 78.14,
+      "home_score": 102.46,
+      "winner_id": 12,
+      "loser_id": 1,
+      "winner_name": "Brady's Brilliant Team",
+      "loser_name": "Joe Buck Yourself",
+      "margin": 24.32
+    },
+    {
+      "away_id": 6,
+      "home_id": 11,
+      "away_name": "Kermaine's Top-Notch Team",
+      "home_name": "Jake's Supreme Team",
+      "away_score": 126.4,
+      "home_score": 125.92,
+      "winner_id": 6,
+      "loser_id": 11,
+      "winner_name": "Kermaine's Top-Notch Team",
+      "loser_name": "Jake's Supreme Team",
+      "margin": 0.48
+    }
+  ],
+  "biggest_blowout": {
+    "away_id": 14,
+    "home_id": 7,
+    "away_name": "Beth's Best Team",
+    "home_name": "Rob's Unremarkable Team",
+    "away_score": 51.34,
+    "home_score": 120.72,
+    "winner_id": 7,
+    "loser_id": 14,
+    "winner_name": "Rob's Unremarkable Team",
+    "loser_name": "Beth's Best Team",
+    "margin": 69.38
+  },
+  "closest_game": {
+    "away_id": 6,
+    "home_id": 11,
+    "away_name": "Kermaine's Top-Notch Team",
+    "home_name": "Jake's Supreme Team",
+    "away_score": 126.4,
+    "home_score": 125.92,
+    "winner_id": 6,
+    "loser_id": 11,
+    "winner_name": "Kermaine's Top-Notch Team",
+    "loser_name": "Jake's Supreme Team",
+    "margin": 0.48
+  },
+  "highest_score": {
+    "team": "Georgie N' tha' Cloons",
+    "points": 138.8
+  },
+  "lowest_score": {
+    "team": "Beth's Best Team",
+    "points": 51.34
+  },
+  "player_of_week": {
+    "player": "Jonathan Taylor",
+    "points": 48.1,
+    "team": "Jake's Supreme Team",
+    "pos": 2
+  },
+  "bench_warmer": {
+    "player": "Caleb Williams",
+    "points": 25.1,
+    "team": "Kermaine's Top-Notch Team"
+  },
+  "goose_eggs": [
+    {
+      "player": "Josh Downs",
+      "points": 0.8,
+      "team": "Joe's Finest Team"
+    },
+    {
+      "player": "Jonnu Smith",
+      "points": 0.9,
+      "team": "Deanna's Daring Team"
+    },
+    {
+      "player": "T.J. Hockenson",
+      "points": 1.8,
+      "team": "Georgie N' tha' Cloons"
+    },
+    {
+      "player": "Garrett Wilson",
+      "points": 0.0,
+      "team": "Beth's Best Team"
+    },
+    {
+      "player": "Hunter Henry",
+      "points": 1.4,
+      "team": "Beth's Best Team"
+    },
+    {
+      "player": "Ryan Fitzgerald",
+      "points": 0.0,
+      "team": "Beth's Best Team"
+    },
+    {
+      "player": "Eddy Pineiro",
+      "points": 2.0,
+      "team": "Kermaine's Top-Notch Team"
+    },
+    {
+      "player": "Matt Prater",
+      "points": 1.0,
+      "team": "Jake's Supreme Team"
+    }
+  ],
+  "defensive_disasters": [
+    {
+      "player": "Buccaneers D/ST",
+      "points": -1.0,
+      "team": "Kermaine's Top-Notch Team"
+    }
+  ],
+  "max_bench_points_team": {
+    "team": "Kermaine's Top-Notch Team",
+    "points": 40.2
+  },
+  "unlucky_losses": [
+    {
+      "team": "Joe's Finest Team",
+      "score": 108.78,
+      "rank": 7
+    },
+    {
+      "team": "Jake's Supreme Team",
+      "score": 125.92,
+      "rank": 3
+    }
+  ],
+  "streaks": [
+    {
+      "team": "Schrammel's Mammals",
+      "type": "LOSS",
+      "length": 3
+    },
+    {
+      "team": "Tom's !Talented Team",
+      "type": "LOSS",
+      "length": 4
+    },
+    {
+      "team": "All Gas, No Brake",
+      "type": "LOSS",
+      "length": 3
+    },
+    {
+      "team": "Jake's Supreme Team",
+      "type": "WIN",
+      "length": 3
+    }
+  ],
+  "trades": [],
+  "sorted_scores": [
+    {
+      "team": "Georgie N' tha' Cloons",
+      "score": 138.8
+    },
+    {
+      "team": "Kermaine's Top-Notch Team",
+      "score": 126.4
+    },
+    {
+      "team": "Jake's Supreme Team",
+      "score": 125.92
+    },
+    {
+      "team": "Rob's Unremarkable Team",
+      "score": 120.72
+    },
+    {
+      "team": "Schrammel's Mammals",
+      "score": 116.6
+    },
+    {
+      "team": "All Gas, No Brake",
+      "score": 113.4
+    },
+    {
+      "team": "Joe's Finest Team",
+      "score": 108.78
+    },
+    {
+      "team": "Tom's !Talented Team",
+      "score": 105.14
+    },
+    {
+      "team": "Brady's Brilliant Team",
+      "score": 102.46
+    },
+    {
+      "team": "Johnny Utah",
+      "score": 89.2
+    },
+    {
+      "team": "Joe Buck Yourself",
+      "score": 78.14
+    },
+    {
+      "team": "McConkeyTonk Badonkadonk",
+      "score": 78.1
+    },
+    {
+      "team": "Deanna's Daring Team",
+      "score": 59.44
+    },
+    {
+      "team": "Beth's Best Team",
+      "score": 51.34
+    }
+  ]
+}
