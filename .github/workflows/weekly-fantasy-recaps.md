@@ -79,7 +79,7 @@ mcp-scripts:
           "User-Agent": "FantasyFootballWeeklySummary/1.0",
       }
       base = "https://lm-api-reads.fantasy.espn.com/apis/v3/games/ffl/seasons/{season}/segments/0/leagues/{league}"
-      views = "mMatchupScore,mTeam,mBoxscore,mTransactions2"
+      views = ["mMatchupScore", "mTeam", "mBoxscore", "mTransactions2"]
       week_override = inputs.get("week_override")
       season_override = inputs.get("season_override")
 
@@ -99,14 +99,14 @@ mcp-scripts:
           if week_override:
               week = int(week_override)
           else:
-              metadata_url = base.format(season=effective_season, league=league["leagueId"]) + "?" + urlencode(params)
+              metadata_url = base.format(season=effective_season, league=league["leagueId"]) + "?" + urlencode(params, doseq=True)
               metadata = fetch(metadata_url)
               status = metadata.get("status", {})
               week = next((status.get(name) for name in ("previousScoringPeriod", "latestScoringPeriod", "currentMatchupPeriod") if isinstance(status.get(name), int) and status.get(name) > 0), None)
               if week is None:
                   raise RuntimeError(f"ESPN did not provide a completed matchup period for {key}")
           params["scoringPeriodId"] = str(week)
-          data_url = base.format(season=effective_season, league=league["leagueId"]) + "?" + urlencode(params)
+          data_url = base.format(season=effective_season, league=league["leagueId"]) + "?" + urlencode(params, doseq=True)
           results[key] = {"league": league, "seasonId": effective_season, "week": week, "data": fetch(data_url)}
 
       print(json.dumps(results, ensure_ascii=True))
