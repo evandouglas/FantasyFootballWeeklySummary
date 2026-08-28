@@ -11,7 +11,7 @@ CONFIG_PATH = ROOT / "config.json"
 AGENT_PATH = ROOT / ".github" / "agents" / "fantasy-football.agent.md"
 SCHEDULE_PATH = ROOT / "nfl-schedule.json"
 BASE_URL = "https://lm-api-reads.fantasy.espn.com/apis/v3/games/ffl/seasons/{season}/segments/0/leagues/{league}"
-MODEL_URL = "https://models.github.ai/inference/chat/completions"
+MODEL_URL = os.environ.get("OPENAI_API_URL", "https://api.openai.com/v1/chat/completions")
 VIEWS = "mMatchupScore,mTeam,mBoxscore,mTransactions2"
 
 
@@ -71,7 +71,7 @@ def load_schedule(season_id, week):
 
 def generate_recap(league, week, data, schedule, agent_instructions):
     request_body = {
-        "model": os.environ.get("GITHUB_MODEL", "openai/gpt-4o-mini"),
+        "model": os.environ.get("OPENAI_MODEL", "gpt-4o-mini"),
         "temperature": 0.8,
         "messages": [
             {
@@ -96,7 +96,7 @@ def generate_recap(league, week, data, schedule, agent_instructions):
         headers={
             "Accept": "application/json",
             "Content-Type": "application/json",
-            "Authorization": f"Bearer {os.environ['GITHUB_TOKEN']}",
+            "Authorization": f"Bearer {os.environ['OPENAI_API_KEY']}",
         },
         method="POST",
     )
