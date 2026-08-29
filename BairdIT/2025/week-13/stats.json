@@ -1,0 +1,48 @@
+{
+  "league": "BairdIT",
+  "season": 2025,
+  "week": 13,
+  "matchups": [
+    {"winner": "InstantRiyaPlay", "winner_owner": "Riya", "winner_score": 105.38, "loser": "Little Saucy Boy", "loser_owner": "Rob", "loser_score": 103.4, "margin": 1.98},
+    {"winner": "Amon A Boat!", "winner_owner": "Ryan", "winner_score": 121.46, "loser": "The Maddy Efffect ", "loser_owner": "Madalyn", "loser_score": 72.14, "margin": 49.32},
+    {"winner": "NY Jets 2 Holiday", "winner_owner": "Evan", "winner_score": 118.9, "loser": "Jackson\u2019s Jukes", "loser_owner": "Julianna", "loser_score": 80.98, "margin": 37.92},
+    {"winner": "Skibidi Solar", "winner_owner": "Benjamin", "winner_score": 140.16, "loser": "Game of Throws", "loser_owner": "Demarion", "loser_score": 129.7, "margin": 10.46},
+    {"winner": "Da Beers", "winner_owner": "Nick", "winner_score": 99.24, "loser": "Wes Coast Offense ", "loser_owner": "Wesley", "loser_score": 72.48, "margin": 26.76}
+  ],
+  "superlatives": {
+    "biggest_blowout": {"winner": "Amon A Boat!", "loser": "The Maddy Efffect ", "margin": 49.32},
+    "closest_game": {"winner": "InstantRiyaPlay", "loser": "Little Saucy Boy", "margin": 1.98},
+    "highest_score": {"team": "Skibidi Solar", "score": 140.16},
+    "lowest_score": {"team": "The Maddy Efffect ", "score": 72.14},
+    "player_of_the_week": {"player": "Patrick Mahomes", "position": "QB", "points": 37.44, "fantasy_team": "NY Jets 2 Holiday"},
+    "bench_warmer": {"team": "Amon A Boat!", "player": "Joe Burrow", "points": 23.24},
+    "most_accurate_lineup": {"team": "Game of Throws", "accuracy_pct": 97.7, "actual_points": 129.7, "optimal_points": 132.7},
+    "least_accurate_lineup": {"team": "Wes Coast Offense ", "accuracy_pct": 69.2, "actual_points": 72.48, "optimal_points": 104.68}
+  },
+  "unlucky_loss": {"team": "Game of Throws", "score": 129.7, "lost_to": "Skibidi Solar"},
+  "goose_eggs": [
+    {"team": "Amon A Boat!", "player": "Amon-Ra St. Brown", "points": 0.0},
+    {"team": "The Maddy Efffect ", "player": "Joe Flacco", "points": 0.0},
+    {"team": "Wes Coast Offense ", "player": "Zay Flowers", "points": -0.4}
+  ],
+  "bench_points_leaders": [
+    {"team": "Amon A Boat!", "bench_total": 79.3},
+    {"team": "Jackson\u2019s Jukes", "bench_total": 55.1},
+    {"team": "InstantRiyaPlay", "bench_total": 48.82}
+  ],
+  "streaks": {
+    "hot": [],
+    "cold": [{"team": "The Maddy Efffect ", "length": 3, "type": "LOSS"}]
+  },
+  "playoff_seeds_top": [
+    {"seed": 1, "team": "NY Jets 2 Holiday", "record": "9-5"},
+    {"seed": 2, "team": "Amon A Boat!", "record": "8-6"},
+    {"seed": 3, "team": "Wes Coast Offense ", "record": "9-5"}
+  ],
+  "primetime": {
+    "week_opener_game": "Green Bay Packers at Detroit Lions",
+    "week_closer_game": "New York Giants at New England Patriots",
+    "notes": "Jordan Love went for 33.76 in the Thursday opener for Skibidi Solar; Drake Maye posted 24.48 in the Monday closer for Little Saucy Boy."
+  },
+  "trades": []
+}

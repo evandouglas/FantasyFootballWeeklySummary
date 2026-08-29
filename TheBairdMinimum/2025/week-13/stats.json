@@ -1,0 +1,50 @@
+{
+  "league": "TheBairdMinimum",
+  "season": 2025,
+  "week": 13,
+  "matchups": [
+    {"winner": "Johnny Utah", "winner_owner": "Justin", "winner_score": 118.54, "loser": "Joe's Finest Team", "loser_owner": "Joe", "loser_score": 66.06, "margin": 52.48},
+    {"winner": "Rob's Unremarkable Team", "winner_owner": "Rob", "winner_score": 107.9, "loser": "Georgie N' tha' Cloons", "loser_owner": "Angelo", "loser_score": 106.34, "margin": 1.56},
+    {"winner": "Deanna's Daring Team", "winner_owner": "Deanna", "winner_score": 96.56, "loser": "Brady's Brilliant Team", "loser_owner": "Brady", "loser_score": 82.56, "margin": 14.0},
+    {"winner": "Jake's Supreme Team", "winner_owner": "Jake", "winner_score": 123.74, "loser": "Schrammel's Mammals", "loser_owner": "Carl", "loser_score": 107.78, "margin": 15.96},
+    {"winner": "Kermaine's Top-Notch Team", "winner_owner": "Kermaine", "winner_score": 110.64, "loser": "Tom's !Talented Team", "loser_owner": "Tom", "loser_score": 76.22, "margin": 34.42},
+    {"winner": "McConkeyTonk Badonkadonk", "winner_owner": "Evan", "winner_score": 106.04, "loser": "Joe Buck Yourself", "loser_owner": "Riya", "loser_score": 71.04, "margin": 35.0},
+    {"winner": "Beth's Best Team", "winner_owner": "Beth", "winner_score": 90.92, "loser": "All Gas, No Brake", "loser_owner": "Zack", "loser_score": 78.0, "margin": 12.92}
+  ],
+  "superlatives": {
+    "biggest_blowout": {"winner": "Johnny Utah", "loser": "Joe's Finest Team", "margin": 52.48},
+    "closest_game": {"winner": "Rob's Unremarkable Team", "loser": "Georgie N' tha' Cloons", "margin": 1.56},
+    "highest_score": {"team": "Jake's Supreme Team", "score": 123.74},
+    "lowest_score": {"team": "Joe's Finest Team", "score": 66.06},
+    "player_of_the_week": {"player": "A.J. Brown", "position": "WR", "team": "NFL", "points": 30.2, "fantasy_team": "Deanna's Daring Team"},
+    "bench_warmer": {"team": "Joe Buck Yourself", "player": "Bryce Young", "points": 22.54},
+    "most_accurate_lineup": {"team": "All Gas, No Brake", "accuracy_pct": 99.1, "actual_points": 78.0, "optimal_points": 78.7},
+    "least_accurate_lineup": {"team": "Joe Buck Yourself", "accuracy_pct": 60.2, "actual_points": 71.04, "optimal_points": 117.94}
+  },
+  "unlucky_loss": {"team": "Schrammel's Mammals", "score": 107.78, "lost_to": "Jake's Supreme Team"},
+  "goose_eggs": [
+    {"team": "Brady's Brilliant Team", "player": "Amon-Ra St. Brown", "points": 0.0},
+    {"team": "Deanna's Daring Team", "player": "Zay Flowers", "points": -0.4},
+    {"team": "Georgie N' tha' Cloons", "player": "Michael Pittman Jr.", "points": 1.8}
+  ],
+  "bench_points_leaders": [
+    {"team": "Kermaine's Top-Notch Team", "bench_total": 69.7},
+    {"team": "Jake's Supreme Team", "bench_total": 65.2},
+    {"team": "Joe Buck Yourself", "bench_total": 61.94}
+  ],
+  "streaks": {
+    "hot": [{"team": "Jake's Supreme Team", "length": 3, "type": "WIN"}],
+    "cold": [{"team": "Tom's !Talented Team", "length": 4, "type": "LOSS"}]
+  },
+  "playoff_seeds_top": [
+    {"seed": 1, "team": "Jake's Supreme Team", "record": "10-4"},
+    {"seed": 2, "team": "Rob's Unremarkable Team", "record": "10-4"},
+    {"seed": 6, "team": "Beth's Best Team", "record": "8-6"}
+  ],
+  "primetime": {
+    "week_opener_game": "Green Bay Packers at Detroit Lions",
+    "week_closer_game": "New York Giants at New England Patriots",
+    "notes": "Jordan Love threw for 25.76 pts in the Thursday opener; Drake Maye posted 20.48 in the Monday closer."
+  },
+  "trades": []
+}

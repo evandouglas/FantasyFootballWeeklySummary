@@ -1,0 +1,19 @@
+{
+  "league": "BairdIT",
+  "season": 2025,
+  "week": 13,
+  "player_of_the_week": {"player": "Patrick Mahomes", "position": "QB", "points": 37.44, "fantasy_team": "NY Jets 2 Holiday"},
+  "bench_warmer": {"player": "Joe Burrow", "position": "QB", "points": 23.24, "team": "Amon A Boat!"},
+  "goose_eggs": [
+    {"team": "Amon A Boat!", "player": "Amon-Ra St. Brown", "position": "WR", "points": 0.0},
+    {"team": "The Maddy Efffect ", "player": "Joe Flacco", "position": "QB", "points": 0.0},
+    {"team": "Wes Coast Offense ", "player": "Zay Flowers", "position": "WR", "points": -0.4},
+    {"team": "Jackson\u2019s Jukes", "player": "Justin Jefferson", "position": "WR", "points": 1.4},
+    {"team": "Jackson\u2019s Jukes", "player": "Rome Odunze", "position": "WR", "points": 1.8},
+    {"team": "Da Beers", "player": "Michael Pittman Jr.", "position": "WR", "points": 1.8}
+  ],
+  "primetime_performances": [
+    {"player": "Jordan Love", "team_fantasy": "Skibidi Solar", "game": "Packers @ Lions (week opener)", "points": 33.76},
+    {"player": "Drake Maye", "team_fantasy": "Little Saucy Boy", "game": "Giants @ Patriots (week closer)", "points": 24.48}
+  ]
+}
