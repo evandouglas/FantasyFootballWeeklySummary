@@ -1,0 +1,1182 @@
+{
+  "league": "BairdIT",
+  "week": 13,
+  "players": [
+    {
+      "team": "NY Jets 2 Holiday",
+      "name": "Patrick Mahomes",
+      "pos": 1,
+      "pts": 37.44,
+      "slot": 0,
+      "starter": true
+    },
+    {
+      "team": "Skibidi Solar",
+      "name": "Jordan Love",
+      "pos": 1,
+      "pts": 33.76,
+      "slot": 0,
+      "starter": true
+    },
+    {
+      "team": "Skibidi Solar",
+      "name": "A.J. Brown",
+      "pos": 3,
+      "pts": 30.2,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "Da Beers",
+      "name": "Bijan Robinson",
+      "pos": 2,
+      "pts": 27.8,
+      "slot": 2,
+      "starter": true
+    },
+    {
+      "team": "Amon A Boat!",
+      "name": "Rashee Rice",
+      "pos": 3,
+      "pts": 25.4,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "The Maddy Efffect ",
+      "name": "Jared Goff",
+      "pos": 1,
+      "pts": 24.64,
+      "slot": 0,
+      "starter": true
+    },
+    {
+      "team": "Little Saucy Boy",
+      "name": "Drake Maye",
+      "pos": 1,
+      "pts": 24.48,
+      "slot": 0,
+      "starter": true
+    },
+    {
+      "team": "Game of Throws",
+      "name": "Dak Prescott",
+      "pos": 1,
+      "pts": 23.6,
+      "slot": 7,
+      "starter": true
+    },
+    {
+      "team": "Game of Throws",
+      "name": "Jameson Williams",
+      "pos": 3,
+      "pts": 23.4,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "Amon A Boat!",
+      "name": "Joe Burrow",
+      "pos": 1,
+      "pts": 23.24,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Amon A Boat!",
+      "name": "Jacoby Brissett",
+      "pos": 1,
+      "pts": 22.64,
+      "slot": 0,
+      "starter": true
+    },
+    {
+      "team": "Little Saucy Boy",
+      "name": "CeeDee Lamb",
+      "pos": 3,
+      "pts": 20.7,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "InstantRiyaPlay",
+      "name": "Brock Bowers",
+      "pos": 4,
+      "pts": 20.3,
+      "slot": 6,
+      "starter": true
+    },
+    {
+      "team": "The Maddy Efffect ",
+      "name": "D'Andre Swift",
+      "pos": 2,
+      "pts": 20.3,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Da Beers",
+      "name": "Daniel Jones",
+      "pos": 1,
+      "pts": 20.14,
+      "slot": 0,
+      "starter": true
+    },
+    {
+      "team": "Jackson\u2019s Jukes",
+      "name": "Davante Adams",
+      "pos": 3,
+      "pts": 19.8,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "Amon A Boat!",
+      "name": "RJ Harvey",
+      "pos": 2,
+      "pts": 19.7,
+      "slot": 23,
+      "starter": true
+    },
+    {
+      "team": "Wes Coast Offense ",
+      "name": "De'Von Achane",
+      "pos": 2,
+      "pts": 19.4,
+      "slot": 23,
+      "starter": true
+    },
+    {
+      "team": "Wes Coast Offense ",
+      "name": "Chuba Hubbard",
+      "pos": 2,
+      "pts": 19.4,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Game of Throws",
+      "name": "Jalen Hurts",
+      "pos": 1,
+      "pts": 19.3,
+      "slot": 0,
+      "starter": true
+    },
+    {
+      "team": "InstantRiyaPlay",
+      "name": "Brock Purdy",
+      "pos": 1,
+      "pts": 19.12,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Skibidi Solar",
+      "name": "Terry McLaurin",
+      "pos": 3,
+      "pts": 19.1,
+      "slot": 23,
+      "starter": true
+    },
+    {
+      "team": "Little Saucy Boy",
+      "name": "Kyle Monangai",
+      "pos": 2,
+      "pts": 19.0,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Game of Throws",
+      "name": "Nico Collins",
+      "pos": 3,
+      "pts": 19.0,
+      "slot": 23,
+      "starter": true
+    },
+    {
+      "team": "The Maddy Efffect ",
+      "name": "Trey McBride",
+      "pos": 4,
+      "pts": 18.2,
+      "slot": 6,
+      "starter": true
+    },
+    {
+      "team": "Amon A Boat!",
+      "name": "Josh Allen",
+      "pos": 1,
+      "pts": 17.72,
+      "slot": 7,
+      "starter": true
+    },
+    {
+      "team": "InstantRiyaPlay",
+      "name": "Bo Nix",
+      "pos": 1,
+      "pts": 17.44,
+      "slot": 7,
+      "starter": true
+    },
+    {
+      "team": "Amon A Boat!",
+      "name": "James Cook III",
+      "pos": 2,
+      "pts": 17.2,
+      "slot": 2,
+      "starter": true
+    },
+    {
+      "team": "NY Jets 2 Holiday",
+      "name": "Derrick Henry",
+      "pos": 2,
+      "pts": 16.9,
+      "slot": 2,
+      "starter": true
+    },
+    {
+      "team": "Jackson\u2019s Jukes",
+      "name": "Baker Mayfield",
+      "pos": 1,
+      "pts": 16.46,
+      "slot": 7,
+      "starter": true
+    },
+    {
+      "team": "InstantRiyaPlay",
+      "name": "Christian Watson",
+      "pos": 3,
+      "pts": 16.3,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "Wes Coast Offense ",
+      "name": "Justin Herbert",
+      "pos": 1,
+      "pts": 15.84,
+      "slot": 7,
+      "starter": true
+    },
+    {
+      "team": "Wes Coast Offense ",
+      "name": "Alec Pierce",
+      "pos": 3,
+      "pts": 15.8,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Jackson\u2019s Jukes",
+      "name": "Zach Ertz",
+      "pos": 4,
+      "pts": 15.6,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "NY Jets 2 Holiday",
+      "name": "Jaxson Dart",
+      "pos": 1,
+      "pts": 15.56,
+      "slot": 7,
+      "starter": true
+    },
+    {
+      "team": "Skibidi Solar",
+      "name": "Javonte Williams",
+      "pos": 2,
+      "pts": 15.5,
+      "slot": 2,
+      "starter": true
+    },
+    {
+      "team": "Skibidi Solar",
+      "name": "Christian McCaffrey",
+      "pos": 2,
+      "pts": 15.4,
+      "slot": 2,
+      "starter": true
+    },
+    {
+      "team": "Amon A Boat!",
+      "name": "Bam Knight",
+      "pos": 2,
+      "pts": 15.3,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Little Saucy Boy",
+      "name": "Bucky Irving",
+      "pos": 2,
+      "pts": 15.1,
+      "slot": 2,
+      "starter": true
+    },
+    {
+      "team": "Da Beers",
+      "name": "Geno Smith",
+      "pos": 1,
+      "pts": 15.0,
+      "slot": 7,
+      "starter": true
+    },
+    {
+      "team": "Game of Throws",
+      "name": "Chase Brown",
+      "pos": 2,
+      "pts": 14.8,
+      "slot": 2,
+      "starter": true
+    },
+    {
+      "team": "NY Jets 2 Holiday",
+      "name": "Courtland Sutton",
+      "pos": 3,
+      "pts": 14.7,
+      "slot": 23,
+      "starter": true
+    },
+    {
+      "team": "Jackson\u2019s Jukes",
+      "name": "Breece Hall",
+      "pos": 2,
+      "pts": 14.6,
+      "slot": 2,
+      "starter": true
+    },
+    {
+      "team": "Wes Coast Offense ",
+      "name": "Ja'Marr Chase",
+      "pos": 3,
+      "pts": 14.5,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "Amon A Boat!",
+      "name": "Quinshon Judkins",
+      "pos": 2,
+      "pts": 14.4,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Little Saucy Boy",
+      "name": "George Pickens",
+      "pos": 3,
+      "pts": 13.8,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "Jackson\u2019s Jukes",
+      "name": "Matthew Stafford",
+      "pos": 1,
+      "pts": 13.62,
+      "slot": 0,
+      "starter": true
+    },
+    {
+      "team": "Little Saucy Boy",
+      "name": "Jonathan Taylor",
+      "pos": 2,
+      "pts": 13.6,
+      "slot": 2,
+      "starter": true
+    },
+    {
+      "team": "InstantRiyaPlay",
+      "name": "Kyren Williams",
+      "pos": 2,
+      "pts": 13.2,
+      "slot": 2,
+      "starter": true
+    },
+    {
+      "team": "Da Beers",
+      "name": "Darius Slayton",
+      "pos": 3,
+      "pts": 13.1,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Da Beers",
+      "name": "Travis Kelce",
+      "pos": 4,
+      "pts": 13.0,
+      "slot": 6,
+      "starter": true
+    },
+    {
+      "team": "Skibidi Solar",
+      "name": "Chris Olave",
+      "pos": 3,
+      "pts": 12.7,
+      "slot": 7,
+      "starter": true
+    },
+    {
+      "team": "InstantRiyaPlay",
+      "name": "Jauan Jennings",
+      "pos": 3,
+      "pts": 11.9,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "NY Jets 2 Holiday",
+      "name": "Ladd McConkey",
+      "pos": 3,
+      "pts": 11.9,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "InstantRiyaPlay",
+      "name": "David Montgomery",
+      "pos": 2,
+      "pts": 11.8,
+      "slot": 23,
+      "starter": true
+    },
+    {
+      "team": "Game of Throws",
+      "name": "Kyle Pitts Sr.",
+      "pos": 4,
+      "pts": 11.7,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Da Beers",
+      "name": "Jaylen Warren",
+      "pos": 2,
+      "pts": 11.4,
+      "slot": 2,
+      "starter": true
+    },
+    {
+      "team": "InstantRiyaPlay",
+      "name": "Zach Charbonnet",
+      "pos": 2,
+      "pts": 11.2,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Skibidi Solar",
+      "name": "Evan Engram",
+      "pos": 4,
+      "pts": 10.9,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Game of Throws",
+      "name": "Tetairoa McMillan",
+      "pos": 3,
+      "pts": 10.8,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "Amon A Boat!",
+      "name": "Caleb Williams",
+      "pos": 1,
+      "pts": 10.46,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "The Maddy Efffect ",
+      "name": "Puka Nacua",
+      "pos": 3,
+      "pts": 10.2,
+      "slot": 23,
+      "starter": true
+    },
+    {
+      "team": "NY Jets 2 Holiday",
+      "name": "Jahmyr Gibbs",
+      "pos": 2,
+      "pts": 10.1,
+      "slot": 2,
+      "starter": true
+    },
+    {
+      "team": "Game of Throws",
+      "name": "TreVeyon Henderson",
+      "pos": 2,
+      "pts": 10.1,
+      "slot": 2,
+      "starter": true
+    },
+    {
+      "team": "InstantRiyaPlay",
+      "name": "Marvin Harrison Jr.",
+      "pos": 3,
+      "pts": 9.9,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Amon A Boat!",
+      "name": "Quentin Johnston",
+      "pos": 3,
+      "pts": 9.8,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Skibidi Solar",
+      "name": "Harold Fannin Jr.",
+      "pos": 4,
+      "pts": 9.8,
+      "slot": 6,
+      "starter": true
+    },
+    {
+      "team": "Amon A Boat!",
+      "name": "Tyler Warren",
+      "pos": 4,
+      "pts": 9.7,
+      "slot": 6,
+      "starter": true
+    },
+    {
+      "team": "Jackson\u2019s Jukes",
+      "name": "Josh Jacobs",
+      "pos": 2,
+      "pts": 9.6,
+      "slot": 2,
+      "starter": true
+    },
+    {
+      "team": "Jackson\u2019s Jukes",
+      "name": "Rhamondre Stevenson",
+      "pos": 2,
+      "pts": 9.5,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "The Maddy Efffect ",
+      "name": "Xavier Worthy",
+      "pos": 3,
+      "pts": 9.4,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Jackson\u2019s Jukes",
+      "name": "Nick Chubb",
+      "pos": 2,
+      "pts": 9.4,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "NY Jets 2 Holiday",
+      "name": "Hunter Henry",
+      "pos": 4,
+      "pts": 9.3,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Da Beers",
+      "name": "Chris Godwin Jr.",
+      "pos": 3,
+      "pts": 9.3,
+      "slot": 21,
+      "starter": false
+    },
+    {
+      "team": "Amon A Boat!",
+      "name": "Ashton Jeanty",
+      "pos": 2,
+      "pts": 9.1,
+      "slot": 2,
+      "starter": true
+    },
+    {
+      "team": "NY Jets 2 Holiday",
+      "name": "Dalton Schultz",
+      "pos": 4,
+      "pts": 9.0,
+      "slot": 6,
+      "starter": true
+    },
+    {
+      "team": "NY Jets 2 Holiday",
+      "name": "Jayden Higgins",
+      "pos": 3,
+      "pts": 9.0,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Skibidi Solar",
+      "name": "Hollywood Brown",
+      "pos": 3,
+      "pts": 9.0,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "InstantRiyaPlay",
+      "name": "Kenneth Walker III",
+      "pos": 2,
+      "pts": 8.9,
+      "slot": 2,
+      "starter": true
+    },
+    {
+      "team": "Wes Coast Offense ",
+      "name": "Rico Dowdle",
+      "pos": 2,
+      "pts": 8.9,
+      "slot": 2,
+      "starter": true
+    },
+    {
+      "team": "Game of Throws",
+      "name": "George Kittle",
+      "pos": 4,
+      "pts": 8.7,
+      "slot": 6,
+      "starter": true
+    },
+    {
+      "team": "InstantRiyaPlay",
+      "name": "Deebo Samuel",
+      "pos": 3,
+      "pts": 8.6,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Little Saucy Boy",
+      "name": "Kareem Hunt",
+      "pos": 2,
+      "pts": 8.5,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "NY Jets 2 Holiday",
+      "name": "Devin Neal",
+      "pos": 2,
+      "pts": 8.4,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Wes Coast Offense ",
+      "name": "C.J. Stroud",
+      "pos": 1,
+      "pts": 8.04,
+      "slot": 0,
+      "starter": true
+    },
+    {
+      "team": "Jackson\u2019s Jukes",
+      "name": "Keon Coleman",
+      "pos": 3,
+      "pts": 7.9,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Jackson\u2019s Jukes",
+      "name": "DeVonta Smith",
+      "pos": 3,
+      "pts": 7.3,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Da Beers",
+      "name": "Woody Marks",
+      "pos": 2,
+      "pts": 7.2,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "The Maddy Efffect ",
+      "name": "Wan'Dale Robinson",
+      "pos": 3,
+      "pts": 6.9,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "The Maddy Efffect ",
+      "name": "Mark Andrews",
+      "pos": 4,
+      "pts": 6.7,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Little Saucy Boy",
+      "name": "Juwan Johnson",
+      "pos": 4,
+      "pts": 6.4,
+      "slot": 6,
+      "starter": true
+    },
+    {
+      "team": "Little Saucy Boy",
+      "name": "Emeka Egbuka",
+      "pos": 3,
+      "pts": 6.2,
+      "slot": 23,
+      "starter": true
+    },
+    {
+      "team": "Amon A Boat!",
+      "name": "Jake Ferguson",
+      "pos": 4,
+      "pts": 6.1,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Game of Throws",
+      "name": "Jordan Addison",
+      "pos": 3,
+      "pts": 6.1,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Game of Throws",
+      "name": "Darren Waller",
+      "pos": 4,
+      "pts": 5.7,
+      "slot": 21,
+      "starter": false
+    },
+    {
+      "team": "The Maddy Efffect ",
+      "name": "Saquon Barkley",
+      "pos": 2,
+      "pts": 5.6,
+      "slot": 2,
+      "starter": true
+    },
+    {
+      "team": "InstantRiyaPlay",
+      "name": "Lamar Jackson",
+      "pos": 1,
+      "pts": 5.54,
+      "slot": 0,
+      "starter": true
+    },
+    {
+      "team": "The Maddy Efffect ",
+      "name": "Kenneth Gainwell",
+      "pos": 2,
+      "pts": 5.5,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Da Beers",
+      "name": "Jaylen Waddle",
+      "pos": 3,
+      "pts": 5.5,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "Jackson\u2019s Jukes",
+      "name": "Tyjae Spears",
+      "pos": 2,
+      "pts": 5.4,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Game of Throws",
+      "name": "Tony Pollard",
+      "pos": 2,
+      "pts": 4.8,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Little Saucy Boy",
+      "name": "DK Metcalf",
+      "pos": 3,
+      "pts": 4.7,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Da Beers",
+      "name": "Travis Etienne Jr.",
+      "pos": 2,
+      "pts": 4.6,
+      "slot": 23,
+      "starter": true
+    },
+    {
+      "team": "NY Jets 2 Holiday",
+      "name": "Rachaad White",
+      "pos": 2,
+      "pts": 4.4,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Wes Coast Offense ",
+      "name": "Isiah Pacheco",
+      "pos": 2,
+      "pts": 4.3,
+      "slot": 2,
+      "starter": true
+    },
+    {
+      "team": "Da Beers",
+      "name": "Colston Loveland",
+      "pos": 4,
+      "pts": 4.3,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "The Maddy Efffect ",
+      "name": "Stefon Diggs",
+      "pos": 3,
+      "pts": 4.1,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "Game of Throws",
+      "name": "Cooper Kupp",
+      "pos": 3,
+      "pts": 3.9,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Little Saucy Boy",
+      "name": "Tyrone Tracy Jr.",
+      "pos": 2,
+      "pts": 3.8,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Da Beers",
+      "name": "Brian Thomas Jr.",
+      "pos": 3,
+      "pts": 3.8,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Jackson\u2019s Jukes",
+      "name": "Dallas Goedert",
+      "pos": 4,
+      "pts": 3.7,
+      "slot": 6,
+      "starter": true
+    },
+    {
+      "team": "Skibidi Solar",
+      "name": "DJ Moore",
+      "pos": 3,
+      "pts": 3.7,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "NY Jets 2 Holiday",
+      "name": "Jaxon Smith-Njigba",
+      "pos": 3,
+      "pts": 3.3,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "Little Saucy Boy",
+      "name": "Oronde Gadsden",
+      "pos": 4,
+      "pts": 3.2,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Little Saucy Boy",
+      "name": "Sam Darnold",
+      "pos": 1,
+      "pts": 3.12,
+      "slot": 7,
+      "starter": true
+    },
+    {
+      "team": "Little Saucy Boy",
+      "name": "Troy Franklin",
+      "pos": 3,
+      "pts": 3.1,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Wes Coast Offense ",
+      "name": "Luke Musgrave",
+      "pos": 4,
+      "pts": 2.8,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "The Maddy Efffect ",
+      "name": "Aaron Jones Sr.",
+      "pos": 2,
+      "pts": 2.5,
+      "slot": 2,
+      "starter": true
+    },
+    {
+      "team": "NY Jets 2 Holiday",
+      "name": "Ricky Pearsall",
+      "pos": 3,
+      "pts": 2.4,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "NY Jets 2 Holiday",
+      "name": "Rashid Shaheed",
+      "pos": 3,
+      "pts": 2.1,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Wes Coast Offense ",
+      "name": "Cade Otton",
+      "pos": 4,
+      "pts": 1.9,
+      "slot": 6,
+      "starter": true
+    },
+    {
+      "team": "Jackson\u2019s Jukes",
+      "name": "Rome Odunze",
+      "pos": 3,
+      "pts": 1.8,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "Da Beers",
+      "name": "Michael Pittman Jr.",
+      "pos": 3,
+      "pts": 1.8,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "Jackson\u2019s Jukes",
+      "name": "Justin Jefferson",
+      "pos": 3,
+      "pts": 1.4,
+      "slot": 23,
+      "starter": true
+    },
+    {
+      "team": "Game of Throws",
+      "name": "Emanuel Wilson",
+      "pos": 2,
+      "pts": 1.4,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "The Maddy Efffect ",
+      "name": "Khalil Shakir",
+      "pos": 3,
+      "pts": 1.0,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Game of Throws",
+      "name": "Tez Johnson",
+      "pos": 3,
+      "pts": 1.0,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "InstantRiyaPlay",
+      "name": "Matthew Golden",
+      "pos": 3,
+      "pts": 0.0,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "InstantRiyaPlay",
+      "name": "Dalton Kincaid",
+      "pos": 4,
+      "pts": 0.0,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Little Saucy Boy",
+      "name": "Trey Benson",
+      "pos": 2,
+      "pts": 0.0,
+      "slot": 21,
+      "starter": false
+    },
+    {
+      "team": "Amon A Boat!",
+      "name": "Amon-Ra St. Brown",
+      "pos": 3,
+      "pts": 0.0,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "Amon A Boat!",
+      "name": "Garrett Wilson",
+      "pos": 3,
+      "pts": 0.0,
+      "slot": 21,
+      "starter": false
+    },
+    {
+      "team": "The Maddy Efffect ",
+      "name": "Kyler Murray",
+      "pos": 1,
+      "pts": 0.0,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "The Maddy Efffect ",
+      "name": "Joe Flacco",
+      "pos": 1,
+      "pts": 0.0,
+      "slot": 7,
+      "starter": true
+    },
+    {
+      "team": "Jackson\u2019s Jukes",
+      "name": "Jayden Daniels",
+      "pos": 1,
+      "pts": 0.0,
+      "slot": 21,
+      "starter": false
+    },
+    {
+      "team": "NY Jets 2 Holiday",
+      "name": "Omarion Hampton",
+      "pos": 2,
+      "pts": 0.0,
+      "slot": 21,
+      "starter": false
+    },
+    {
+      "team": "Skibidi Solar",
+      "name": "Alvin Kamara",
+      "pos": 2,
+      "pts": 0.0,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Skibidi Solar",
+      "name": "Calvin Ridley",
+      "pos": 3,
+      "pts": 0.0,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Skibidi Solar",
+      "name": "J.K. Dobbins",
+      "pos": 2,
+      "pts": 0.0,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Skibidi Solar",
+      "name": "Jake Browning",
+      "pos": 1,
+      "pts": 0.0,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Wes Coast Offense ",
+      "name": "Drake London",
+      "pos": 3,
+      "pts": 0.0,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Wes Coast Offense ",
+      "name": "J.J. McCarthy",
+      "pos": 1,
+      "pts": 0.0,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Wes Coast Offense ",
+      "name": "Sam LaPorta",
+      "pos": 4,
+      "pts": 0.0,
+      "slot": 21,
+      "starter": false
+    },
+    {
+      "team": "Wes Coast Offense ",
+      "name": "Sean Tucker",
+      "pos": 2,
+      "pts": 0.0,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Da Beers",
+      "name": "Tee Higgins",
+      "pos": 3,
+      "pts": 0.0,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Da Beers",
+      "name": "Michael Penix Jr.",
+      "pos": 1,
+      "pts": 0.0,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Wes Coast Offense ",
+      "name": "Zay Flowers",
+      "pos": 3,
+      "pts": -0.4,
+      "slot": 4,
+      "starter": true
+    }
+  ]
+}

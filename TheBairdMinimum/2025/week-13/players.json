@@ -1,0 +1,1638 @@
+{
+  "league": "TheBairdMinimum",
+  "week": 13,
+  "players": [
+    {
+      "team": "Deanna's Daring Team",
+      "name": "A.J. Brown",
+      "pos": 3,
+      "pts": 30.2,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "Georgie N' tha' Cloons",
+      "name": "Patrick Mahomes",
+      "pos": 1,
+      "pts": 29.44,
+      "slot": 0,
+      "starter": true
+    },
+    {
+      "team": "Georgie N' tha' Cloons",
+      "name": "Seahawks D/ST",
+      "pos": 16,
+      "pts": 28.0,
+      "slot": 16,
+      "starter": true
+    },
+    {
+      "team": "Johnny Utah",
+      "name": "Bijan Robinson",
+      "pos": 2,
+      "pts": 27.8,
+      "slot": 2,
+      "starter": true
+    },
+    {
+      "team": "Deanna's Daring Team",
+      "name": "Jordan Love",
+      "pos": 1,
+      "pts": 25.76,
+      "slot": 0,
+      "starter": true
+    },
+    {
+      "team": "Beth's Best Team",
+      "name": "Rashee Rice",
+      "pos": 3,
+      "pts": 25.4,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "Schrammel's Mammals",
+      "name": "Jameson Williams",
+      "pos": 3,
+      "pts": 23.4,
+      "slot": 23,
+      "starter": true
+    },
+    {
+      "team": "Joe Buck Yourself",
+      "name": "Bryce Young",
+      "pos": 1,
+      "pts": 22.54,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Brady's Brilliant Team",
+      "name": "Trevor Lawrence",
+      "pos": 1,
+      "pts": 21.66,
+      "slot": 0,
+      "starter": true
+    },
+    {
+      "team": "McConkeyTonk Badonkadonk",
+      "name": "CeeDee Lamb",
+      "pos": 3,
+      "pts": 20.7,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "Georgie N' tha' Cloons",
+      "name": "Jared Goff",
+      "pos": 1,
+      "pts": 20.64,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "All Gas, No Brake",
+      "name": "Dak Prescott",
+      "pos": 1,
+      "pts": 20.6,
+      "slot": 0,
+      "starter": true
+    },
+    {
+      "team": "Schrammel's Mammals",
+      "name": "Drake Maye",
+      "pos": 1,
+      "pts": 20.48,
+      "slot": 0,
+      "starter": true
+    },
+    {
+      "team": "Tom's !Talented Team",
+      "name": "D'Andre Swift",
+      "pos": 2,
+      "pts": 20.3,
+      "slot": 23,
+      "starter": true
+    },
+    {
+      "team": "Joe Buck Yourself",
+      "name": "Brock Bowers",
+      "pos": 4,
+      "pts": 20.3,
+      "slot": 6,
+      "starter": true
+    },
+    {
+      "team": "Rob's Unremarkable Team",
+      "name": "Kimani Vidal",
+      "pos": 2,
+      "pts": 20.2,
+      "slot": 23,
+      "starter": true
+    },
+    {
+      "team": "Rob's Unremarkable Team",
+      "name": "Davante Adams",
+      "pos": 3,
+      "pts": 19.8,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "Brady's Brilliant Team",
+      "name": "RJ Harvey",
+      "pos": 2,
+      "pts": 19.7,
+      "slot": 2,
+      "starter": true
+    },
+    {
+      "team": "Kermaine's Top-Notch Team",
+      "name": "Jacoby Brissett",
+      "pos": 1,
+      "pts": 19.64,
+      "slot": 0,
+      "starter": true
+    },
+    {
+      "team": "Kermaine's Top-Notch Team",
+      "name": "De'Von Achane",
+      "pos": 2,
+      "pts": 19.4,
+      "slot": 2,
+      "starter": true
+    },
+    {
+      "team": "Beth's Best Team",
+      "name": "Chuba Hubbard",
+      "pos": 2,
+      "pts": 19.4,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Jake's Supreme Team",
+      "name": "Joe Burrow",
+      "pos": 1,
+      "pts": 19.24,
+      "slot": 0,
+      "starter": true
+    },
+    {
+      "team": "Kermaine's Top-Notch Team",
+      "name": "Terry McLaurin",
+      "pos": 3,
+      "pts": 19.1,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Johnny Utah",
+      "name": "Jason Myers",
+      "pos": 5,
+      "pts": 19.0,
+      "slot": 17,
+      "starter": true
+    },
+    {
+      "team": "McConkeyTonk Badonkadonk",
+      "name": "Kyle Monangai",
+      "pos": 2,
+      "pts": 19.0,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "McConkeyTonk Badonkadonk",
+      "name": "Nico Collins",
+      "pos": 3,
+      "pts": 19.0,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "Jake's Supreme Team",
+      "name": "Jakobi Meyers",
+      "pos": 3,
+      "pts": 18.3,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Jake's Supreme Team",
+      "name": "Trey McBride",
+      "pos": 4,
+      "pts": 18.2,
+      "slot": 6,
+      "starter": true
+    },
+    {
+      "team": "Joe Buck Yourself",
+      "name": "Devin Singletary",
+      "pos": 2,
+      "pts": 17.7,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Johnny Utah",
+      "name": "James Cook III",
+      "pos": 2,
+      "pts": 17.2,
+      "slot": 23,
+      "starter": true
+    },
+    {
+      "team": "Tom's !Talented Team",
+      "name": "Brock Purdy",
+      "pos": 1,
+      "pts": 17.12,
+      "slot": 0,
+      "starter": true
+    },
+    {
+      "team": "Kermaine's Top-Notch Team",
+      "name": "Bills D/ST",
+      "pos": 16,
+      "pts": 17.0,
+      "slot": 16,
+      "starter": true
+    },
+    {
+      "team": "Joe Buck Yourself",
+      "name": "Derrick Henry",
+      "pos": 2,
+      "pts": 16.9,
+      "slot": 2,
+      "starter": true
+    },
+    {
+      "team": "Beth's Best Team",
+      "name": "Josh Allen",
+      "pos": 1,
+      "pts": 16.72,
+      "slot": 0,
+      "starter": true
+    },
+    {
+      "team": "McConkeyTonk Badonkadonk",
+      "name": "Bo Nix",
+      "pos": 1,
+      "pts": 16.44,
+      "slot": 0,
+      "starter": true
+    },
+    {
+      "team": "Rob's Unremarkable Team",
+      "name": "Jalen Hurts",
+      "pos": 1,
+      "pts": 16.3,
+      "slot": 0,
+      "starter": true
+    },
+    {
+      "team": "Jake's Supreme Team",
+      "name": "Christian Watson",
+      "pos": 3,
+      "pts": 16.3,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Kermaine's Top-Notch Team",
+      "name": "Daniel Jones",
+      "pos": 1,
+      "pts": 16.14,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Kermaine's Top-Notch Team",
+      "name": "Alec Pierce",
+      "pos": 3,
+      "pts": 15.8,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Beth's Best Team",
+      "name": "Zach Ertz",
+      "pos": 4,
+      "pts": 15.6,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Kermaine's Top-Notch Team",
+      "name": "Javonte Williams",
+      "pos": 2,
+      "pts": 15.5,
+      "slot": 23,
+      "starter": true
+    },
+    {
+      "team": "Schrammel's Mammals",
+      "name": "Christian McCaffrey",
+      "pos": 2,
+      "pts": 15.4,
+      "slot": 2,
+      "starter": true
+    },
+    {
+      "team": "Schrammel's Mammals",
+      "name": "Bam Knight",
+      "pos": 2,
+      "pts": 15.3,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "McConkeyTonk Badonkadonk",
+      "name": "Bucky Irving",
+      "pos": 2,
+      "pts": 15.1,
+      "slot": 2,
+      "starter": true
+    },
+    {
+      "team": "Schrammel's Mammals",
+      "name": "Chase Brown",
+      "pos": 2,
+      "pts": 14.8,
+      "slot": 23,
+      "starter": true
+    },
+    {
+      "team": "Jake's Supreme Team",
+      "name": "Courtland Sutton",
+      "pos": 3,
+      "pts": 14.7,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "Rob's Unremarkable Team",
+      "name": "Breece Hall",
+      "pos": 2,
+      "pts": 14.6,
+      "slot": 2,
+      "starter": true
+    },
+    {
+      "team": "Jake's Supreme Team",
+      "name": "Ja'Marr Chase",
+      "pos": 3,
+      "pts": 14.5,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "Beth's Best Team",
+      "name": "Baker Mayfield",
+      "pos": 1,
+      "pts": 14.46,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Jake's Supreme Team",
+      "name": "Quinshon Judkins",
+      "pos": 2,
+      "pts": 14.4,
+      "slot": 23,
+      "starter": true
+    },
+    {
+      "team": "Jake's Supreme Team",
+      "name": "Blake Corum",
+      "pos": 2,
+      "pts": 14.1,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Johnny Utah",
+      "name": "Jaguars D/ST",
+      "pos": 16,
+      "pts": 14.0,
+      "slot": 16,
+      "starter": true
+    },
+    {
+      "team": "Kermaine's Top-Notch Team",
+      "name": "Andy Borregales",
+      "pos": 5,
+      "pts": 14.0,
+      "slot": 17,
+      "starter": true
+    },
+    {
+      "team": "Schrammel's Mammals",
+      "name": "George Pickens",
+      "pos": 3,
+      "pts": 13.8,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "Jake's Supreme Team",
+      "name": "Jonathan Taylor",
+      "pos": 2,
+      "pts": 13.6,
+      "slot": 2,
+      "starter": true
+    },
+    {
+      "team": "Joe's Finest Team",
+      "name": "Jaxson Dart",
+      "pos": 1,
+      "pts": 13.56,
+      "slot": 0,
+      "starter": true
+    },
+    {
+      "team": "Johnny Utah",
+      "name": "Kirk Cousins",
+      "pos": 1,
+      "pts": 13.36,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Joe's Finest Team",
+      "name": "Kyren Williams",
+      "pos": 2,
+      "pts": 13.2,
+      "slot": 2,
+      "starter": true
+    },
+    {
+      "team": "Joe Buck Yourself",
+      "name": "Darius Slayton",
+      "pos": 3,
+      "pts": 13.1,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Deanna's Daring Team",
+      "name": "Dolphins D/ST",
+      "pos": 16,
+      "pts": 13.0,
+      "slot": 16,
+      "starter": true
+    },
+    {
+      "team": "McConkeyTonk Badonkadonk",
+      "name": "Patriots D/ST",
+      "pos": 16,
+      "pts": 13.0,
+      "slot": 16,
+      "starter": true
+    },
+    {
+      "team": "All Gas, No Brake",
+      "name": "Travis Kelce",
+      "pos": 4,
+      "pts": 13.0,
+      "slot": 6,
+      "starter": true
+    },
+    {
+      "team": "Johnny Utah",
+      "name": "Justin Herbert",
+      "pos": 1,
+      "pts": 12.84,
+      "slot": 0,
+      "starter": true
+    },
+    {
+      "team": "Rob's Unremarkable Team",
+      "name": "Chris Olave",
+      "pos": 3,
+      "pts": 12.7,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "Jake's Supreme Team",
+      "name": "Tyler Allgeier",
+      "pos": 2,
+      "pts": 12.5,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Joe's Finest Team",
+      "name": "49ers D/ST",
+      "pos": 16,
+      "pts": 12.0,
+      "slot": 16,
+      "starter": true
+    },
+    {
+      "team": "McConkeyTonk Badonkadonk",
+      "name": "Brandon Aubrey",
+      "pos": 5,
+      "pts": 12.0,
+      "slot": 17,
+      "starter": true
+    },
+    {
+      "team": "McConkeyTonk Badonkadonk",
+      "name": "Brenton Strange",
+      "pos": 4,
+      "pts": 12.0,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Georgie N' tha' Cloons",
+      "name": "Ladd McConkey",
+      "pos": 3,
+      "pts": 11.9,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Brady's Brilliant Team",
+      "name": "Jauan Jennings",
+      "pos": 3,
+      "pts": 11.9,
+      "slot": 23,
+      "starter": true
+    },
+    {
+      "team": "Joe Buck Yourself",
+      "name": "David Montgomery",
+      "pos": 2,
+      "pts": 11.8,
+      "slot": 23,
+      "starter": true
+    },
+    {
+      "team": "Brady's Brilliant Team",
+      "name": "Kyle Pitts Sr.",
+      "pos": 4,
+      "pts": 11.7,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "All Gas, No Brake",
+      "name": "Matthew Stafford",
+      "pos": 1,
+      "pts": 11.62,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Rob's Unremarkable Team",
+      "name": "Kayshon Boutte",
+      "pos": 3,
+      "pts": 11.5,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Georgie N' tha' Cloons",
+      "name": "Jaylen Warren",
+      "pos": 2,
+      "pts": 11.4,
+      "slot": 23,
+      "starter": true
+    },
+    {
+      "team": "Rob's Unremarkable Team",
+      "name": "Zach Charbonnet",
+      "pos": 2,
+      "pts": 11.2,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Jake's Supreme Team",
+      "name": "Chargers D/ST",
+      "pos": 16,
+      "pts": 11.0,
+      "slot": 16,
+      "starter": true
+    },
+    {
+      "team": "Brady's Brilliant Team",
+      "name": "Tetairoa McMillan",
+      "pos": 3,
+      "pts": 10.8,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "Beth's Best Team",
+      "name": "Puka Nacua",
+      "pos": 3,
+      "pts": 10.2,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "Georgie N' tha' Cloons",
+      "name": "Jahmyr Gibbs",
+      "pos": 2,
+      "pts": 10.1,
+      "slot": 2,
+      "starter": true
+    },
+    {
+      "team": "Kermaine's Top-Notch Team",
+      "name": "TreVeyon Henderson",
+      "pos": 2,
+      "pts": 10.1,
+      "slot": 23,
+      "starter": true
+    },
+    {
+      "team": "McConkeyTonk Badonkadonk",
+      "name": "Chris Rodriguez Jr.",
+      "pos": 2,
+      "pts": 10.1,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Johnny Utah",
+      "name": "Romeo Doubs",
+      "pos": 3,
+      "pts": 10.0,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "Rob's Unremarkable Team",
+      "name": "Chase McLaughlin",
+      "pos": 5,
+      "pts": 10.0,
+      "slot": 17,
+      "starter": true
+    },
+    {
+      "team": "All Gas, No Brake",
+      "name": "Marvin Harrison Jr.",
+      "pos": 3,
+      "pts": 9.9,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "Johnny Utah",
+      "name": "Harold Fannin Jr.",
+      "pos": 4,
+      "pts": 9.8,
+      "slot": 6,
+      "starter": true
+    },
+    {
+      "team": "Schrammel's Mammals",
+      "name": "Quentin Johnston",
+      "pos": 3,
+      "pts": 9.8,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Brady's Brilliant Team",
+      "name": "Tyler Warren",
+      "pos": 4,
+      "pts": 9.7,
+      "slot": 6,
+      "starter": true
+    },
+    {
+      "team": "All Gas, No Brake",
+      "name": "Josh Jacobs",
+      "pos": 2,
+      "pts": 9.6,
+      "slot": 2,
+      "starter": true
+    },
+    {
+      "team": "Beth's Best Team",
+      "name": "Rhamondre Stevenson",
+      "pos": 2,
+      "pts": 9.5,
+      "slot": 2,
+      "starter": true
+    },
+    {
+      "team": "Kermaine's Top-Notch Team",
+      "name": "Caleb Williams",
+      "pos": 1,
+      "pts": 9.46,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Rob's Unremarkable Team",
+      "name": "Andrei Iosivas",
+      "pos": 3,
+      "pts": 9.4,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Deanna's Daring Team",
+      "name": "Xavier Worthy",
+      "pos": 3,
+      "pts": 9.4,
+      "slot": 23,
+      "starter": true
+    },
+    {
+      "team": "Deanna's Daring Team",
+      "name": "Nick Chubb",
+      "pos": 2,
+      "pts": 9.4,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Georgie N' tha' Cloons",
+      "name": "Chris Godwin Jr.",
+      "pos": 3,
+      "pts": 9.3,
+      "slot": 21,
+      "starter": false
+    },
+    {
+      "team": "Beth's Best Team",
+      "name": "Hunter Henry",
+      "pos": 4,
+      "pts": 9.3,
+      "slot": 6,
+      "starter": true
+    },
+    {
+      "team": "Jake's Supreme Team",
+      "name": "Ashton Jeanty",
+      "pos": 2,
+      "pts": 9.1,
+      "slot": 23,
+      "starter": true
+    },
+    {
+      "team": "Brady's Brilliant Team",
+      "name": "C.J. Stroud",
+      "pos": 1,
+      "pts": 9.04,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Joe's Finest Team",
+      "name": "Jayden Higgins",
+      "pos": 3,
+      "pts": 9.0,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Deanna's Daring Team",
+      "name": "Dalton Schultz",
+      "pos": 4,
+      "pts": 9.0,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Jake's Supreme Team",
+      "name": "Cameron Dicker",
+      "pos": 5,
+      "pts": 9.0,
+      "slot": 17,
+      "starter": true
+    },
+    {
+      "team": "Tom's !Talented Team",
+      "name": "Ka'imi Fairbairn",
+      "pos": 5,
+      "pts": 9.0,
+      "slot": 17,
+      "starter": true
+    },
+    {
+      "team": "Georgie N' tha' Cloons",
+      "name": "T.J. Hockenson",
+      "pos": 4,
+      "pts": 8.9,
+      "slot": 6,
+      "starter": true
+    },
+    {
+      "team": "All Gas, No Brake",
+      "name": "Kenneth Walker III",
+      "pos": 2,
+      "pts": 8.9,
+      "slot": 23,
+      "starter": true
+    },
+    {
+      "team": "All Gas, No Brake",
+      "name": "Rico Dowdle",
+      "pos": 2,
+      "pts": 8.9,
+      "slot": 23,
+      "starter": true
+    },
+    {
+      "team": "Schrammel's Mammals",
+      "name": "George Kittle",
+      "pos": 4,
+      "pts": 8.7,
+      "slot": 6,
+      "starter": true
+    },
+    {
+      "team": "Joe Buck Yourself",
+      "name": "Deebo Samuel",
+      "pos": 3,
+      "pts": 8.6,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Deanna's Daring Team",
+      "name": "Kareem Hunt",
+      "pos": 2,
+      "pts": 8.5,
+      "slot": 2,
+      "starter": true
+    },
+    {
+      "team": "McConkeyTonk Badonkadonk",
+      "name": "Devin Neal",
+      "pos": 2,
+      "pts": 8.4,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Georgie N' tha' Cloons",
+      "name": "Matt Gay",
+      "pos": 5,
+      "pts": 8.0,
+      "slot": 17,
+      "starter": true
+    },
+    {
+      "team": "Tom's !Talented Team",
+      "name": "Keon Coleman",
+      "pos": 3,
+      "pts": 7.9,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Joe's Finest Team",
+      "name": "DeVonta Smith",
+      "pos": 3,
+      "pts": 7.3,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "Rob's Unremarkable Team",
+      "name": "Woody Marks",
+      "pos": 2,
+      "pts": 7.2,
+      "slot": 23,
+      "starter": true
+    },
+    {
+      "team": "Beth's Best Team",
+      "name": "Ryan Fitzgerald",
+      "pos": 5,
+      "pts": 7.0,
+      "slot": 17,
+      "starter": true
+    },
+    {
+      "team": "Kermaine's Top-Notch Team",
+      "name": "Wan'Dale Robinson",
+      "pos": 3,
+      "pts": 6.9,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "Deanna's Daring Team",
+      "name": "Mark Andrews",
+      "pos": 4,
+      "pts": 6.7,
+      "slot": 6,
+      "starter": true
+    },
+    {
+      "team": "Joe Buck Yourself",
+      "name": "Lamar Jackson",
+      "pos": 1,
+      "pts": 6.54,
+      "slot": 0,
+      "starter": true
+    },
+    {
+      "team": "Tom's !Talented Team",
+      "name": "Juwan Johnson",
+      "pos": 4,
+      "pts": 6.4,
+      "slot": 6,
+      "starter": true
+    },
+    {
+      "team": "Johnny Utah",
+      "name": "Ray Davis",
+      "pos": 2,
+      "pts": 6.2,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Schrammel's Mammals",
+      "name": "Emeka Egbuka",
+      "pos": 3,
+      "pts": 6.2,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "Johnny Utah",
+      "name": "Jordan Addison",
+      "pos": 3,
+      "pts": 6.1,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Rob's Unremarkable Team",
+      "name": "Jake Ferguson",
+      "pos": 4,
+      "pts": 6.1,
+      "slot": 6,
+      "starter": true
+    },
+    {
+      "team": "Joe's Finest Team",
+      "name": "Cam Little",
+      "pos": 5,
+      "pts": 6.0,
+      "slot": 17,
+      "starter": true
+    },
+    {
+      "team": "Brady's Brilliant Team",
+      "name": "Jake Bates",
+      "pos": 5,
+      "pts": 6.0,
+      "slot": 17,
+      "starter": true
+    },
+    {
+      "team": "Joe Buck Yourself",
+      "name": "Cairo Santos",
+      "pos": 5,
+      "pts": 6.0,
+      "slot": 17,
+      "starter": true
+    },
+    {
+      "team": "Tom's !Talented Team",
+      "name": "AJ Barner",
+      "pos": 4,
+      "pts": 5.7,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Kermaine's Top-Notch Team",
+      "name": "Darren Waller",
+      "pos": 4,
+      "pts": 5.7,
+      "slot": 21,
+      "starter": false
+    },
+    {
+      "team": "Tom's !Talented Team",
+      "name": "Saquon Barkley",
+      "pos": 2,
+      "pts": 5.6,
+      "slot": 2,
+      "starter": true
+    },
+    {
+      "team": "Brady's Brilliant Team",
+      "name": "Kenneth Gainwell",
+      "pos": 2,
+      "pts": 5.5,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Tom's !Talented Team",
+      "name": "Jaylen Waddle",
+      "pos": 3,
+      "pts": 5.5,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "Georgie N' tha' Cloons",
+      "name": "Tyjae Spears",
+      "pos": 2,
+      "pts": 5.4,
+      "slot": 23,
+      "starter": true
+    },
+    {
+      "team": "Tom's !Talented Team",
+      "name": "Josh Downs",
+      "pos": 3,
+      "pts": 5.4,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "Tom's !Talented Team",
+      "name": "Jordan Mason",
+      "pos": 2,
+      "pts": 5.3,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "McConkeyTonk Badonkadonk",
+      "name": "Michael Wilson",
+      "pos": 3,
+      "pts": 5.1,
+      "slot": 23,
+      "starter": true
+    },
+    {
+      "team": "Beth's Best Team",
+      "name": "Keenan Allen",
+      "pos": 3,
+      "pts": 5.0,
+      "slot": 23,
+      "starter": true
+    },
+    {
+      "team": "Beth's Best Team",
+      "name": "Tony Pollard",
+      "pos": 2,
+      "pts": 4.8,
+      "slot": 23,
+      "starter": true
+    },
+    {
+      "team": "Joe Buck Yourself",
+      "name": "DK Metcalf",
+      "pos": 3,
+      "pts": 4.7,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "Joe's Finest Team",
+      "name": "Travis Etienne Jr.",
+      "pos": 2,
+      "pts": 4.6,
+      "slot": 23,
+      "starter": true
+    },
+    {
+      "team": "Joe's Finest Team",
+      "name": "Rachaad White",
+      "pos": 2,
+      "pts": 4.4,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Kermaine's Top-Notch Team",
+      "name": "Theo Johnson",
+      "pos": 4,
+      "pts": 4.4,
+      "slot": 6,
+      "starter": true
+    },
+    {
+      "team": "Rob's Unremarkable Team",
+      "name": "Colston Loveland",
+      "pos": 4,
+      "pts": 4.3,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Schrammel's Mammals",
+      "name": "Isiah Pacheco",
+      "pos": 2,
+      "pts": 4.3,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Johnny Utah",
+      "name": "Stefon Diggs",
+      "pos": 3,
+      "pts": 4.1,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "Johnny Utah",
+      "name": "Jerry Jeudy",
+      "pos": 3,
+      "pts": 4.1,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Schrammel's Mammals",
+      "name": "Falcons D/ST",
+      "pos": 16,
+      "pts": 4.0,
+      "slot": 16,
+      "starter": true
+    },
+    {
+      "team": "Jake's Supreme Team",
+      "name": "Texans D/ST",
+      "pos": 16,
+      "pts": 4.0,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Tom's !Talented Team",
+      "name": "Cooper Kupp",
+      "pos": 3,
+      "pts": 3.9,
+      "slot": 23,
+      "starter": true
+    },
+    {
+      "team": "Johnny Utah",
+      "name": "Tyrone Tracy Jr.",
+      "pos": 2,
+      "pts": 3.8,
+      "slot": 23,
+      "starter": true
+    },
+    {
+      "team": "All Gas, No Brake",
+      "name": "Brian Thomas Jr.",
+      "pos": 3,
+      "pts": 3.8,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Joe's Finest Team",
+      "name": "DJ Moore",
+      "pos": 3,
+      "pts": 3.7,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "Kermaine's Top-Notch Team",
+      "name": "John Metchie III",
+      "pos": 3,
+      "pts": 3.7,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "McConkeyTonk Badonkadonk",
+      "name": "Dallas Goedert",
+      "pos": 4,
+      "pts": 3.7,
+      "slot": 6,
+      "starter": true
+    },
+    {
+      "team": "Joe's Finest Team",
+      "name": "Tre Tucker",
+      "pos": 3,
+      "pts": 3.5,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Kermaine's Top-Notch Team",
+      "name": "Darnell Mooney",
+      "pos": 3,
+      "pts": 3.5,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Georgie N' tha' Cloons",
+      "name": "Jaxon Smith-Njigba",
+      "pos": 3,
+      "pts": 3.3,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "Joe's Finest Team",
+      "name": "Oronde Gadsden",
+      "pos": 4,
+      "pts": 3.2,
+      "slot": 6,
+      "starter": true
+    },
+    {
+      "team": "McConkeyTonk Badonkadonk",
+      "name": "Parker Washington",
+      "pos": 3,
+      "pts": 3.1,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "All Gas, No Brake",
+      "name": "Troy Franklin",
+      "pos": 3,
+      "pts": 3.1,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "Rob's Unremarkable Team",
+      "name": "Browns D/ST",
+      "pos": 16,
+      "pts": 3.0,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Tom's !Talented Team",
+      "name": "Colts D/ST",
+      "pos": 16,
+      "pts": 3.0,
+      "slot": 16,
+      "starter": true
+    },
+    {
+      "team": "All Gas, No Brake",
+      "name": "Jake Elliott",
+      "pos": 5,
+      "pts": 3.0,
+      "slot": 17,
+      "starter": true
+    },
+    {
+      "team": "Beth's Best Team",
+      "name": "Steelers D/ST",
+      "pos": 16,
+      "pts": 3.0,
+      "slot": 16,
+      "starter": true
+    },
+    {
+      "team": "Tom's !Talented Team",
+      "name": "Aaron Rodgers",
+      "pos": 1,
+      "pts": 2.68,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Schrammel's Mammals",
+      "name": "Brian Robinson Jr.",
+      "pos": 2,
+      "pts": 2.6,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Joe's Finest Team",
+      "name": "Aaron Jones Sr.",
+      "pos": 2,
+      "pts": 2.5,
+      "slot": 23,
+      "starter": true
+    },
+    {
+      "team": "Joe Buck Yourself",
+      "name": "Ricky Pearsall",
+      "pos": 3,
+      "pts": 2.4,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "All Gas, No Brake",
+      "name": "Greg Dortch",
+      "pos": 3,
+      "pts": 2.4,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Beth's Best Team",
+      "name": "Rashid Shaheed",
+      "pos": 3,
+      "pts": 2.1,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Joe's Finest Team",
+      "name": "Packers D/ST",
+      "pos": 16,
+      "pts": 2.0,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Deanna's Daring Team",
+      "name": "Tyler Loop",
+      "pos": 5,
+      "pts": 2.0,
+      "slot": 17,
+      "starter": true
+    },
+    {
+      "team": "Beth's Best Team",
+      "name": "Jacory Croskey-Merritt",
+      "pos": 2,
+      "pts": 2.0,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Joe's Finest Team",
+      "name": "Cade Otton",
+      "pos": 4,
+      "pts": 1.9,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Georgie N' tha' Cloons",
+      "name": "Michael Pittman Jr.",
+      "pos": 3,
+      "pts": 1.8,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "Brady's Brilliant Team",
+      "name": "Rome Odunze",
+      "pos": 3,
+      "pts": 1.8,
+      "slot": 23,
+      "starter": true
+    },
+    {
+      "team": "Deanna's Daring Team",
+      "name": "Justin Jefferson",
+      "pos": 3,
+      "pts": 1.4,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "Joe Buck Yourself",
+      "name": "Emanuel Wilson",
+      "pos": 2,
+      "pts": 1.4,
+      "slot": 23,
+      "starter": true
+    },
+    {
+      "team": "Georgie N' tha' Cloons",
+      "name": "Elic Ayomanor",
+      "pos": 3,
+      "pts": 1.0,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Rob's Unremarkable Team",
+      "name": "Rams D/ST",
+      "pos": 16,
+      "pts": 1.0,
+      "slot": 16,
+      "starter": true
+    },
+    {
+      "team": "Brady's Brilliant Team",
+      "name": "Ravens D/ST",
+      "pos": 16,
+      "pts": 1.0,
+      "slot": 16,
+      "starter": true
+    },
+    {
+      "team": "Schrammel's Mammals",
+      "name": "Chris Boswell",
+      "pos": 5,
+      "pts": 1.0,
+      "slot": 17,
+      "starter": true
+    },
+    {
+      "team": "McConkeyTonk Badonkadonk",
+      "name": "Khalil Shakir",
+      "pos": 3,
+      "pts": 1.0,
+      "slot": 23,
+      "starter": true
+    },
+    {
+      "team": "Joe Buck Yourself",
+      "name": "Eagles D/ST",
+      "pos": 16,
+      "pts": 1.0,
+      "slot": 16,
+      "starter": true
+    },
+    {
+      "team": "All Gas, No Brake",
+      "name": "Broncos D/ST",
+      "pos": 16,
+      "pts": 1.0,
+      "slot": 16,
+      "starter": true
+    },
+    {
+      "team": "Johnny Utah",
+      "name": "Jayden Reed",
+      "pos": 3,
+      "pts": 0.0,
+      "slot": 21,
+      "starter": false
+    },
+    {
+      "team": "Johnny Utah",
+      "name": "Brock Wright",
+      "pos": 4,
+      "pts": 0.0,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Joe's Finest Team",
+      "name": "Trey Benson",
+      "pos": 2,
+      "pts": 0.0,
+      "slot": 21,
+      "starter": false
+    },
+    {
+      "team": "Georgie N' tha' Cloons",
+      "name": "Russell Wilson",
+      "pos": 1,
+      "pts": 0.0,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Georgie N' tha' Cloons",
+      "name": "Hunter Long",
+      "pos": 4,
+      "pts": 0.0,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Rob's Unremarkable Team",
+      "name": "Mike Evans",
+      "pos": 3,
+      "pts": 0.0,
+      "slot": 21,
+      "starter": false
+    },
+    {
+      "team": "Deanna's Daring Team",
+      "name": "Cedric Tillman",
+      "pos": 3,
+      "pts": 0.0,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Deanna's Daring Team",
+      "name": "Joshua Palmer",
+      "pos": 3,
+      "pts": 0.0,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Deanna's Daring Team",
+      "name": "Jaylin Noel",
+      "pos": 3,
+      "pts": 0.0,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Brady's Brilliant Team",
+      "name": "Amon-Ra St. Brown",
+      "pos": 3,
+      "pts": 0.0,
+      "slot": 4,
+      "starter": true
+    },
+    {
+      "team": "Brady's Brilliant Team",
+      "name": "Drake London",
+      "pos": 3,
+      "pts": 0.0,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Brady's Brilliant Team",
+      "name": "Alvin Kamara",
+      "pos": 2,
+      "pts": 0.0,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Brady's Brilliant Team",
+      "name": "Brandon Aiyuk",
+      "pos": 3,
+      "pts": 0.0,
+      "slot": 21,
+      "starter": false
+    },
+    {
+      "team": "Schrammel's Mammals",
+      "name": "Sean Tucker",
+      "pos": 2,
+      "pts": 0.0,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Jake's Supreme Team",
+      "name": "Jayden Daniels",
+      "pos": 1,
+      "pts": 0.0,
+      "slot": 21,
+      "starter": false
+    },
+    {
+      "team": "Tom's !Talented Team",
+      "name": "Tee Higgins",
+      "pos": 3,
+      "pts": 0.0,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Tom's !Talented Team",
+      "name": "Omarion Hampton",
+      "pos": 2,
+      "pts": 0.0,
+      "slot": 21,
+      "starter": false
+    },
+    {
+      "team": "Joe Buck Yourself",
+      "name": "Dalton Kincaid",
+      "pos": 4,
+      "pts": 0.0,
+      "slot": 20,
+      "starter": false
+    },
+    {
+      "team": "Beth's Best Team",
+      "name": "Garrett Wilson",
+      "pos": 3,
+      "pts": 0.0,
+      "slot": 21,
+      "starter": false
+    },
+    {
+      "team": "Deanna's Daring Team",
+      "name": "Zay Flowers",
+      "pos": 3,
+      "pts": -0.4,
+      "slot": 23,
+      "starter": true
+    },
+    {
+      "team": "All Gas, No Brake",
+      "name": "Chimere Dike",
+      "pos": 3,
+      "pts": -0.6,
+      "slot": 20,
+      "starter": false
+    }
+  ]
+}

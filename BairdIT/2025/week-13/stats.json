@@ -1,0 +1,55 @@
+{
+  "league": "Baird IT",
+  "season": 2025,
+  "week": 13,
+  "matchups": [
+    {"winner": "InstantRiyaPlay", "winner_score": 105.38, "loser": "Little Saucy Boy", "loser_score": 103.4, "margin": 1.98, "upset": false},
+    {"winner": "Amon A Boat!", "winner_score": 121.46, "loser": "The Maddy Efffect", "loser_score": 72.14, "margin": 49.32, "upset": false},
+    {"winner": "NY Jets 2 Holiday", "winner_score": 118.9, "loser": "Jackson's Jukes", "loser_score": 80.98, "margin": 37.92, "upset": false},
+    {"winner": "Skibidi Solar", "winner_score": 140.16, "loser": "Game of Throws", "loser_score": 129.7, "margin": 10.46, "upset": true},
+    {"winner": "Da Beers", "winner_score": 99.24, "loser": "Wes Coast Offense", "loser_score": 72.48, "margin": 26.76, "upset": false}
+  ],
+  "sorted_scores": [
+    ["Skibidi Solar", 140.16], ["Game of Throws", 129.7], ["Amon A Boat!", 121.46], ["NY Jets 2 Holiday", 118.9],
+    ["InstantRiyaPlay", 105.38], ["Little Saucy Boy", 103.4], ["Da Beers", 99.24], ["Jackson's Jukes", 80.98],
+    ["Wes Coast Offense", 72.48], ["The Maddy Efffect", 72.14]
+  ],
+  "biggest_blowout": {"winner": "Amon A Boat!", "loser": "The Maddy Efffect", "margin": 49.32},
+  "closest_game": {"winner": "InstantRiyaPlay", "loser": "Little Saucy Boy", "margin": 1.98},
+  "highest_score": {"team": "Skibidi Solar", "score": 140.16},
+  "lowest_score": {"team": "The Maddy Efffect", "score": 72.14},
+  "player_of_week": {"player": "Patrick Mahomes", "pos": "QB", "team": "NY Jets 2 Holiday", "points": 37.44},
+  "goose_eggs": [
+    {"player": "Amon-Ra St. Brown", "points": 0.0, "team": "Amon A Boat!"},
+    {"player": "Joe Flacco", "points": 0.0, "team": "The Maddy Efffect"},
+    {"player": "Zay Flowers", "points": -0.4, "team": "Wes Coast Offense"},
+    {"player": "Justin Jefferson", "points": 1.4, "team": "Jackson's Jukes"},
+    {"player": "Cade Otton", "points": 1.9, "team": "Wes Coast Offense"}
+  ],
+  "bench_totals": {
+    "Amon A Boat!": 79.3, "Jackson's Jukes": 55.1, "InstantRiyaPlay": 48.82, "The Maddy Efffect": 42.9,
+    "Little Saucy Boy": 42.3, "Wes Coast Offense": 38.0, "NY Jets 2 Holiday": 35.6, "Game of Throws": 28.9,
+    "Da Beers": 28.4, "Skibidi Solar": 19.9
+  },
+  "best_benched_player": {"player": "Joe Burrow", "team": "Amon A Boat!", "points": 23.24},
+  "lineup_efficiency": {
+    "1": {"team": "Amon A Boat!", "actual_points": 121.46, "optimal_points": 142.98, "accuracy_pct": 84.9},
+    "2": {"team": "InstantRiyaPlay", "actual_points": 105.38, "optimal_points": 121.26, "accuracy_pct": 86.9},
+    "3": {"team": "Game of Throws", "actual_points": 129.7, "optimal_points": 132.7, "accuracy_pct": 97.7},
+    "4": {"team": "The Maddy Efffect", "actual_points": 72.14, "optimal_points": 101.94, "accuracy_pct": 70.8},
+    "5": {"team": "Little Saucy Boy", "actual_points": 103.4, "optimal_points": 121.58, "accuracy_pct": 85.0},
+    "6": {"team": "Skibidi Solar", "actual_points": 140.16, "optimal_points": 147.36, "accuracy_pct": 95.1},
+    "7": {"team": "Wes Coast Offense", "actual_points": 72.48, "optimal_points": 104.68, "accuracy_pct": 69.2},
+    "8": {"team": "NY Jets 2 Holiday", "actual_points": 118.9, "optimal_points": 124.9, "accuracy_pct": 95.2},
+    "9": {"team": "Jackson's Jukes", "actual_points": 80.98, "optimal_points": 107.08, "accuracy_pct": 75.6},
+    "12": {"team": "Da Beers", "actual_points": 99.24, "optimal_points": 113.14, "accuracy_pct": 87.7},
+    "most_accurate": {"team": "Game of Throws", "actual_points": 129.7, "optimal_points": 132.7, "accuracy_pct": 97.7},
+    "least_accurate": {"team": "Wes Coast Offense", "actual_points": 72.48, "optimal_points": 104.68, "accuracy_pct": 69.2}
+  },
+  "trades": [],
+  "streaks": {
+    "cold": [{"team": "The Maddy Efffect", "streak": "LOSS 3"}]
+  },
+  "no_dst_or_k_note": "League does not roster D/ST or K (only positions QB/RB/WR/TE used, slot IDs 0/2/4/6/7/20/21/23) - no defense/kicker commentary included.",
+  "notes": "Data verified against sorted scores and roster entries in data.json."
+}
