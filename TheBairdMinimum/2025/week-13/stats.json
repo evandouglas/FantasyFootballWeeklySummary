@@ -1,0 +1,58 @@
+{
+  "league": "The Baird Minimum",
+  "season": 2025,
+  "week": 13,
+  "matchups": [
+    {"winner": "Johnny Utah", "winner_score": 118.54, "loser": "Joe's Finest Team", "loser_score": 66.06, "margin": 52.48, "upset": false},
+    {"winner": "Rob's Unremarkable Team", "winner_score": 107.9, "loser": "Georgie N' tha' Cloons", "loser_score": 106.34, "margin": 1.56, "upset": true},
+    {"winner": "Deanna's Daring Team", "winner_score": 96.56, "loser": "Brady's Brilliant Team", "loser_score": 82.56, "margin": 14.0, "upset": false},
+    {"winner": "Jake's Supreme Team", "winner_score": 123.74, "loser": "Schrammel's Mammals", "loser_score": 107.78, "margin": 15.96, "upset": false},
+    {"winner": "Kermaine's Top-Notch Team", "winner_score": 110.64, "loser": "Tom's !Talented Team", "loser_score": 76.22, "margin": 34.42, "upset": false},
+    {"winner": "McConkeyTonk Badonkadonk", "winner_score": 106.04, "loser": "Joe Buck Yourself", "loser_score": 71.04, "margin": 35.0, "upset": false},
+    {"winner": "Beth's Best Team", "winner_score": 90.92, "loser": "All Gas, No Brake", "loser_score": 78.0, "margin": 12.92, "upset": false}
+  ],
+  "sorted_scores": [
+    ["Jake's Supreme Team", 123.74], ["Johnny Utah", 118.54], ["Kermaine's Top-Notch Team", 110.64],
+    ["Rob's Unremarkable Team", 107.9], ["Schrammel's Mammals", 107.78], ["Georgie N' tha' Cloons", 106.34],
+    ["McConkeyTonk Badonkadonk", 106.04], ["Deanna's Daring Team", 96.56], ["Beth's Best Team", 90.92],
+    ["Brady's Brilliant Team", 82.56], ["All Gas, No Brake", 78.0], ["Tom's !Talented Team", 76.22],
+    ["Joe Buck Yourself", 71.04], ["Joe's Finest Team", 66.06]
+  ],
+  "biggest_blowout": {"winner": "Johnny Utah", "loser": "Joe's Finest Team", "margin": 52.48},
+  "closest_game": {"winner": "Rob's Unremarkable Team", "loser": "Georgie N' tha' Cloons", "margin": 1.56, "upset": true},
+  "highest_score": {"team": "Jake's Supreme Team", "score": 123.74},
+  "lowest_score": {"team": "Joe's Finest Team", "score": 66.06},
+  "player_of_week": {"player": "A.J. Brown", "pos": "WR", "team": "Deanna's Daring Team", "points": 30.2},
+  "goose_eggs": [
+    {"player": "Zay Flowers", "points": -0.4, "team": "Deanna's Daring Team"},
+    {"player": "Amon-Ra St. Brown", "points": 0.0, "team": "Brady's Brilliant Team"},
+    {"player": "Justin Jefferson", "points": 1.4, "team": "Deanna's Daring Team"},
+    {"player": "Rome Odunze", "points": 1.8, "team": "Brady's Brilliant Team"},
+    {"player": "Michael Pittman Jr.", "points": 1.8, "team": "Georgie N' tha' Cloons"}
+  ],
+  "bench_totals": {
+    "Jake's Supreme Team": 65.2, "Kermaine's Top-Notch Team": 64.0, "Joe Buck Yourself": 61.94,
+    "Beth's Best Team": 53.56, "McConkeyTonk Badonkadonk": 52.6, "Rob's Unremarkable Team": 39.4,
+    "Georgie N' tha' Cloons": 33.54, "Schrammel's Mammals": 32.0, "Johnny Utah": 29.76,
+    "Brady's Brilliant Team": 26.24, "Tom's !Talented Team": 21.58, "Joe's Finest Team": 20.8,
+    "Deanna's Daring Team": 18.4, "All Gas, No Brake": 17.22
+  },
+  "best_benched_player": {"player": "Bryce Young", "team": "Joe Buck Yourself", "points": 22.54},
+  "lineup_efficiency": {
+    "1": {"team": "Joe Buck Yourself", "actual_points": 71.04, "optimal_points": 117.94, "accuracy_pct": 60.2},
+    "2": {"team": "McConkeyTonk Badonkadonk", "actual_points": 106.04, "optimal_points": 137.34, "accuracy_pct": 77.2},
+    "3": {"team": "Georgie N' tha' Cloons", "actual_points": 106.34, "optimal_points": 116.44, "accuracy_pct": 91.3},
+    "4": {"team": "Deanna's Daring Team", "actual_points": 96.56, "optimal_points": 113.96, "accuracy_pct": 84.7},
+    "5": {"team": "Schrammel's Mammals", "actual_points": 107.78, "optimal_points": 116.88, "accuracy_pct": 92.2},
+    "6": {"team": "Kermaine's Top-Notch Team", "actual_points": 110.64, "optimal_points": 134.94, "accuracy_pct": 82.0},
+    "most_accurate": {"team": "All Gas, No Brake", "actual_points": 78.0, "optimal_points": 78.7, "accuracy_pct": 99.1},
+    "least_accurate": {"team": "Joe Buck Yourself", "actual_points": 71.04, "optimal_points": 117.94, "accuracy_pct": 60.2}
+  },
+  "trades": [],
+  "streaks": {
+    "hot": [{"team": "Jake's Supreme Team", "streak": "WIN 3"}],
+    "cold": [{"team": "Tom's !Talented Team", "streak": "LOSS 4"}]
+  },
+  "no_dst_or_k_note": "Both D/ST and K are rostered/started in this league (slot IDs 16/17 used).",
+  "notes": "Data verified against sorted scores and roster entries in data.json."
+}
