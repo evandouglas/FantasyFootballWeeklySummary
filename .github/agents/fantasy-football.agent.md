@@ -71,11 +71,14 @@ This is solvable exactly, not just approximated, because each roster entry's `pl
 **Matchup Drama:**
 - **Rivalry results** — if league has known rivalries/divisions
 - **Comeback attempts** — teams down big on Sunday night who made it close
-- **Primetime drama** — IF a schedule file (`nfl-schedule-{seasonId}.json` or fallback `nfl-schedule.json`) exists in the workspace root AND it actually contains an event for `event.week.number == {week}` (a missing/incomplete cache is common — see the schedule-loading step above; don't assume the file's mere existence means this week's games are in it):
+- **Primetime drama** — its own independent storyline, not something to fold into the Closest Game/Biggest Blowout superlatives. A primetime performance is notable on its own merit — it doesn't need to have decided a matchup's margin to be worth a callout. IF a schedule file (`nfl-schedule-{seasonId}.json` or fallback `nfl-schedule.json`) exists in the workspace root AND it actually contains an event for `event.week.number == {week}` (a missing/incomplete cache is common — see the schedule-loading step above; don't assume the file's mere existence means this week's games are in it):
   - Read the raw ESPN response's `events[]` and filter by `event.week.number == {week}`.
-  - Use each event's `id`, `date`, `name`, `competitions`, and `broadcasts` fields for game timing and matchup details. Treat the earliest event as the week opener and the latest event as the week ender; identify Sunday-night games from their broadcast metadata when available.
+  - Use each event's `id`, `date`, `name`, `competitions`, and `broadcasts` fields for game timing and matchup details. Treat the earliest event as the week opener and the latest event as the week ender; identify Sunday-night/Monday-night games from their broadcast metadata when available.
   - **Match player stats to games:** each roster entry's `playerPoolEntry.player.stats[]` array has multiple blocks per player; find the one where `scoringPeriodId == week` and `statSourceId == 0` (the real/actual result, not a projection) — that block's `externalId` field (a numeric string, e.g. `"401772743"`) equals a schedule event's top-level `id`. This is a verified, confirmed-working join key — use it directly rather than guessing at other fields.
-  - Identify if a fantasy matchup was decided by primetime performances
+  - Look for standalone primetime moments, each worth its own callout regardless of whether it swung a matchup's margin:
+    - A rough performance in the week's opening game (the earliest event, often Thursday/international) — that manager stews on it the rest of the week.
+    - A big performance in the week's closing game (the latest event, often Monday night) — especially a last-minute/miracle contribution, even if it wasn't the difference in a close game.
+    - A primetime performance that fueled a genuine comeback win, even in a matchup that isn't otherwise the Closest Game.
   - Example: "Team A won by 5 points thanks to Josh Allen's 30-point Monday night miracle"
   - Example: "The week started with Davante Adams dropping 25 in Wednesday's opener"
 - Without a matching schedule file, no event for this week in it, or when the relevant event/game ID is unavailable, skip timing-based commentary (data not available)
@@ -97,7 +100,7 @@ This is solvable exactly, not just approximated, because each roster entry's `pl
 - **Division races** — if league has divisions, track division leader changes
 - **Elimination watch** — teams falling out of playoff contention (weeks 12-14)
 
-Use these when relevant—don't force every stat every week. Pick 2-3 that make the best story. Exception: Most Accurate Lineup and Least Accurate Lineup are always included as Superlatives (see Lineup Efficiency above), not optional storylines.
+Use these when relevant — don't force a stat that isn't actually there this week. There's no fixed limit on how many of these to include: if it's a real, verified storyline that adds something new, include it. The only constraint is against repetition — don't restate the same underlying fact (same team, same stat) across multiple bullets or sections just to pad the recap out. Exception: Most Accurate Lineup and Least Accurate Lineup are always included as Superlatives (see Lineup Efficiency above), not optional storylines.
 
 ## Playoff Context & Standings
 
@@ -182,11 +185,11 @@ _{Casual, funny one-liner capturing the week's biggest story or most absurd mome
 
 ## 📣 Shoutouts
 
-{2–3 bullet points highlighting notable storylines. ALWAYS mention trades if any happened this week, naming both teams involved by resolving their `teamId`s (encourages trading culture). Then prioritize: win/loss streaks (3+ games), streak breakers (beating a juggernaut or snapping a long losing streak), first wins after 4+ losses, unlucky losses (high scorers who lost), waiver wire winners (only if the pickup had a huge game, like 20+ pts), repeat offenders (lowest scorer multiple weeks). Keep each bullet ≤ 2 sentences. Only reference positions/slots this league actually rosters (see Roster Reality Check).}
+{Bullet points highlighting notable storylines — no fixed count, include every verified storyline that adds real value, but never repeat the same underlying fact (same team/stat) across bullets just to fill space. ALWAYS mention trades if any happened this week, naming both teams involved by resolving their `teamId`s (encourages trading culture). Then prioritize: win/loss streaks (3+ games), streak breakers (beating a juggernaut or snapping a long losing streak), first wins after 4+ losses, unlucky losses (high scorers who lost), waiver wire winners (only if the pickup had a huge game, like 20+ pts), repeat offenders (lowest scorer multiple weeks). Keep each bullet ≤ 2 sentences. Only reference positions/slots this league actually rosters (see Roster Reality Check).}
 
 ## 🎤 Hot Takes
 
-{2–3 bullet points of spicy trash talk: defensive disasters, goose eggs, bad lineup decisions, ongoing losing streaks, etc. Each bullet ≤ 2 sentences. Only reference positions/slots this league actually rosters (see Roster Reality Check) — skip defensive/kicker jokes entirely for leagues that don't roster D/ST or K.}
+{Bullet points of spicy trash talk: defensive disasters, goose eggs, bad lineup decisions, ongoing losing streaks, etc. No fixed count — include every verified one worth roasting, but don't repeat a fact already used in Shoutouts or elsewhere. Each bullet ≤ 2 sentences. Only reference positions/slots this league actually rosters (see Roster Reality Check) — skip defensive/kicker jokes entirely for leagues that don't roster D/ST or K.}
 
 ## 📈 Vibes Check
 
