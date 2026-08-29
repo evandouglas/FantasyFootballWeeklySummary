@@ -1,0 +1,20 @@
+{
+  "league": "TheBairdMinimum",
+  "season": 2025,
+  "week": 13,
+  "player_of_the_week": {"player": "A.J. Brown", "position": "WR", "points": 30.2, "fantasy_team": "Deanna's Daring Team"},
+  "bench_warmer": {"player": "Bryce Young", "position": "QB", "points": 22.54, "team": "Joe Buck Yourself"},
+  "goose_eggs": [
+    {"team": "Brady's Brilliant Team", "player": "Amon-Ra St. Brown", "position": "WR", "points": 0.0},
+    {"team": "Deanna's Daring Team", "player": "Zay Flowers", "position": "WR", "points": -0.4},
+    {"team": "Georgie N' tha' Cloons", "player": "Michael Pittman Jr.", "position": "WR", "points": 1.8},
+    {"team": "Deanna's Daring Team", "player": "Justin Jefferson", "position": "WR", "points": 1.4},
+    {"team": "Joe Buck Yourself", "player": "Emanuel Wilson", "position": "RB", "points": 1.4},
+    {"team": "Schrammel's Mammals", "player": "Chris Boswell", "position": "K", "points": 1.0},
+    {"team": "McConkeyTonk Badonkadonk", "player": "Khalil Shakir", "position": "WR", "points": 1.0}
+  ],
+  "primetime_performances": [
+    {"player": "Jordan Love", "team_fantasy": "Deanna's Daring Team", "game": "Packers @ Lions (week opener)", "points": 25.76},
+    {"player": "Drake Maye", "team_fantasy": "Schrammel's Mammals", "game": "Giants @ Patriots (week closer)", "points": 20.48}
+  ]
+}
