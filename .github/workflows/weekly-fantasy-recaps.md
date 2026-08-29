@@ -23,7 +23,7 @@ engine:
   id: copilot
   agent: fantasy-football
 max-ai-credits: 500
-max-turns: 60
+max-turns: 100
 network:
   allowed:
     - defaults
