@@ -3,7 +3,7 @@ name: Weekly Fantasy Football Recaps
 description: Fetch ESPN results and create reviewed weekly recaps for every configured league
 on:
   schedule:
-    - cron: "0 14 * * 2"
+    - cron: "0 13 * * 2"
   workflow_dispatch:
     inputs:
       week:
