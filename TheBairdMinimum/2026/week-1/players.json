@@ -1,0 +1,27 @@
+{
+  "player_of_week": {"name": "Caleb Williams", "position": "QB", "points": 37.26, "fantasy_team": "Schrammel's Mammals"},
+  "bench_warmer_of_week": {"name": "Jalen Coker", "position": "WR", "points": 29.8, "fantasy_team": "Brady's Brilliant Team"},
+  "top_rb": {"name": "Derrick Henry", "points": 34.8, "fantasy_team": "Chuba Chuba Choo Choo"},
+  "top_wr": {"name": "Justin Jefferson", "points": 27.2, "fantasy_team": "Jake's Supreme Team"},
+  "top_te": {"name": "Dallas Goedert", "points": 21.7, "fantasy_team": "Bilbo Flagons"},
+  "top_k": {"name": "Tyler Loop", "points": 14.0, "fantasy_team": "Jake's Supreme Team"},
+  "goose_eggs": [
+    {"name": "Brandon Aubrey", "position": "K", "points": 2.0, "fantasy_team": "Beth's Best Team"},
+    {"name": "Cameron Dicker", "position": "K", "points": 2.0, "fantasy_team": "Schrammel's Mammals"},
+    {"name": "Broncos D/ST", "position": "D/ST", "points": 2.0, "fantasy_team": "Joe's Finest Team"},
+    {"name": "Jake Ferguson", "position": "TE", "points": 1.6, "fantasy_team": "Brady's Brilliant Team"},
+    {"name": "Rams D/ST", "position": "D/ST", "points": 1.0, "fantasy_team": "Brady's Brilliant Team"},
+    {"name": "Harrison Mevis", "position": "K", "points": 1.0, "fantasy_team": "Brady's Brilliant Team"},
+    {"name": "Jaylen Waddle", "position": "WR", "points": 0.7, "fantasy_team": "I'm Too Weak"},
+    {"name": "Chargers D/ST", "position": "D/ST", "points": 0.0, "fantasy_team": "Chuba Chuba Choo Choo"},
+    {"name": "Kyle Pitts Sr.", "position": "TE", "points": 0.0, "fantasy_team": "Johnny Utah"},
+    {"name": "Colston Loveland", "position": "TE", "points": 0.0, "fantasy_team": "Schrammel's Mammals"},
+    {"name": "Kyler Murray", "position": "QB", "points": -0.38, "fantasy_team": "Bilbo Flagons"},
+    {"name": "Browns D/ST", "position": "D/ST", "points": -1.0, "fantasy_team": "Bilbo Flagons"},
+    {"name": "Texans D/ST", "position": "D/ST", "points": -4.0, "fantasy_team": "Beth's Best Team"}
+  ],
+  "defensive_disasters": [
+    {"name": "Browns D/ST", "points": -1.0, "fantasy_team": "Bilbo Flagons"},
+    {"name": "Texans D/ST", "points": -4.0, "fantasy_team": "Beth's Best Team"}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "player_of_week": {"name": "Caleb Williams", "position": "QB", "points": 41.26, "fantasy_team": "Game of Throws"},
+  "bench_warmer_of_week": {"name": "Bryce Young", "position": "QB", "points": 36.44, "fantasy_team": "Green Egbukas and Hampton"},
+  "top_rb": {"name": "Derrick Henry", "points": 34.8, "fantasy_team": "First and Freestyle"},
+  "top_wr": {"name": "Christian Watson", "points": 29.7, "fantasy_team": "I am Kenough"},
+  "top_te": {"name": "Dallas Goedert", "points": 21.7, "fantasy_team": "First and Freestyle"},
+  "qb_duels": [
+    {"qb1": "Lamar Jackson", "pts1": 26.96, "qb2": "Jaxson Dart", "pts2": 32.6},
+    {"qb1": "Trevor Lawrence", "pts1": 34.1, "qb2": "Jaxson Dart", "pts2": 32.6},
+    {"qb1": "Caleb Williams", "pts1": 41.26, "qb2": "Josh Allen", "pts2": 39.66}
+  ],
+  "goose_eggs": [
+    {"name": "Jaylen Waddle", "position": "WR", "points": 0.7, "fantasy_team": "I am Kenough"},
+    {"name": "Sam Darnold", "position": "QB", "points": 0.52, "fantasy_team": "First and Freestyle"},
+    {"name": "Kyle Pitts Sr.", "position": "TE", "points": 0.0, "fantasy_team": "Jackson\u2019s Jukes"},
+    {"name": "Myles Garrett", "position": "?", "points": 0.0, "fantasy_team": "Jackson\u2019s Jukes"},
+    {"name": "Colston Loveland", "position": "TE", "points": 0.0, "fantasy_team": "Da Beers"},
+    {"name": "Kyler Murray", "position": "QB", "points": -1.38, "fantasy_team": "InstantRiyaPlay"}
+  ]
+}

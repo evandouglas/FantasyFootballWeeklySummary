@@ -1,0 +1,44 @@
+{
+  "league": "The Baird Minimum",
+  "season": 2026,
+  "week": 1,
+  "matchups": [
+    {"winner": "Bilbo Flagons", "winner_score": 98.02, "loser": "Brady's Brilliant Team", "loser_score": 58.1, "margin": 39.92},
+    {"winner": "All Gas, No Brake", "winner_score": 134.7, "loser": "Joe Buck Yourself", "loser_score": 111.02, "margin": 23.68},
+    {"winner": "Jake's Supreme Team", "winner_score": 159.22, "loser": "Auto Draft All Stars", "loser_score": 113.46, "margin": 45.76},
+    {"winner": "Chuba Chuba Choo Choo", "winner_score": 121.84, "loser": "Beth's Best Team", "loser_score": 78.56, "margin": 43.28},
+    {"winner": "Johnny Utah", "winner_score": 118.66, "loser": "Schrammel's Mammals", "loser_score": 101.06, "margin": 17.6},
+    {"winner": "I'm Too Weak", "winner_score": 97.94, "loser": "Joe's Finest Team", "loser_score": 79.36, "margin": 18.58}
+  ],
+  "highest_score": {"team": "Jake's Supreme Team", "score": 159.22},
+  "lowest_score": {"team": "Brady's Brilliant Team", "score": 58.1},
+  "biggest_blowout": {"winner": "Jake's Supreme Team", "loser": "Auto Draft All Stars", "margin": 45.76},
+  "closest_game": {"winner": "Johnny Utah", "loser": "Schrammel's Mammals", "margin": 17.6},
+  "player_of_week": {"player": "Caleb Williams", "position": "QB", "nfl_team_id": 3, "points": 37.26, "fantasy_team": "Schrammel's Mammals"},
+  "bench_warmer_of_week": {"player": "Jalen Coker", "position": "WR", "points": 29.8, "fantasy_team": "Brady's Brilliant Team"},
+  "lineup_efficiency": {
+    "most_accurate": {"team": "Jake's Supreme Team", "actual_points": 159.22, "optimal_points": 160.32, "accuracy_pct": 99.3},
+    "least_accurate": {"team": "Brady's Brilliant Team", "actual_points": 58.1, "optimal_points": 101.4, "accuracy_pct": 57.3}
+  },
+  "defensive_disasters": [
+    {"player": "Browns D/ST", "points": -1.0, "fantasy_team": "Bilbo Flagons"},
+    {"player": "Texans D/ST", "points": -4.0, "fantasy_team": "Beth's Best Team"}
+  ],
+  "goose_eggs_count": 13,
+  "bench_outscored_starters": {"team": "Brady's Brilliant Team", "bench_points": 69.0, "starter_points": 58.1},
+  "unlucky_losses": [
+    {"team": "Auto Draft All Stars", "score": 113.46},
+    {"team": "Joe Buck Yourself", "score": 111.02}
+  ],
+  "top_rb": {"player": "Derrick Henry", "points": 34.8, "fantasy_team": "Chuba Chuba Choo Choo"},
+  "top_wr": {"player": "Justin Jefferson", "points": 27.2, "fantasy_team": "Jake's Supreme Team"},
+  "top_te": {"player": "Dallas Goedert", "points": 21.7, "fantasy_team": "Bilbo Flagons"},
+  "top_k": {"player": "Tyler Loop", "points": 14.0, "fantasy_team": "Jake's Supreme Team"},
+  "primetime": {
+    "opener": {"player": "Jaxon Smith-Njigba", "points": 22.2, "fantasy_team": "All Gas, No Brake"},
+    "closer": {"player": "Kenneth Walker III", "points": 32.6, "fantasy_team": "All Gas, No Brake", "note": "fueled the All Gas, No Brake win"}
+  },
+  "trades": [],
+  "streaks": [],
+  "notes": "Week 1 — no streaks yet, no completed trades this week."
+}

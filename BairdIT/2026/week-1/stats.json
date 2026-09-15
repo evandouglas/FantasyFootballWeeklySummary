@@ -1,0 +1,42 @@
+{
+  "league": "Baird IT",
+  "season": 2026,
+  "week": 1,
+  "matchups": [
+    {"winner": "The Ladd Fathers", "winner_score": 165.46, "loser": "The Maddy Efffect", "loser_score": 105.22, "margin": 60.24},
+    {"winner": "I am Kenough", "winner_score": 122.8, "loser": "DEFENSE DADDIES", "loser_score": 89.84, "margin": 32.96},
+    {"winner": "Green Egbukas and Hampton", "winner_score": 114.36, "loser": "InstantRiyaPlay", "loser_score": 111.38, "margin": 2.98},
+    {"winner": "Jackson\u2019s Jukes", "winner_score": 96.0, "loser": "HOT BOYZ", "loser_score": 94.14, "margin": 1.86},
+    {"winner": "First and Freestyle", "winner_score": 172.98, "loser": "Game of Throws", "loser_score": 155.82, "margin": 17.16},
+    {"winner": "Packlog Bearslayers", "winner_score": 130.28, "loser": "Da Beers", "loser_score": 103.94, "margin": 26.34}
+  ],
+  "highest_score": {"team": "First and Freestyle", "score": 172.98},
+  "lowest_score": {"team": "DEFENSE DADDIES", "score": 89.84},
+  "biggest_blowout": {"winner": "The Ladd Fathers", "loser": "The Maddy Efffect", "margin": 60.24},
+  "closest_game": {"winner": "Jackson\u2019s Jukes", "loser": "HOT BOYZ", "margin": 1.86},
+  "player_of_week": {"player": "Caleb Williams", "position": "QB", "points": 41.26, "fantasy_team": "Game of Throws"},
+  "bench_warmer_of_week": {"player": "Bryce Young", "position": "QB", "points": 36.44, "fantasy_team": "Green Egbukas and Hampton"},
+  "lineup_efficiency": {
+    "most_accurate": {"team": "The Ladd Fathers", "actual_points": 165.46, "optimal_points": 168.56, "accuracy_pct": 98.2},
+    "least_accurate": {"team": "InstantRiyaPlay", "actual_points": 111.38, "optimal_points": 147.94, "accuracy_pct": 75.3}
+  },
+  "qb_duels": [
+    {"qb1": "Lamar Jackson", "pts1": 26.96, "qb2": "Jaxson Dart", "pts2": 32.6, "teams": ["The Ladd Fathers", "The Maddy Efffect"]},
+    {"qb1": "Trevor Lawrence", "pts1": 34.1, "qb2": "Jaxson Dart", "pts2": 32.6, "teams": ["The Ladd Fathers", "The Maddy Efffect"]},
+    {"qb1": "Caleb Williams", "pts1": 41.26, "qb2": "Josh Allen", "pts2": 39.66, "teams": ["Game of Throws", "First and Freestyle"]}
+  ],
+  "goose_eggs_count": 6,
+  "unlucky_losses": [
+    {"team": "Game of Throws", "score": 155.82}
+  ],
+  "top_rb": {"player": "Derrick Henry", "points": 34.8, "fantasy_team": "First and Freestyle"},
+  "top_wr": {"player": "Christian Watson", "points": 29.7, "fantasy_team": "I am Kenough"},
+  "top_te": {"player": "Dallas Goedert", "points": 21.7, "fantasy_team": "First and Freestyle"},
+  "primetime": {
+    "opener": {"player": "Jaxon Smith-Njigba", "points": 22.2, "fantasy_team": "Green Egbukas and Hampton"},
+    "closer": {"player": "Kenneth Walker III", "points": 32.6, "fantasy_team": "I am Kenough"}
+  },
+  "trades": [],
+  "streaks": [],
+  "notes": "Week 1 — no streaks yet, no completed trades this week. League does not roster D/ST or K."
+}
