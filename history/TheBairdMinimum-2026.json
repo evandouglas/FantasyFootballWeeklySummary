@@ -1,0 +1,21 @@
+{
+  "league": "TheBairdMinimum",
+  "season": 2026,
+  "weeks": [
+    {
+      "week": 1,
+      "matchups": [
+        {"winner": "Bilbo Flagons", "winner_score": 98.02, "loser": "Brady's Brilliant Team", "loser_score": 58.1},
+        {"winner": "All Gas, No Brake", "winner_score": 134.7, "loser": "Joe Buck Yourself", "loser_score": 111.02},
+        {"winner": "Jake's Supreme Team", "winner_score": 159.22, "loser": "Auto Draft All Stars", "loser_score": 113.46},
+        {"winner": "Chuba Chuba Choo Choo", "winner_score": 121.84, "loser": "Beth's Best Team", "loser_score": 78.56},
+        {"winner": "Johnny Utah", "winner_score": 118.66, "loser": "Schrammel's Mammals", "loser_score": 101.06},
+        {"winner": "I'm Too Weak", "winner_score": 97.94, "loser": "Joe's Finest Team", "loser_score": 79.36}
+      ],
+      "lowest_scorer": {
+        "team": "Brady's Brilliant Team",
+        "score": 58.1
+      }
+    }
+  ]
+}

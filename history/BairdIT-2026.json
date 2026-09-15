@@ -1,0 +1,21 @@
+{
+  "league": "BairdIT",
+  "season": 2026,
+  "weeks": [
+    {
+      "week": 1,
+      "matchups": [
+        {"winner": "The Ladd Fathers", "winner_score": 165.46, "loser": "The Maddy Efffect", "loser_score": 105.22},
+        {"winner": "I am Kenough", "winner_score": 122.8, "loser": "DEFENSE DADDIES", "loser_score": 89.84},
+        {"winner": "Green Egbukas and Hampton", "winner_score": 114.36, "loser": "InstantRiyaPlay", "loser_score": 111.38},
+        {"winner": "Jackson\u2019s Jukes", "winner_score": 96.0, "loser": "HOT BOYZ", "loser_score": 94.14},
+        {"winner": "First and Freestyle", "winner_score": 172.98, "loser": "Game of Throws", "loser_score": 155.82},
+        {"winner": "Packlog Bearslayers", "winner_score": 130.28, "loser": "Da Beers", "loser_score": 103.94}
+      ],
+      "lowest_scorer": {
+        "team": "DEFENSE DADDIES",
+        "score": 89.84
+      }
+    }
+  ]
+}
