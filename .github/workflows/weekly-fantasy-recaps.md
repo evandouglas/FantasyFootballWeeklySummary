@@ -55,7 +55,7 @@ tools:
     - python3
 mcp-scripts:
   fetch-espn-leagues:
-    description: Fetch the current completed-week ESPN data for every league in config.json and write each league's raw data.json directly to its final path. Returns only small per-league summaries, never the raw payload, so responses stay small. Credentials are isolated to this read-only tool and are never returned.
+    description: Fetch the current completed-week ESPN data for every league in config.json and write each league's raw data.json directly to its final path, merging in each rostered player's injuryStatus/injured fields (via a second kona_player_info lookup) since the main boxscore views don't include them. Returns only small per-league summaries, never the raw payload, so responses stay small. Credentials are isolated to this read-only tool and are never returned.
     inputs:
       week_override:
         type: number
@@ -95,9 +95,53 @@ mcp-scripts:
           now = datetime.now(timezone.utc)
           return now.year - 1 if now.month < 3 else now.year
 
-      def fetch(url):
-          with urlopen(Request(url, headers=headers), timeout=60) as response:
+      def fetch(url, extra_headers=None):
+          req_headers = dict(headers)
+          if extra_headers:
+              req_headers.update(extra_headers)
+          with urlopen(Request(url, headers=req_headers), timeout=60) as response:
               return json.load(response)
+
+      def rostered_player_ids(data, week):
+          # mBoxscore roster entries omit injuryStatus; collect ids so we can look it up separately
+          ids = set()
+          for matchup in data.get("schedule", []):
+              if matchup.get("matchupPeriodId") != week:
+                  continue
+              for side in ("home", "away"):
+                  roster = matchup.get(side, {}).get("rosterForCurrentScoringPeriod")
+                  if not roster:
+                      continue
+                  for entry in roster["entries"]:
+                      ids.add(entry["playerId"])
+          return sorted(ids)
+
+      def fetch_injury_statuses(season, league_id, player_ids):
+          # kona_player_info + X-Fantasy-Filter (scoped to our rostered ids) returns injuryStatus/injured
+          if not player_ids:
+              return {}
+          filter_header = {"X-Fantasy-Filter": json.dumps({"players": {"filterIds": {"value": player_ids}}})}
+          url = base.format(season=season, league=league_id) + "?" + urlencode({"view": ["kona_player_info"]}, doseq=True)
+          info = fetch(url, extra_headers=filter_header)
+          return {
+              p["player"]["id"]: {"injuryStatus": p["player"].get("injuryStatus"), "injured": p["player"].get("injured")}
+              for p in info.get("players", [])
+          }
+
+      def merge_injury_statuses(data, week, injury_by_id):
+          if not injury_by_id:
+              return
+          for matchup in data.get("schedule", []):
+              if matchup.get("matchupPeriodId") != week:
+                  continue
+              for side in ("home", "away"):
+                  roster = matchup.get(side, {}).get("rosterForCurrentScoringPeriod")
+                  if not roster:
+                      continue
+                  for entry in roster["entries"]:
+                      info = injury_by_id.get(entry["playerId"])
+                      if info:
+                          entry["playerPoolEntry"]["player"].update(info)
 
       summaries = {}
       for key, league in config.get("leagues", {}).items():
@@ -115,6 +159,13 @@ mcp-scripts:
           params["scoringPeriodId"] = str(week)
           data_url = base.format(season=effective_season, league=league["leagueId"]) + "?" + urlencode(params, doseq=True)
           data = fetch(data_url)
+
+          try:
+              injury_by_id = fetch_injury_statuses(effective_season, league["leagueId"], rostered_player_ids(data, week))
+              merge_injury_statuses(data, week, injury_by_id)
+          except Exception:
+              # injury data is a nice-to-have; never fail the whole recap fetch over it
+              pass
 
           output_dir = root / key / str(effective_season) / f"week-{week}"
           output_dir.mkdir(parents=True, exist_ok=True)
