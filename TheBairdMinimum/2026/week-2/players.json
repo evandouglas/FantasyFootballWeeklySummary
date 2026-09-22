@@ -1,0 +1,128 @@
+{
+  "player_of_week": {
+    "team_id": 14,
+    "name": "Josh Allen",
+    "pos": "QB",
+    "nfl_team": 2,
+    "points": 40.82,
+    "bench": false,
+    "injuryStatus": "ACTIVE",
+    "injured": false,
+    "external_id": "401872932"
+  },
+  "bench_warmer": {
+    "team_id": 13,
+    "name": "Dak Prescott",
+    "pos": "QB",
+    "nfl_team": 6,
+    "points": 29.76,
+    "bench": true,
+    "injuryStatus": "ACTIVE",
+    "injured": false,
+    "external_id": "401872944"
+  },
+  "best_rb": {
+    "team_id": 3,
+    "name": "Jonathan Taylor",
+    "pos": "RB",
+    "nfl_team": 11,
+    "points": 27.200000000000003,
+    "bench": false,
+    "injuryStatus": "ACTIVE",
+    "injured": false,
+    "external_id": "401872945"
+  },
+  "best_wr": {
+    "team_id": 10,
+    "name": "Jaxon Smith-Njigba",
+    "pos": "WR",
+    "nfl_team": 26,
+    "points": 38.0,
+    "bench": false,
+    "injuryStatus": "ACTIVE",
+    "injured": false,
+    "external_id": "401872943"
+  },
+  "best_te": {
+    "team_id": 14,
+    "name": "Travis Kelce",
+    "pos": "TE",
+    "nfl_team": 12,
+    "points": 20.6,
+    "bench": false,
+    "injuryStatus": "ACTIVE",
+    "injured": false,
+    "external_id": "401872945"
+  },
+  "goose_eggs": [
+    [
+      "DJ Moore",
+      10,
+      -0.1
+    ],
+    [
+      "Lions D/ST",
+      10,
+      -4.0
+    ],
+    [
+      "Chiefs D/ST",
+      6,
+      1.0
+    ],
+    [
+      "Wan'Dale Robinson",
+      3,
+      1.4
+    ],
+    [
+      "Dallas Goedert",
+      3,
+      0.9
+    ],
+    [
+      "Kyle Pitts Sr.",
+      9,
+      2.0
+    ],
+    [
+      "Alec Pierce",
+      9,
+      1.6
+    ],
+    [
+      "Malik Nabers",
+      7,
+      0.6
+    ],
+    [
+      "Colston Loveland",
+      5,
+      0.8
+    ],
+    [
+      "Cameron Dicker",
+      5,
+      1.0
+    ]
+  ],
+  "defensive_disasters": [
+    [
+      "Lions D/ST",
+      10,
+      -4.0
+    ]
+  ],
+  "multi_blunder_teams": {
+    "9": [
+      [
+        "Joe Burrow",
+        16.18
+      ],
+      [
+        "Rashod Bateman",
+        18.3
+      ]
+    ]
+  }
+}

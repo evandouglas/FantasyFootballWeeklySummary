@@ -1,0 +1,71 @@
+{
+  "league": "TheBairdMinimum",
+  "season": 2026,
+  "week": 2,
+  "matchups": [
+    {"winner": "All Gas, No Brake", "winner_score": 126.28, "loser": "Brady's Brilliant Team", "loser_score": 107.42},
+    {"winner": "Bilbo Flagons", "winner_score": 104.3, "loser": "Auto Draft All Stars", "loser_score": 90.28},
+    {"winner": "Chuba Chuba Choo Choo", "winner_score": 134.08, "loser": "Joe Buck Yourself", "loser_score": 82.12},
+    {"winner": "Johnny Utah", "winner_score": 99.78, "loser": "Jake's Supreme Team", "loser_score": 86.26},
+    {"winner": "Beth's Best Team", "winner_score": 137.22, "loser": "I'm Too Weak", "loser_score": 84.62, "upset": true},
+    {"winner": "Joe's Finest Team", "winner_score": 103.5, "loser": "Schrammel's Mammals", "loser_score": 91.52}
+  ],
+  "biggest_blowout": {"winner": "Beth's Best Team", "loser": "I'm Too Weak", "margin": 52.6},
+  "closest_game": {"winner": "Joe's Finest Team", "loser": "Schrammel's Mammals", "margin": 11.98},
+  "highest_score": {"team": "Beth's Best Team", "owner": "Beth", "score": 137.22},
+  "lowest_score": {"team": "Joe Buck Yourself", "owner": "Riya", "score": 82.12},
+  "unlucky_losses": [
+    {"team": "Brady's Brilliant Team", "owner": "Brady", "score": 107.42, "rank": 4}
+  ],
+  "player_of_week": {"name": "Josh Allen", "pos": "QB", "nfl_team": "BUF", "points": 40.82, "fantasy_team": "Beth's Best Team"},
+  "bench_warmer": {"team": "Joe's Finest Team", "owner": "Joe", "player": "Dak Prescott", "points": 29.76},
+  "most_bench_points": {"team": "Schrammel's Mammals", "owner": "Carl", "points": 59.38},
+  "lineup_efficiency": {
+    "most_accurate": {"team": "Chuba Chuba Choo Choo", "owner": "Evan", "accuracy_pct": 100.0, "actual": 134.08, "optimal": 134.08},
+    "least_accurate": {"team": "Schrammel's Mammals", "owner": "Carl", "accuracy_pct": 78.8, "actual": 91.52, "optimal": 116.08}
+  },
+  "goose_eggs": [
+    {"player": "DJ Moore", "team": "All Gas, No Brake", "points": -0.1},
+    {"player": "Lions D/ST", "team": "All Gas, No Brake", "points": -4.0},
+    {"player": "Chiefs D/ST", "team": "Auto Draft All Stars", "points": 1.0},
+    {"player": "Wan'Dale Robinson", "team": "Bilbo Flagons", "points": 1.4},
+    {"player": "Dallas Goedert", "team": "Bilbo Flagons", "points": 0.9},
+    {"player": "Kyle Pitts Sr.", "team": "Johnny Utah", "points": 2.0},
+    {"player": "Alec Pierce", "team": "Johnny Utah", "points": 1.6},
+    {"player": "Malik Nabers", "team": "I'm Too Weak", "points": 0.6},
+    {"player": "Colston Loveland", "team": "Schrammel's Mammals", "points": 0.8},
+    {"player": "Cameron Dicker", "team": "Schrammel's Mammals", "points": 1.0}
+  ],
+  "defensive_disasters": [
+    {"player": "Lions D/ST", "team": "All Gas, No Brake", "points": -4.0}
+  ],
+  "multi_bench_blunders": {
+    "Johnny Utah": [{"player": "Joe Burrow", "points": 16.18}, {"player": "Rashod Bateman", "points": 18.3}]
+  },
+  "position_dominance": {
+    "RB": {"player": "Jonathan Taylor", "team": "Bilbo Flagons", "points": 27.2},
+    "WR": {"player": "Jaxon Smith-Njigba", "team": "All Gas, No Brake", "points": 38.0},
+    "TE": {"player": "Travis Kelce", "team": "Beth's Best Team", "points": 20.6}
+  },
+  "injury_report": {
+    "most_injuries": {"team": "Auto Draft All Stars", "owner": "Sara", "count": 4},
+    "thin_lineup_starters": [
+      {"player": "Saquon Barkley", "team": "Brady's Brilliant Team", "status": "QUESTIONABLE"},
+      {"player": "DJ Moore", "team": "All Gas, No Brake", "status": "QUESTIONABLE"},
+      {"player": "Dallas Goedert", "team": "Bilbo Flagons", "status": "DOUBTFUL"},
+      {"player": "Mike Evans", "team": "Joe Buck Yourself", "status": "QUESTIONABLE"},
+      {"player": "Alec Pierce", "team": "Johnny Utah", "status": "DOUBTFUL"},
+      {"player": "Malik Nabers", "team": "I'm Too Weak", "status": "QUESTIONABLE"},
+      {"player": "Jadarian Price", "team": "Schrammel's Mammals", "status": "QUESTIONABLE"},
+      {"player": "Caleb Williams", "team": "Schrammel's Mammals", "status": "DOUBTFUL"}
+    ]
+  },
+  "waiver_wire_winner": {"team": "Johnny Utah", "owner": "Justin", "player": "Rashod Bateman", "points": 18.3},
+  "trades": [],
+  "primetime": {
+    "opener": {"event": "DET @ BUF", "notes": "DJ Moore (-0.1) and Lions D/ST (-4.0) both bombed for Zack in Thursday's opener"},
+    "ender": {"event": "NYG @ LAR", "notes": "Matthew Stafford (26.98) closed Monday night strong for Zack; Davante Adams (35.5) also went off Monday for William"}
+  },
+  "streaks": {"hot": [], "cold": [], "undefeated": [], "winless": []},
+  "no_trades_reason": "Only ROSTER/WAIVER/FREEAGENT transactions this week; no TRADE_ACCEPT/TRADE_UPHOLD records."
+}
