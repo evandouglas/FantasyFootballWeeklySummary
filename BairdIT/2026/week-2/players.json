@@ -1,0 +1,112 @@
+{
+  "player_of_week": {
+    "team_id": 7,
+    "name": "Josh Allen",
+    "pos": "QB",
+    "nfl_team": 2,
+    "points": 46.82,
+    "bench": false,
+    "injuryStatus": "ACTIVE",
+    "injured": false,
+    "external_id": "401872932"
+  },
+  "bench_warmer": {
+    "team_id": 5,
+    "name": "Bryce Young",
+    "pos": "QB",
+    "nfl_team": 29,
+    "points": 30.08,
+    "bench": true,
+    "injuryStatus": "ACTIVE",
+    "injured": false,
+    "external_id": "401872933"
+  },
+  "best_rb": {
+    "team_id": 12,
+    "name": "Jonathan Taylor",
+    "pos": "RB",
+    "nfl_team": 11,
+    "points": 27.200000000000003,
+    "bench": false,
+    "injuryStatus": "ACTIVE",
+    "injured": false,
+    "external_id": "401872945"
+  },
+  "best_wr": {
+    "team_id": 5,
+    "name": "Jaxon Smith-Njigba",
+    "pos": "WR",
+    "nfl_team": 26,
+    "points": 38.0,
+    "bench": false,
+    "injuryStatus": "ACTIVE",
+    "injured": false,
+    "external_id": "401872943"
+  },
+  "best_te": {
+    "team_id": 8,
+    "name": "Travis Kelce",
+    "pos": "TE",
+    "nfl_team": 12,
+    "points": 20.6,
+    "bench": false,
+    "injuryStatus": "ACTIVE",
+    "injured": false,
+    "external_id": "401872945"
+  },
+  "goose_eggs": [
+    [
+      "Michael Pittman Jr.",
+      6,
+      0.0
+    ],
+    [
+      "Malik Nabers",
+      8,
+      0.6
+    ],
+    [
+      "Jaxson Dart",
+      4,
+      0.8
+    ],
+    [
+      "DJ Moore",
+      9,
+      -0.1
+    ],
+    [
+      "Maxx Crosby",
+      2,
+      1.0
+    ],
+    [
+      "Puka Nacua",
+      12,
+      0.0
+    ],
+    [
+      "Colston Loveland",
+      12,
+      0.8
+    ],
+    [
+      "Dallas Goedert",
+      7,
+      0.9
+    ]
+  ],
+  "defensive_disasters": [],
+  "multi_blunder_teams": {
+    "3": [
+      [
+        "C.J. Stroud",
+        17.020000000000003
+      ],
+      [
+        "Dalton Kincaid",
+        19.0
+      ]
+    ]
+  }
+}

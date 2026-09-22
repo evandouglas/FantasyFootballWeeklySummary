@@ -1,0 +1,70 @@
+{
+  "league": "BairdIT",
+  "season": 2026,
+  "week": 2,
+  "matchups": [
+    {"winner": "DEFENSE DADDIES", "winner_score": 130.76, "loser": "The Ladd Fathers", "loser_score": 87.56, "upset": true},
+    {"winner": "I am Kenough", "winner_score": 121.06, "loser": "The Maddy Efffect", "loser_score": 91.72},
+    {"winner": "Jackson's Jukes", "winner_score": 126.94, "loser": "InstantRiyaPlay", "loser_score": 88.28},
+    {"winner": "Green Egbukas and Hampton", "winner_score": 170.64, "loser": "HOT BOYZ", "loser_score": 101.64},
+    {"winner": "Da Beers", "winner_score": 88.18, "loser": "Game of Throws", "loser_score": 65.96},
+    {"winner": "Packlog Bearslayers", "winner_score": 140.88, "loser": "First and Freestyle", "loser_score": 120.32}
+  ],
+  "biggest_blowout": {"winner": "Green Egbukas and Hampton", "loser": "HOT BOYZ", "margin": 69.0},
+  "closest_game": {"winner": "Packlog Bearslayers", "loser": "First and Freestyle", "margin": 20.56},
+  "highest_score": {"team": "Green Egbukas and Hampton", "owner": "Rob", "score": 170.64},
+  "lowest_score": {"team": "Game of Throws", "owner": "Demarion", "score": 65.96},
+  "unlucky_losses": [
+    {"team": "First and Freestyle", "owner": "Mike", "score": 120.32, "rank": 6}
+  ],
+  "player_of_week": {"name": "Josh Allen", "pos": "QB", "nfl_team": "BUF", "points": 46.82, "fantasy_team": "First and Freestyle"},
+  "bench_warmer": {"team": "Green Egbukas and Hampton", "owner": "Rob", "player": "Bryce Young", "points": 30.08},
+  "most_bench_points": {"team": "Green Egbukas and Hampton", "owner": "Rob", "points": 59.78},
+  "lineup_efficiency": {
+    "most_accurate": {"team": "Packlog Bearslayers", "owner": "jerome", "accuracy_pct": 98.1, "actual": 140.88, "optimal": 143.58},
+    "least_accurate": {"team": "Game of Throws", "owner": "Demarion", "accuracy_pct": 68.5, "actual": 65.96, "optimal": 96.26}
+  },
+  "goose_eggs": [
+    {"player": "Michael Pittman Jr.", "team": "DEFENSE DADDIES", "points": 0.0},
+    {"player": "Malik Nabers", "team": "I am Kenough", "points": 0.6},
+    {"player": "Jaxson Dart", "team": "The Maddy Efffect", "points": 0.8},
+    {"player": "DJ Moore", "team": "Jackson's Jukes", "points": -0.1},
+    {"player": "Maxx Crosby", "team": "InstantRiyaPlay", "points": 1.0},
+    {"player": "Puka Nacua", "team": "Da Beers", "points": 0.0},
+    {"player": "Colston Loveland", "team": "Da Beers", "points": 0.8},
+    {"player": "Dallas Goedert", "team": "First and Freestyle", "points": 0.9}
+  ],
+  "position_dominance": {
+    "RB": {"player": "Jonathan Taylor", "team": "Da Beers", "points": 27.2},
+    "WR": {"player": "Jaxon Smith-Njigba", "team": "Green Egbukas and Hampton", "points": 38.0},
+    "TE": {"player": "Travis Kelce", "team": "I am Kenough", "points": 20.6}
+  },
+  "multi_bench_blunders": {
+    "Game of Throws": [{"player": "C.J. Stroud", "points": 17.02}, {"player": "Dalton Kincaid", "points": 19.0}]
+  },
+  "injury_report": {
+    "most_injuries": {"team": "Game of Throws", "owner": "Demarion", "count": 4},
+    "thin_lineup_starters": [
+      {"player": "Rico Dowdle", "team": "DEFENSE DADDIES", "status": "QUESTIONABLE"},
+      {"player": "Michael Pittman Jr.", "team": "DEFENSE DADDIES", "status": "OUT"},
+      {"player": "Saquon Barkley", "team": "I am Kenough", "status": "QUESTIONABLE"},
+      {"player": "Malik Nabers", "team": "I am Kenough", "status": "QUESTIONABLE"},
+      {"player": "Jaxson Dart", "team": "The Maddy Efffect", "status": "QUESTIONABLE"},
+      {"player": "DJ Moore", "team": "Jackson's Jukes", "status": "QUESTIONABLE"},
+      {"player": "Mike Evans", "team": "HOT BOYZ", "status": "QUESTIONABLE"},
+      {"player": "Puka Nacua", "team": "Da Beers", "status": "OUT"},
+      {"player": "Jayden Daniels", "team": "Game of Throws", "status": "DOUBTFUL"},
+      {"player": "Caleb Williams", "team": "Game of Throws", "status": "DOUBTFUL"},
+      {"player": "Jadarian Price", "team": "Game of Throws", "status": "QUESTIONABLE"},
+      {"player": "Dallas Goedert", "team": "First and Freestyle", "status": "DOUBTFUL"}
+    ]
+  },
+  "waiver_wire_winner": null,
+  "trades": [],
+  "primetime": {
+    "opener": {"event": "DET @ BUF", "notes": "Josh Allen (46.82) torched the Thursday opener for Mike's First and Freestyle"},
+    "ender": {"event": "NYG @ LAR", "notes": "Matthew Stafford (33.98) closed out Monday night for Julianna; Davante Adams (36.5) also went off Monday for Benjamin"}
+  },
+  "streaks": {"hot": [], "cold": [], "undefeated": [], "winless": []},
+  "no_trades_reason": "One TRADE_DECLINE (never executed); no completed trades this week."
+}
