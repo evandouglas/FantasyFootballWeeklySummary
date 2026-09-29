@@ -1,0 +1,305 @@
+{
+  "league": "BairdIT",
+  "season": 2026,
+  "week": 3,
+  "matchups": [
+    {
+      "winner": "I am Kenough",
+      "winner_score": 125.82,
+      "loser": "The Ladd Fathers",
+      "loser_score": 106.22
+    },
+    {
+      "winner": "DEFENSE DADDIES",
+      "winner_score": 147.96,
+      "loser": "The Maddy Efffect ",
+      "loser_score": 139.9
+    },
+    {
+      "winner": "InstantRiyaPlay",
+      "winner_score": 130.26,
+      "loser": "HOT BOYZ",
+      "loser_score": 128.78
+    },
+    {
+      "winner": "Jackson\u2019s Jukes",
+      "winner_score": 128.14,
+      "loser": "Green Egbukas and Hampton",
+      "loser_score": 108.64
+    },
+    {
+      "winner": "Packlog Bearslayers",
+      "winner_score": 133.18,
+      "loser": "Game of Throws",
+      "loser_score": 68.68
+    },
+    {
+      "winner": "First and Freestyle",
+      "winner_score": 140.12,
+      "loser": "Da Beers",
+      "loser_score": 93.4
+    }
+  ],
+  "biggest_blowout": {
+    "winner": "Packlog Bearslayers",
+    "loser": "Game of Throws",
+    "margin": 64.5
+  },
+  "closest_game": {
+    "winner": "InstantRiyaPlay",
+    "loser": "HOT BOYZ",
+    "margin": 1.48
+  },
+  "highest_score": {
+    "team": "DEFENSE DADDIES",
+    "owner": "Benjamin",
+    "score": 147.96
+  },
+  "lowest_score": {
+    "team": "Game of Throws",
+    "owner": "Demarion",
+    "score": 68.68
+  },
+  "unlucky_losses": [
+    {
+      "team": "The Maddy Efffect ",
+      "owner": "Madalyn",
+      "score": 139.9,
+      "rank": 3
+    },
+    {
+      "team": "HOT BOYZ",
+      "owner": "Michael",
+      "score": 128.78,
+      "rank": 6
+    }
+  ],
+  "player_of_week": {
+    "name": "Brock Purdy",
+    "pos": "QB",
+    "nfl_team": 25,
+    "points": 39.28,
+    "fantasy_team": "DEFENSE DADDIES"
+  },
+  "bench_warmer": {
+    "team": "InstantRiyaPlay",
+    "owner": "Riya",
+    "player": "Jacoby Brissett",
+    "points": 29.6
+  },
+  "most_bench_points": {
+    "team": "Packlog Bearslayers",
+    "owner": "jerome",
+    "points": 72.2
+  },
+  "lineup_efficiency": {
+    "most_accurate": {
+      "team": "I am Kenough",
+      "owner": "Evan",
+      "accuracy_pct": 100.0,
+      "actual": 125.82,
+      "optimal": 125.82
+    },
+    "least_accurate": {
+      "team": "Da Beers",
+      "owner": "Nick",
+      "accuracy_pct": 75.2,
+      "actual": 93.4,
+      "optimal": 124.2
+    }
+  },
+  "goose_eggs": [
+    {
+      "player": "Rico Dowdle",
+      "team": "DEFENSE DADDIES",
+      "points": 0.0
+    },
+    {
+      "player": "Jadarian Price",
+      "team": "Game of Throws",
+      "points": 0.7
+    },
+    {
+      "player": "Kyle Pitts Sr.",
+      "team": "Jackson\u2019s Jukes",
+      "points": 1.0
+    },
+    {
+      "player": "Brian Thomas Jr.",
+      "team": "InstantRiyaPlay",
+      "points": 1.3
+    },
+    {
+      "player": "De'Von Achane",
+      "team": "HOT BOYZ",
+      "points": 1.7
+    },
+    {
+      "player": "Christian Elliss",
+      "team": "Da Beers",
+      "points": 2.0
+    }
+  ],
+  "defensive_disasters": [],
+  "multi_bench_blunders": {
+    "Jackson\u2019s Jukes": [
+      {
+        "player": "Matthew Golden",
+        "points": 18.5
+      },
+      {
+        "player": "Jordan Addison",
+        "points": 17.5
+      }
+    ],
+    "Packlog Bearslayers": [
+      {
+        "player": "Harold Fannin Jr.",
+        "points": 20.6
+      },
+      {
+        "player": "Deebo Samuel Sr.",
+        "points": 15.4
+      },
+      {
+        "player": "Greg Rousseau",
+        "points": 18.5
+      }
+    ],
+    "Da Beers": [
+      {
+        "player": "Jeremiyah Love",
+        "points": 19.4
+      },
+      {
+        "player": "Wan'Dale Robinson",
+        "points": 15.2
+      }
+    ]
+  },
+  "position_dominance": {
+    "RB": {
+      "player": "Jahmyr Gibbs",
+      "team": "InstantRiyaPlay",
+      "points": 37.9
+    },
+    "WR": {
+      "player": "Jaxon Smith-Njigba",
+      "team": "Green Egbukas and Hampton",
+      "points": 30.36
+    },
+    "TE": {
+      "player": "George Kittle",
+      "team": "DEFENSE DADDIES",
+      "points": 23.2
+    }
+  },
+  "injury_report": {
+    "most_injuries": {
+      "team": "I am Kenough",
+      "owner": "Evan",
+      "count": 3
+    },
+    "thin_lineup_starters": [
+      {
+        "player": "Justin Jefferson",
+        "team": "The Ladd Fathers",
+        "status": "QUESTIONABLE"
+      },
+      {
+        "player": "Rico Dowdle",
+        "team": "DEFENSE DADDIES",
+        "status": "OUT"
+      },
+      {
+        "player": "Travis Etienne Jr.",
+        "team": "The Maddy Efffect ",
+        "status": "OUT"
+      },
+      {
+        "player": "Mike Evans",
+        "team": "HOT BOYZ",
+        "status": "QUESTIONABLE"
+      },
+      {
+        "player": "Breece Hall",
+        "team": "Packlog Bearslayers",
+        "status": "QUESTIONABLE"
+      },
+      {
+        "player": "Josh Allen",
+        "team": "First and Freestyle",
+        "status": "QUESTIONABLE"
+      }
+    ]
+  },
+  "waiver_wire_winner": {
+    "team": "The Maddy Efffect ",
+    "owner": "Madalyn",
+    "player": "Geno Smith",
+    "points": 32.04
+  },
+  "trades": [],
+  "no_trades_reason": "No TRADE_* transactions present this week; only ROSTER/WAIVER/FREEAGENT records.",
+  "primetime": {
+    "opener": {
+      "event": "Atlanta Falcons at Green Bay Packers",
+      "notes": "Bijan Robinson (34.3) in the week's opener"
+    },
+    "ender": {
+      "event": "Philadelphia Eagles at Chicago Bears",
+      "notes": "Luther Burden III (16.3) in the week's closer"
+    }
+  },
+  "streaks": {
+    "hot": [
+      {
+        "team": "I am Kenough",
+        "owner": "Evan",
+        "streak": 3
+      },
+      {
+        "team": "Jackson\u2019s Jukes",
+        "owner": "Julianna",
+        "streak": 3
+      },
+      {
+        "team": "Packlog Bearslayers",
+        "owner": "jerome",
+        "streak": 3
+      }
+    ],
+    "cold": [
+      {
+        "team": "Game of Throws",
+        "owner": "Demarion",
+        "streak": 3
+      },
+      {
+        "team": "The Maddy Efffect ",
+        "owner": "Madalyn",
+        "streak": 3
+      },
+      {
+        "team": "HOT BOYZ",
+        "owner": "Michael",
+        "streak": 3
+      }
+    ],
+    "undefeated": [],
+    "winless": [
+      {
+        "team": "Game of Throws",
+        "owner": "Demarion"
+      },
+      {
+        "team": "The Maddy Efffect ",
+        "owner": "Madalyn"
+      },
+      {
+        "team": "HOT BOYZ",
+        "owner": "Michael"
+      }
+    ]
+  }
+}
