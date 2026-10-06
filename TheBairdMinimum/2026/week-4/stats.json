@@ -1,0 +1,477 @@
+{
+  "league": "TheBairdMinimum",
+  "season": 2026,
+  "week": 4,
+  "matchups": [
+    {
+      "home_team_id": 12,
+      "away_team_id": 2,
+      "winner_id": 2,
+      "loser_id": 12,
+      "winner_name": "Chuba Chuba Choo Choo",
+      "loser_name": "Brady's Brilliant Team",
+      "winner_score": 137.48,
+      "loser_score": 107.18,
+      "margin": 30.3
+    },
+    {
+      "home_team_id": 9,
+      "away_team_id": 6,
+      "winner_id": 9,
+      "loser_id": 6,
+      "winner_name": "Johnny Utah",
+      "loser_name": "Auto Draft All Stars",
+      "winner_score": 136.9,
+      "loser_score": 86.12,
+      "margin": 50.78
+    },
+    {
+      "home_team_id": 7,
+      "away_team_id": 10,
+      "winner_id": 10,
+      "loser_id": 7,
+      "winner_name": "All Gas, No Brake",
+      "loser_name": "You Underestimate My Bowers",
+      "winner_score": 109.58,
+      "loser_score": 92.34,
+      "margin": 17.24
+    },
+    {
+      "home_team_id": 13,
+      "away_team_id": 3,
+      "winner_id": 3,
+      "loser_id": 13,
+      "winner_name": "Bilbo Flagons",
+      "loser_name": "Joe's Finest Team",
+      "winner_score": 117.28,
+      "loser_score": 71.68,
+      "margin": 45.6
+    },
+    {
+      "home_team_id": 5,
+      "away_team_id": 1,
+      "winner_id": 5,
+      "loser_id": 1,
+      "winner_name": "Schrammel's Mammals",
+      "loser_name": "Joe Buck Yourself",
+      "winner_score": 177.46,
+      "loser_score": 96.86,
+      "margin": 80.6
+    },
+    {
+      "home_team_id": 14,
+      "away_team_id": 11,
+      "winner_id": 14,
+      "loser_id": 11,
+      "winner_name": "Beth's Best Team",
+      "loser_name": "Jake's Supreme Team",
+      "winner_score": 104.52,
+      "loser_score": 76.42,
+      "margin": 28.1
+    }
+  ],
+  "superlatives": {
+    "biggest_blowout": {
+      "home_team_id": 5,
+      "away_team_id": 1,
+      "winner_id": 5,
+      "loser_id": 1,
+      "winner_name": "Schrammel's Mammals",
+      "loser_name": "Joe Buck Yourself",
+      "winner_score": 177.46,
+      "loser_score": 96.86,
+      "margin": 80.6
+    },
+    "closest_game": {
+      "home_team_id": 7,
+      "away_team_id": 10,
+      "winner_id": 10,
+      "loser_id": 7,
+      "winner_name": "All Gas, No Brake",
+      "loser_name": "You Underestimate My Bowers",
+      "winner_score": 109.58,
+      "loser_score": 92.34,
+      "margin": 17.24
+    },
+    "highest_score": {
+      "team_id": 5,
+      "team": "Schrammel's Mammals",
+      "score": 177.46
+    },
+    "lowest_score": {
+      "team_id": 13,
+      "team": "Joe's Finest Team",
+      "score": 71.68
+    },
+    "player_of_the_week": {
+      "name": "Tetairoa McMillan",
+      "pos": 3,
+      "pts": 38.2,
+      "lineupSlotId": 4,
+      "injuryStatus": "ACTIVE",
+      "injured": false,
+      "proTeamId": 29,
+      "externalId": "401872978",
+      "team": "Brady's Brilliant Team"
+    },
+    "bench_warmer": {
+      "team": "Brady's Brilliant Team",
+      "player": "Kyle Monangai",
+      "pts": 27.5
+    },
+    "most_accurate_lineup": {
+      "team": "Schrammel's Mammals",
+      "actual_points": 177.46,
+      "optimal_points": 180.66,
+      "accuracy_pct": 98.2
+    },
+    "least_accurate_lineup": {
+      "team": "Brady's Brilliant Team",
+      "actual_points": 107.18,
+      "optimal_points": 145.28,
+      "accuracy_pct": 73.8
+    }
+  },
+  "lineup_efficiency": {
+    "1": {
+      "actual_points": 96.86,
+      "optimal_points": 107.86,
+      "accuracy_pct": 89.8
+    },
+    "2": {
+      "actual_points": 137.48,
+      "optimal_points": 154.48,
+      "accuracy_pct": 89.0
+    },
+    "3": {
+      "actual_points": 117.28,
+      "optimal_points": 133.18,
+      "accuracy_pct": 88.1
+    },
+    "5": {
+      "actual_points": 177.46,
+      "optimal_points": 180.66,
+      "accuracy_pct": 98.2
+    },
+    "6": {
+      "actual_points": 86.12,
+      "optimal_points": 104.92,
+      "accuracy_pct": 82.1
+    },
+    "7": {
+      "actual_points": 92.34,
+      "optimal_points": 121.16,
+      "accuracy_pct": 76.2
+    },
+    "9": {
+      "actual_points": 136.9,
+      "optimal_points": 146.92,
+      "accuracy_pct": 93.2
+    },
+    "10": {
+      "actual_points": 109.58,
+      "optimal_points": 123.08,
+      "accuracy_pct": 89.0
+    },
+    "11": {
+      "actual_points": 76.42,
+      "optimal_points": 89.42,
+      "accuracy_pct": 85.5
+    },
+    "12": {
+      "actual_points": 107.18,
+      "optimal_points": 145.28,
+      "accuracy_pct": 73.8
+    },
+    "13": {
+      "actual_points": 71.68,
+      "optimal_points": 86.88,
+      "accuracy_pct": 82.5
+    },
+    "14": {
+      "actual_points": 104.52,
+      "optimal_points": 112.62,
+      "accuracy_pct": 92.8
+    }
+  },
+  "rank_by_score": {
+    "5": 1,
+    "2": 2,
+    "9": 3,
+    "3": 4,
+    "10": 5,
+    "12": 6,
+    "14": 7,
+    "1": 8,
+    "7": 9,
+    "6": 10,
+    "11": 11,
+    "13": 12
+  },
+  "goose_eggs": [
+    {
+      "name": "Saquon Barkley",
+      "pos": 2,
+      "pts": 1.5,
+      "lineupSlotId": 2,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 21,
+      "externalId": "401872970",
+      "team": "Brady's Brilliant Team"
+    },
+    {
+      "name": "Bills D/ST",
+      "pos": 16,
+      "pts": 1.0,
+      "lineupSlotId": 16,
+      "injuryStatus": null,
+      "injured": false,
+      "proTeamId": 2,
+      "externalId": "401872971",
+      "team": "Chuba Chuba Choo Choo"
+    },
+    {
+      "name": "Terry McLaurin",
+      "pos": 3,
+      "pts": 0.0,
+      "lineupSlotId": 4,
+      "injuryStatus": "OUT",
+      "injured": true,
+      "proTeamId": 28,
+      "externalId": "401872965",
+      "team": "Auto Draft All Stars"
+    },
+    {
+      "name": "Chiefs D/ST",
+      "pos": 16,
+      "pts": 1.0,
+      "lineupSlotId": 16,
+      "injuryStatus": null,
+      "injured": false,
+      "proTeamId": 12,
+      "externalId": "401872976",
+      "team": "Auto Draft All Stars"
+    },
+    {
+      "name": "Parker Washington",
+      "pos": 3,
+      "pts": 1.5,
+      "lineupSlotId": 4,
+      "injuryStatus": "ACTIVE",
+      "injured": false,
+      "proTeamId": 30,
+      "externalId": "401872969",
+      "team": "You Underestimate My Bowers"
+    },
+    {
+      "name": "Lions D/ST",
+      "pos": 16,
+      "pts": -1.0,
+      "lineupSlotId": 16,
+      "injuryStatus": null,
+      "injured": false,
+      "proTeamId": 8,
+      "externalId": "401872978",
+      "team": "All Gas, No Brake"
+    },
+    {
+      "name": "Rashee Rice",
+      "pos": 3,
+      "pts": 0.0,
+      "lineupSlotId": 23,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 12,
+      "externalId": "401872976",
+      "team": "Joe's Finest Team"
+    },
+    {
+      "name": "Ladd McConkey",
+      "pos": 3,
+      "pts": 0.0,
+      "lineupSlotId": 23,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 24,
+      "externalId": "401872977",
+      "team": "Jake's Supreme Team"
+    },
+    {
+      "name": "Dalton Kincaid",
+      "pos": 4,
+      "pts": 1.2,
+      "lineupSlotId": 6,
+      "injuryStatus": "ACTIVE",
+      "injured": false,
+      "proTeamId": 2,
+      "externalId": "401872971",
+      "team": "Jake's Supreme Team"
+    }
+  ],
+  "def_disasters": [
+    {
+      "name": "Lions D/ST",
+      "pos": 16,
+      "pts": -1.0,
+      "lineupSlotId": 16,
+      "injuryStatus": null,
+      "injured": false,
+      "proTeamId": 8,
+      "externalId": "401872978",
+      "team": "All Gas, No Brake"
+    }
+  ],
+  "total_bench_points": {
+    "Brady's Brilliant Team": 69.48,
+    "Chuba Chuba Choo Choo": 74.04,
+    "Johnny Utah": 52.42,
+    "Auto Draft All Stars": 55.8,
+    "You Underestimate My Bowers": 54.26,
+    "All Gas, No Brake": 54.5,
+    "Joe's Finest Team": 42.1,
+    "Bilbo Flagons": 43.38,
+    "Schrammel's Mammals": 44.1,
+    "Joe Buck Yourself": 55.86,
+    "Beth's Best Team": 27.02,
+    "Jake's Supreme Team": 36.9
+  },
+  "multi_bench_blunder": [
+    {
+      "team": "Brady's Brilliant Team",
+      "players": [
+        [
+          "Kyle Monangai",
+          27.5
+        ],
+        [
+          "Cam Ward",
+          15.58
+        ]
+      ]
+    },
+    {
+      "team": "Chuba Chuba Choo Choo",
+      "players": [
+        [
+          "Tee Higgins",
+          21.2
+        ],
+        [
+          "Rhamondre Stevenson",
+          16.9
+        ],
+        [
+          "Tyler Shough",
+          15.94
+        ]
+      ]
+    }
+  ],
+  "thin_lineup": [
+    {
+      "name": "Saquon Barkley",
+      "pos": 2,
+      "pts": 1.5,
+      "lineupSlotId": 2,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 21,
+      "externalId": "401872970",
+      "team": "Brady's Brilliant Team"
+    },
+    {
+      "name": "Terry McLaurin",
+      "pos": 3,
+      "pts": 0.0,
+      "lineupSlotId": 4,
+      "injuryStatus": "OUT",
+      "injured": true,
+      "proTeamId": 28,
+      "externalId": "401872965",
+      "team": "Auto Draft All Stars"
+    },
+    {
+      "name": "Marcus Mariota",
+      "pos": 1,
+      "pts": 5.34,
+      "lineupSlotId": 0,
+      "injuryStatus": "DOUBTFUL",
+      "injured": false,
+      "proTeamId": 28,
+      "externalId": "401872965",
+      "team": "You Underestimate My Bowers"
+    },
+    {
+      "name": "Ja'Marr Chase",
+      "pos": 3,
+      "pts": 4.2,
+      "lineupSlotId": 4,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 4,
+      "externalId": "401872969",
+      "team": "Joe's Finest Team"
+    },
+    {
+      "name": "Rashee Rice",
+      "pos": 3,
+      "pts": 0.0,
+      "lineupSlotId": 23,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 12,
+      "externalId": "401872976",
+      "team": "Joe's Finest Team"
+    },
+    {
+      "name": "Lamar Jackson",
+      "pos": 1,
+      "pts": 18.88,
+      "lineupSlotId": 0,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 33,
+      "externalId": "401872973",
+      "team": "Joe's Finest Team"
+    },
+    {
+      "name": "Jeremiyah Love",
+      "pos": 2,
+      "pts": 6.0,
+      "lineupSlotId": 23,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 22,
+      "externalId": "401872966",
+      "team": "Bilbo Flagons"
+    },
+    {
+      "name": "Ladd McConkey",
+      "pos": 3,
+      "pts": 0.0,
+      "lineupSlotId": 23,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 24,
+      "externalId": "401872977",
+      "team": "Jake's Supreme Team"
+    }
+  ],
+  "injury_counts": {
+    "Brady's Brilliant Team": 2,
+    "Chuba Chuba Choo Choo": 2,
+    "Johnny Utah": 1,
+    "Auto Draft All Stars": 4,
+    "You Underestimate My Bowers": 1,
+    "All Gas, No Brake": 1,
+    "Joe's Finest Team": 1,
+    "Bilbo Flagons": 1,
+    "Schrammel's Mammals": 4,
+    "Joe Buck Yourself": 1,
+    "Beth's Best Team": 4,
+    "Jake's Supreme Team": 2
+  },
+  "has_dst": true,
+  "has_k": true
+}

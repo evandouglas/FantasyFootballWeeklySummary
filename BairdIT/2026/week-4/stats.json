@@ -1,0 +1,477 @@
+{
+  "league": "BairdIT",
+  "season": 2026,
+  "week": 4,
+  "matchups": [
+    {
+      "home_team_id": 2,
+      "away_team_id": 1,
+      "winner_id": 2,
+      "loser_id": 1,
+      "winner_name": "InstantRiyaPlay",
+      "loser_name": "The Ladd Fathers",
+      "winner_score": 128.82,
+      "loser_score": 115.36,
+      "margin": 13.46
+    },
+    {
+      "home_team_id": 5,
+      "away_team_id": 4,
+      "winner_id": 4,
+      "loser_id": 5,
+      "winner_name": "The Maddy Efffect ",
+      "loser_name": "Green Egbukas and Hampton",
+      "winner_score": 140.92,
+      "loser_score": 127.44,
+      "margin": 13.48
+    },
+    {
+      "home_team_id": 3,
+      "away_team_id": 6,
+      "winner_id": 6,
+      "loser_id": 3,
+      "winner_name": "DEFENSE DADDIES",
+      "loser_name": "Game of Throws",
+      "winner_score": 112.48,
+      "loser_score": 111.28,
+      "margin": 1.2
+    },
+    {
+      "home_team_id": 7,
+      "away_team_id": 8,
+      "winner_id": 8,
+      "loser_id": 7,
+      "winner_name": "I am Kenough",
+      "loser_name": "First and Freestyle",
+      "winner_score": 139.02,
+      "loser_score": 122.94,
+      "margin": 16.08
+    },
+    {
+      "home_team_id": 12,
+      "away_team_id": 9,
+      "winner_id": 9,
+      "loser_id": 12,
+      "winner_name": "Jackson\u2019s Jukes",
+      "loser_name": "Da Beers",
+      "winner_score": 101.58,
+      "loser_score": 88.92,
+      "margin": 12.66
+    },
+    {
+      "home_team_id": 14,
+      "away_team_id": 13,
+      "winner_id": 13,
+      "loser_id": 14,
+      "winner_name": "HOT BOYZ",
+      "loser_name": "Packlog Bearslayers",
+      "winner_score": 156.68,
+      "loser_score": 108.62,
+      "margin": 48.06
+    }
+  ],
+  "superlatives": {
+    "biggest_blowout": {
+      "home_team_id": 14,
+      "away_team_id": 13,
+      "winner_id": 13,
+      "loser_id": 14,
+      "winner_name": "HOT BOYZ",
+      "loser_name": "Packlog Bearslayers",
+      "winner_score": 156.68,
+      "loser_score": 108.62,
+      "margin": 48.06
+    },
+    "closest_game": {
+      "home_team_id": 3,
+      "away_team_id": 6,
+      "winner_id": 6,
+      "loser_id": 3,
+      "winner_name": "DEFENSE DADDIES",
+      "loser_name": "Game of Throws",
+      "winner_score": 112.48,
+      "loser_score": 111.28,
+      "margin": 1.2
+    },
+    "highest_score": {
+      "team_id": 13,
+      "team": "HOT BOYZ",
+      "score": 156.68
+    },
+    "lowest_score": {
+      "team_id": 12,
+      "team": "Da Beers",
+      "score": 88.92
+    },
+    "player_of_the_week": {
+      "name": "Tetairoa McMillan",
+      "pos": 3,
+      "pts": 38.2,
+      "lineupSlotId": 4,
+      "injuryStatus": "ACTIVE",
+      "injured": false,
+      "proTeamId": 29,
+      "externalId": "401872978",
+      "team": "HOT BOYZ"
+    },
+    "bench_warmer": {
+      "team": "Game of Throws",
+      "player": "Nico Collins",
+      "pts": 27.3
+    },
+    "most_accurate_lineup": {
+      "team": "InstantRiyaPlay",
+      "actual_points": 128.82,
+      "optimal_points": 129.28,
+      "accuracy_pct": 99.6
+    },
+    "least_accurate_lineup": {
+      "team": "Packlog Bearslayers",
+      "actual_points": 108.62,
+      "optimal_points": 149.22,
+      "accuracy_pct": 72.8
+    }
+  },
+  "lineup_efficiency": {
+    "1": {
+      "actual_points": 115.36,
+      "optimal_points": 128.06,
+      "accuracy_pct": 90.1
+    },
+    "2": {
+      "actual_points": 128.82,
+      "optimal_points": 129.28,
+      "accuracy_pct": 99.6
+    },
+    "3": {
+      "actual_points": 111.28,
+      "optimal_points": 151.98,
+      "accuracy_pct": 73.2
+    },
+    "4": {
+      "actual_points": 140.92,
+      "optimal_points": 148.02,
+      "accuracy_pct": 95.2
+    },
+    "5": {
+      "actual_points": 127.44,
+      "optimal_points": 131.14,
+      "accuracy_pct": 97.2
+    },
+    "6": {
+      "actual_points": 112.48,
+      "optimal_points": 139.28,
+      "accuracy_pct": 80.8
+    },
+    "7": {
+      "actual_points": 122.94,
+      "optimal_points": 148.84,
+      "accuracy_pct": 82.6
+    },
+    "8": {
+      "actual_points": 139.02,
+      "optimal_points": 146.32,
+      "accuracy_pct": 95.0
+    },
+    "9": {
+      "actual_points": 101.58,
+      "optimal_points": 113.58,
+      "accuracy_pct": 89.4
+    },
+    "12": {
+      "actual_points": 88.92,
+      "optimal_points": 109.82,
+      "accuracy_pct": 81.0
+    },
+    "13": {
+      "actual_points": 156.68,
+      "optimal_points": 170.18,
+      "accuracy_pct": 92.1
+    },
+    "14": {
+      "actual_points": 108.62,
+      "optimal_points": 149.22,
+      "accuracy_pct": 72.8
+    }
+  },
+  "rank_by_score": {
+    "13": 1,
+    "4": 2,
+    "8": 3,
+    "2": 4,
+    "5": 5,
+    "7": 6,
+    "1": 7,
+    "6": 8,
+    "3": 9,
+    "14": 10,
+    "9": 11,
+    "12": 12
+  },
+  "goose_eggs": [
+    {
+      "name": "Ladd McConkey",
+      "pos": 3,
+      "pts": 0.0,
+      "lineupSlotId": 4,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 24,
+      "externalId": "401872977",
+      "team": "The Ladd Fathers"
+    },
+    {
+      "name": "Jadarian Price",
+      "pos": 2,
+      "pts": 0.0,
+      "lineupSlotId": 2,
+      "injuryStatus": "INJURY_RESERVE",
+      "injured": true,
+      "proTeamId": 26,
+      "externalId": "401872977",
+      "team": "Game of Throws"
+    },
+    {
+      "name": "Dalton Kincaid",
+      "pos": 4,
+      "pts": 1.2,
+      "lineupSlotId": 6,
+      "injuryStatus": "ACTIVE",
+      "injured": false,
+      "proTeamId": 2,
+      "externalId": "401872971",
+      "team": "Game of Throws"
+    },
+    {
+      "name": "Rico Dowdle",
+      "pos": 2,
+      "pts": 0.0,
+      "lineupSlotId": 2,
+      "injuryStatus": "OUT",
+      "injured": true,
+      "proTeamId": 23,
+      "externalId": "401872964",
+      "team": "DEFENSE DADDIES"
+    },
+    {
+      "name": "Parker Washington",
+      "pos": 3,
+      "pts": 1.5,
+      "lineupSlotId": 4,
+      "injuryStatus": "ACTIVE",
+      "injured": false,
+      "proTeamId": 30,
+      "externalId": "401872969",
+      "team": "First and Freestyle"
+    },
+    {
+      "name": "Saquon Barkley",
+      "pos": 2,
+      "pts": 1.5,
+      "lineupSlotId": 2,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 21,
+      "externalId": "401872970",
+      "team": "I am Kenough"
+    },
+    {
+      "name": "Rashee Rice",
+      "pos": 3,
+      "pts": 0.0,
+      "lineupSlotId": 4,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 12,
+      "externalId": "401872976",
+      "team": "Jackson\u2019s Jukes"
+    }
+  ],
+  "total_bench_points": {
+    "InstantRiyaPlay": 44.96,
+    "The Ladd Fathers": 24.4,
+    "Green Egbukas and Hampton": 34.36,
+    "The Maddy Efffect ": 27.7,
+    "Game of Throws": 49.1,
+    "DEFENSE DADDIES": 42.2,
+    "First and Freestyle": 60.12,
+    "I am Kenough": 32.0,
+    "Da Beers": 53.9,
+    "Jackson\u2019s Jukes": 30.1,
+    "Packlog Bearslayers": 69.3,
+    "HOT BOYZ": 56.48
+  },
+  "multi_bench_blunder": [
+    {
+      "team": "DEFENSE DADDIES",
+      "players": [
+        [
+          "Nick Emmanwori",
+          17.5
+        ],
+        [
+          "Alvin Kamara",
+          20.3
+        ]
+      ]
+    },
+    {
+      "team": "Packlog Bearslayers",
+      "players": [
+        [
+          "Romeo Doubs",
+          20.8
+        ],
+        [
+          "Ernest Jones IV",
+          24.0
+        ],
+        [
+          "Deebo Samuel Sr.",
+          15.5
+        ]
+      ]
+    },
+    {
+      "team": "HOT BOYZ",
+      "players": [
+        [
+          "Cam Ward",
+          16.58
+        ],
+        [
+          "Kirk Cousins",
+          25.6
+        ]
+      ]
+    }
+  ],
+  "thin_lineup": [
+    {
+      "name": "Tee Higgins",
+      "pos": 3,
+      "pts": 21.2,
+      "lineupSlotId": 4,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 4,
+      "externalId": "401872969",
+      "team": "InstantRiyaPlay"
+    },
+    {
+      "name": "Lamar Jackson",
+      "pos": 1,
+      "pts": 22.88,
+      "lineupSlotId": 7,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 33,
+      "externalId": "401872973",
+      "team": "The Ladd Fathers"
+    },
+    {
+      "name": "Ladd McConkey",
+      "pos": 3,
+      "pts": 0.0,
+      "lineupSlotId": 4,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 24,
+      "externalId": "401872977",
+      "team": "The Ladd Fathers"
+    },
+    {
+      "name": "Kyle Monangai",
+      "pos": 2,
+      "pts": 27.5,
+      "lineupSlotId": 23,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 3,
+      "externalId": "401872972",
+      "team": "Game of Throws"
+    },
+    {
+      "name": "Rico Dowdle",
+      "pos": 2,
+      "pts": 0.0,
+      "lineupSlotId": 2,
+      "injuryStatus": "OUT",
+      "injured": true,
+      "proTeamId": 23,
+      "externalId": "401872964",
+      "team": "DEFENSE DADDIES"
+    },
+    {
+      "name": "Saquon Barkley",
+      "pos": 2,
+      "pts": 1.5,
+      "lineupSlotId": 2,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 21,
+      "externalId": "401872970",
+      "team": "I am Kenough"
+    },
+    {
+      "name": "Edgerrin Cooper",
+      "pos": 11,
+      "pts": 21.5,
+      "lineupSlotId": 15,
+      "injuryStatus": "OUT",
+      "injured": true,
+      "proTeamId": 9,
+      "externalId": "401872968",
+      "team": "I am Kenough"
+    },
+    {
+      "name": "Jeremiyah Love",
+      "pos": 2,
+      "pts": 6.0,
+      "lineupSlotId": 23,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 22,
+      "externalId": "401872966",
+      "team": "Da Beers"
+    },
+    {
+      "name": "Rashee Rice",
+      "pos": 3,
+      "pts": 0.0,
+      "lineupSlotId": 4,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 12,
+      "externalId": "401872976",
+      "team": "Jackson\u2019s Jukes"
+    },
+    {
+      "name": "Ja'Marr Chase",
+      "pos": 3,
+      "pts": 4.2,
+      "lineupSlotId": 4,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 4,
+      "externalId": "401872969",
+      "team": "Packlog Bearslayers"
+    }
+  ],
+  "injury_counts": {
+    "InstantRiyaPlay": 1,
+    "The Ladd Fathers": 5,
+    "Green Egbukas and Hampton": 3,
+    "The Maddy Efffect ": 4,
+    "Game of Throws": 3,
+    "DEFENSE DADDIES": 3,
+    "First and Freestyle": 1,
+    "I am Kenough": 4,
+    "Da Beers": 1,
+    "Jackson\u2019s Jukes": 2,
+    "Packlog Bearslayers": 2,
+    "HOT BOYZ": 1
+  },
+  "has_dst": false,
+  "has_k": false
+}

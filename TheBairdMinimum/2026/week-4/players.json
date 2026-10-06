@@ -1,0 +1,292 @@
+{
+  "league": "TheBairdMinimum",
+  "season": 2026,
+  "week": 4,
+  "position_best": {
+    "RB": [
+      31.7,
+      "Kyren Williams",
+      "Schrammel's Mammals"
+    ],
+    "WR": [
+      38.2,
+      "Tetairoa McMillan",
+      "Brady's Brilliant Team"
+    ],
+    "TE": [
+      18.4,
+      "Sam LaPorta",
+      "Chuba Chuba Choo Choo"
+    ],
+    "D/ST": [
+      12.0,
+      "Seahawks D/ST",
+      "Schrammel's Mammals"
+    ],
+    "K": [
+      18.0,
+      "Jake Bates",
+      "Johnny Utah"
+    ],
+    "QB": [
+      26.16,
+      "Drake Maye",
+      "Joe Buck Yourself"
+    ]
+  },
+  "player_of_the_week": {
+    "name": "Tetairoa McMillan",
+    "pos": 3,
+    "pts": 38.2,
+    "lineupSlotId": 4,
+    "injuryStatus": "ACTIVE",
+    "injured": false,
+    "proTeamId": 29,
+    "externalId": "401872978",
+    "team": "Brady's Brilliant Team"
+  },
+  "goose_eggs": [
+    {
+      "name": "Saquon Barkley",
+      "pos": 2,
+      "pts": 1.5,
+      "lineupSlotId": 2,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 21,
+      "externalId": "401872970",
+      "team": "Brady's Brilliant Team"
+    },
+    {
+      "name": "Bills D/ST",
+      "pos": 16,
+      "pts": 1.0,
+      "lineupSlotId": 16,
+      "injuryStatus": null,
+      "injured": false,
+      "proTeamId": 2,
+      "externalId": "401872971",
+      "team": "Chuba Chuba Choo Choo"
+    },
+    {
+      "name": "Terry McLaurin",
+      "pos": 3,
+      "pts": 0.0,
+      "lineupSlotId": 4,
+      "injuryStatus": "OUT",
+      "injured": true,
+      "proTeamId": 28,
+      "externalId": "401872965",
+      "team": "Auto Draft All Stars"
+    },
+    {
+      "name": "Chiefs D/ST",
+      "pos": 16,
+      "pts": 1.0,
+      "lineupSlotId": 16,
+      "injuryStatus": null,
+      "injured": false,
+      "proTeamId": 12,
+      "externalId": "401872976",
+      "team": "Auto Draft All Stars"
+    },
+    {
+      "name": "Parker Washington",
+      "pos": 3,
+      "pts": 1.5,
+      "lineupSlotId": 4,
+      "injuryStatus": "ACTIVE",
+      "injured": false,
+      "proTeamId": 30,
+      "externalId": "401872969",
+      "team": "You Underestimate My Bowers"
+    },
+    {
+      "name": "Lions D/ST",
+      "pos": 16,
+      "pts": -1.0,
+      "lineupSlotId": 16,
+      "injuryStatus": null,
+      "injured": false,
+      "proTeamId": 8,
+      "externalId": "401872978",
+      "team": "All Gas, No Brake"
+    },
+    {
+      "name": "Rashee Rice",
+      "pos": 3,
+      "pts": 0.0,
+      "lineupSlotId": 23,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 12,
+      "externalId": "401872976",
+      "team": "Joe's Finest Team"
+    },
+    {
+      "name": "Ladd McConkey",
+      "pos": 3,
+      "pts": 0.0,
+      "lineupSlotId": 23,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 24,
+      "externalId": "401872977",
+      "team": "Jake's Supreme Team"
+    },
+    {
+      "name": "Dalton Kincaid",
+      "pos": 4,
+      "pts": 1.2,
+      "lineupSlotId": 6,
+      "injuryStatus": "ACTIVE",
+      "injured": false,
+      "proTeamId": 2,
+      "externalId": "401872971",
+      "team": "Jake's Supreme Team"
+    }
+  ],
+  "defensive_disasters": [
+    {
+      "name": "Lions D/ST",
+      "pos": 16,
+      "pts": -1.0,
+      "lineupSlotId": 16,
+      "injuryStatus": null,
+      "injured": false,
+      "proTeamId": 8,
+      "externalId": "401872978",
+      "team": "All Gas, No Brake"
+    }
+  ],
+  "thin_lineup": [
+    {
+      "name": "Saquon Barkley",
+      "pos": 2,
+      "pts": 1.5,
+      "lineupSlotId": 2,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 21,
+      "externalId": "401872970",
+      "team": "Brady's Brilliant Team"
+    },
+    {
+      "name": "Terry McLaurin",
+      "pos": 3,
+      "pts": 0.0,
+      "lineupSlotId": 4,
+      "injuryStatus": "OUT",
+      "injured": true,
+      "proTeamId": 28,
+      "externalId": "401872965",
+      "team": "Auto Draft All Stars"
+    },
+    {
+      "name": "Marcus Mariota",
+      "pos": 1,
+      "pts": 5.34,
+      "lineupSlotId": 0,
+      "injuryStatus": "DOUBTFUL",
+      "injured": false,
+      "proTeamId": 28,
+      "externalId": "401872965",
+      "team": "You Underestimate My Bowers"
+    },
+    {
+      "name": "Ja'Marr Chase",
+      "pos": 3,
+      "pts": 4.2,
+      "lineupSlotId": 4,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 4,
+      "externalId": "401872969",
+      "team": "Joe's Finest Team"
+    },
+    {
+      "name": "Rashee Rice",
+      "pos": 3,
+      "pts": 0.0,
+      "lineupSlotId": 23,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 12,
+      "externalId": "401872976",
+      "team": "Joe's Finest Team"
+    },
+    {
+      "name": "Lamar Jackson",
+      "pos": 1,
+      "pts": 18.88,
+      "lineupSlotId": 0,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 33,
+      "externalId": "401872973",
+      "team": "Joe's Finest Team"
+    },
+    {
+      "name": "Jeremiyah Love",
+      "pos": 2,
+      "pts": 6.0,
+      "lineupSlotId": 23,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 22,
+      "externalId": "401872966",
+      "team": "Bilbo Flagons"
+    },
+    {
+      "name": "Ladd McConkey",
+      "pos": 3,
+      "pts": 0.0,
+      "lineupSlotId": 23,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 24,
+      "externalId": "401872977",
+      "team": "Jake's Supreme Team"
+    }
+  ],
+  "waiver_big_scores": [
+    {
+      "player": "C.J. Stroud",
+      "team": "Brady's Brilliant Team",
+      "pts": 23.08
+    },
+    {
+      "player": "Emanuel Wilson",
+      "team": "Schrammel's Mammals",
+      "pts": 25.5
+    },
+    {
+      "player": "Ollie Gordon II",
+      "team": "Joe Buck Yourself",
+      "pts": 17.0
+    },
+    {
+      "player": "Spencer Shrader",
+      "team": "Schrammel's Mammals",
+      "pts": 16.0
+    }
+  ],
+  "primetime": {
+    "opener_game": "Steelers at Browns (Thu)",
+    "closer_game": "Falcons at Saints (Mon)",
+    "closer_notables": [
+      {
+        "player": "Bijan Robinson",
+        "team": "Johnny Utah",
+        "pts": 27.2,
+        "note": "started, Monday closer"
+      },
+      {
+        "player": "Brian Robinson Jr.",
+        "team": "Beth's Best Team",
+        "pts": 25.2,
+        "note": "started, Monday closer"
+      }
+    ]
+  }
+}
