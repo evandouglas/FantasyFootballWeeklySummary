@@ -136,6 +136,51 @@
         "team": "Jake's Supreme Team",
         "score": 75.42
       }
+    },
+    {
+      "week": 4,
+      "matchups": [
+        {
+          "winner": "Chuba Chuba Choo Choo",
+          "winner_score": 137.48,
+          "loser": "Brady's Brilliant Team",
+          "loser_score": 107.18
+        },
+        {
+          "winner": "Johnny Utah",
+          "winner_score": 136.9,
+          "loser": "Auto Draft All Stars",
+          "loser_score": 86.12
+        },
+        {
+          "winner": "All Gas, No Brake",
+          "winner_score": 109.58,
+          "loser": "You Underestimate My Bowers",
+          "loser_score": 92.34
+        },
+        {
+          "winner": "Bilbo Flagons",
+          "winner_score": 117.28,
+          "loser": "Joe's Finest Team",
+          "loser_score": 71.68
+        },
+        {
+          "winner": "Schrammel's Mammals",
+          "winner_score": 177.46,
+          "loser": "Joe Buck Yourself",
+          "loser_score": 96.86
+        },
+        {
+          "winner": "Beth's Best Team",
+          "winner_score": 104.52,
+          "loser": "Jake's Supreme Team",
+          "loser_score": 76.42
+        }
+      ],
+      "lowest_scorer": {
+        "team": "Joe's Finest Team",
+        "score": 71.68
+      }
     }
   ]
 }
