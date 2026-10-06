@@ -1,0 +1,302 @@
+{
+  "league": "BairdIT",
+  "season": 2026,
+  "week": 4,
+  "position_best": {
+    "RB": [
+      32.7,
+      "Kyren Williams",
+      "The Ladd Fathers"
+    ],
+    "QB": [
+      31.16,
+      "Drake Maye",
+      "The Maddy Efffect "
+    ],
+    "WR": [
+      38.2,
+      "Tetairoa McMillan",
+      "HOT BOYZ"
+    ],
+    "TE": [
+      18.4,
+      "Sam LaPorta",
+      "Green Egbukas and Hampton"
+    ],
+    "10": [
+      10.0,
+      "Will Anderson Jr.",
+      "HOT BOYZ"
+    ],
+    "11": [
+      21.5,
+      "Edgerrin Cooper",
+      "I am Kenough"
+    ],
+    "13": [
+      12.5,
+      "Kyle Hamilton",
+      "Jackson\u2019s Jukes"
+    ],
+    "12": [
+      4.0,
+      "Quentin Lake",
+      "Packlog Bearslayers"
+    ]
+  },
+  "player_of_the_week": {
+    "name": "Tetairoa McMillan",
+    "pos": 3,
+    "pts": 38.2,
+    "lineupSlotId": 4,
+    "injuryStatus": "ACTIVE",
+    "injured": false,
+    "proTeamId": 29,
+    "externalId": "401872978",
+    "team": "HOT BOYZ"
+  },
+  "goose_eggs": [
+    {
+      "name": "Ladd McConkey",
+      "pos": 3,
+      "pts": 0.0,
+      "lineupSlotId": 4,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 24,
+      "externalId": "401872977",
+      "team": "The Ladd Fathers"
+    },
+    {
+      "name": "Jadarian Price",
+      "pos": 2,
+      "pts": 0.0,
+      "lineupSlotId": 2,
+      "injuryStatus": "INJURY_RESERVE",
+      "injured": true,
+      "proTeamId": 26,
+      "externalId": "401872977",
+      "team": "Game of Throws"
+    },
+    {
+      "name": "Dalton Kincaid",
+      "pos": 4,
+      "pts": 1.2,
+      "lineupSlotId": 6,
+      "injuryStatus": "ACTIVE",
+      "injured": false,
+      "proTeamId": 2,
+      "externalId": "401872971",
+      "team": "Game of Throws"
+    },
+    {
+      "name": "Rico Dowdle",
+      "pos": 2,
+      "pts": 0.0,
+      "lineupSlotId": 2,
+      "injuryStatus": "OUT",
+      "injured": true,
+      "proTeamId": 23,
+      "externalId": "401872964",
+      "team": "DEFENSE DADDIES"
+    },
+    {
+      "name": "Parker Washington",
+      "pos": 3,
+      "pts": 1.5,
+      "lineupSlotId": 4,
+      "injuryStatus": "ACTIVE",
+      "injured": false,
+      "proTeamId": 30,
+      "externalId": "401872969",
+      "team": "First and Freestyle"
+    },
+    {
+      "name": "Saquon Barkley",
+      "pos": 2,
+      "pts": 1.5,
+      "lineupSlotId": 2,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 21,
+      "externalId": "401872970",
+      "team": "I am Kenough"
+    },
+    {
+      "name": "Rashee Rice",
+      "pos": 3,
+      "pts": 0.0,
+      "lineupSlotId": 4,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 12,
+      "externalId": "401872976",
+      "team": "Jackson\u2019s Jukes"
+    }
+  ],
+  "thin_lineup": [
+    {
+      "name": "Tee Higgins",
+      "pos": 3,
+      "pts": 21.2,
+      "lineupSlotId": 4,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 4,
+      "externalId": "401872969",
+      "team": "InstantRiyaPlay"
+    },
+    {
+      "name": "Lamar Jackson",
+      "pos": 1,
+      "pts": 22.88,
+      "lineupSlotId": 7,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 33,
+      "externalId": "401872973",
+      "team": "The Ladd Fathers"
+    },
+    {
+      "name": "Ladd McConkey",
+      "pos": 3,
+      "pts": 0.0,
+      "lineupSlotId": 4,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 24,
+      "externalId": "401872977",
+      "team": "The Ladd Fathers"
+    },
+    {
+      "name": "Kyle Monangai",
+      "pos": 2,
+      "pts": 27.5,
+      "lineupSlotId": 23,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 3,
+      "externalId": "401872972",
+      "team": "Game of Throws"
+    },
+    {
+      "name": "Rico Dowdle",
+      "pos": 2,
+      "pts": 0.0,
+      "lineupSlotId": 2,
+      "injuryStatus": "OUT",
+      "injured": true,
+      "proTeamId": 23,
+      "externalId": "401872964",
+      "team": "DEFENSE DADDIES"
+    },
+    {
+      "name": "Saquon Barkley",
+      "pos": 2,
+      "pts": 1.5,
+      "lineupSlotId": 2,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 21,
+      "externalId": "401872970",
+      "team": "I am Kenough"
+    },
+    {
+      "name": "Edgerrin Cooper",
+      "pos": 11,
+      "pts": 21.5,
+      "lineupSlotId": 15,
+      "injuryStatus": "OUT",
+      "injured": true,
+      "proTeamId": 9,
+      "externalId": "401872968",
+      "team": "I am Kenough"
+    },
+    {
+      "name": "Jeremiyah Love",
+      "pos": 2,
+      "pts": 6.0,
+      "lineupSlotId": 23,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 22,
+      "externalId": "401872966",
+      "team": "Da Beers"
+    },
+    {
+      "name": "Rashee Rice",
+      "pos": 3,
+      "pts": 0.0,
+      "lineupSlotId": 4,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 12,
+      "externalId": "401872976",
+      "team": "Jackson\u2019s Jukes"
+    },
+    {
+      "name": "Ja'Marr Chase",
+      "pos": 3,
+      "pts": 4.2,
+      "lineupSlotId": 4,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 4,
+      "externalId": "401872969",
+      "team": "Packlog Bearslayers"
+    }
+  ],
+  "waiver_big_scores": [
+    {
+      "player": "Alvin Kamara",
+      "team": "DEFENSE DADDIES",
+      "pts": 20.3
+    },
+    {
+      "player": "Edgerrin Cooper",
+      "team": "I am Kenough",
+      "pts": 21.5
+    },
+    {
+      "player": "Emanuel Wilson",
+      "team": "Packlog Bearslayers",
+      "pts": 26.5
+    },
+    {
+      "player": "Ollie Gordon II",
+      "team": "The Ladd Fathers",
+      "pts": 17.0
+    },
+    {
+      "player": "Michael Penix Jr.",
+      "team": "HOT BOYZ",
+      "pts": 14.72
+    }
+  ],
+  "primetime": {
+    "opener_game": "Steelers at Browns (Thu)",
+    "closer_game": "Falcons at Saints (Mon)",
+    "closer_notables": [
+      {
+        "player": "Bijan Robinson",
+        "team": "HOT BOYZ",
+        "pts": 27.2,
+        "note": "started, Monday closer"
+      },
+      {
+        "player": "Michael Penix Jr.",
+        "team": "HOT BOYZ",
+        "pts": 14.72,
+        "note": "started, Monday closer"
+      }
+    ],
+    "opener_notables": [
+      {
+        "player": "Aaron Rodgers",
+        "team": "DEFENSE DADDIES",
+        "pts": 25.96,
+        "note": "started, Thursday opener"
+      }
+    ]
+  }
+}
