@@ -1,0 +1,302 @@
+{
+  "league": "TheBairdMinimum",
+  "season": 2026,
+  "week": 3,
+  "matchups": [
+    {
+      "winner": "Auto Draft All Stars",
+      "winner_score": 130.58,
+      "loser": "Brady's Brilliant Team",
+      "loser_score": 80.54
+    },
+    {
+      "winner": "Chuba Chuba Choo Choo",
+      "winner_score": 124.6,
+      "loser": "All Gas, No Brake",
+      "loser_score": 123.44
+    },
+    {
+      "winner": "Bilbo Flagons",
+      "winner_score": 114.08,
+      "loser": "Johnny Utah",
+      "loser_score": 100.44
+    },
+    {
+      "winner": "You Underestimate My Bowers",
+      "winner_score": 102.44,
+      "loser": "Joe Buck Yourself",
+      "loser_score": 75.56
+    },
+    {
+      "winner": "Joe's Finest Team",
+      "winner_score": 106.04,
+      "loser": "Jake's Supreme Team",
+      "loser_score": 75.42
+    },
+    {
+      "winner": "Schrammel's Mammals",
+      "winner_score": 95.34,
+      "loser": "Beth's Best Team",
+      "loser_score": 86.16
+    }
+  ],
+  "biggest_blowout": {
+    "winner": "Auto Draft All Stars",
+    "loser": "Brady's Brilliant Team",
+    "margin": 50.04
+  },
+  "closest_game": {
+    "winner": "Chuba Chuba Choo Choo",
+    "loser": "All Gas, No Brake",
+    "margin": 1.16
+  },
+  "highest_score": {
+    "team": "Auto Draft All Stars",
+    "owner": "Sara",
+    "score": 130.58
+  },
+  "lowest_score": {
+    "team": "Jake's Supreme Team",
+    "owner": "Jake",
+    "score": 75.42
+  },
+  "unlucky_losses": [
+    {
+      "team": "All Gas, No Brake",
+      "owner": "Zack",
+      "score": 123.44,
+      "rank": 3
+    }
+  ],
+  "player_of_week": {
+    "name": "Jahmyr Gibbs",
+    "pos": "RB",
+    "nfl_team": 8,
+    "points": 37.9,
+    "fantasy_team": "Joe Buck Yourself"
+  },
+  "bench_warmer": {
+    "team": "Beth's Best Team",
+    "owner": "Beth",
+    "player": "Sam Darnold",
+    "points": 27.66
+  },
+  "most_bench_points": {
+    "team": "Beth's Best Team",
+    "owner": "Beth",
+    "points": 70.36
+  },
+  "lineup_efficiency": {
+    "most_accurate": {
+      "team": "Bilbo Flagons",
+      "owner": "William",
+      "accuracy_pct": 100.0,
+      "actual": 114.08,
+      "optimal": 114.08
+    },
+    "least_accurate": {
+      "team": "Jake's Supreme Team",
+      "owner": "Jake",
+      "accuracy_pct": 67.4,
+      "actual": 75.42,
+      "optimal": 111.82
+    }
+  },
+  "goose_eggs": [
+    {
+      "player": "Eagles D/ST",
+      "team": "You Underestimate My Bowers",
+      "points": -1.0
+    },
+    {
+      "player": "49ers D/ST",
+      "team": "Chuba Chuba Choo Choo",
+      "points": 0.0
+    },
+    {
+      "player": "Bengals D/ST",
+      "team": "Johnny Utah",
+      "points": 0.0
+    },
+    {
+      "player": "Kyle Pitts Sr.",
+      "team": "Johnny Utah",
+      "points": 1.0
+    },
+    {
+      "player": "Trey Smack",
+      "team": "Joe Buck Yourself",
+      "points": 1.0
+    },
+    {
+      "player": "Ravens D/ST",
+      "team": "Joe Buck Yourself",
+      "points": 1.0
+    },
+    {
+      "player": "De'Von Achane",
+      "team": "Beth's Best Team",
+      "points": 1.7
+    },
+    {
+      "player": "Kenny Gainwell",
+      "team": "Joe Buck Yourself",
+      "points": 2.0
+    }
+  ],
+  "defensive_disasters": [
+    {
+      "player": "Eagles D/ST",
+      "team": "You Underestimate My Bowers",
+      "points": -1.0
+    }
+  ],
+  "multi_bench_blunders": {
+    "Auto Draft All Stars": [
+      {
+        "player": "Jordan Addison",
+        "points": 17.5
+      },
+      {
+        "player": "Juwan Johnson",
+        "points": 19.3
+      }
+    ],
+    "Chuba Chuba Choo Choo": [
+      {
+        "player": "Matthew Golden",
+        "points": 18.5
+      },
+      {
+        "player": "Jared Goff",
+        "points": 19.36
+      }
+    ],
+    "Jake's Supreme Team": [
+      {
+        "player": "Michael Wilson",
+        "points": 20.4
+      },
+      {
+        "player": "Vikings D/ST",
+        "points": 19.0
+      }
+    ],
+    "Beth's Best Team": [
+      {
+        "player": "Harold Fannin Jr.",
+        "points": 20.6
+      },
+      {
+        "player": "Sam Darnold",
+        "points": 27.66
+      }
+    ]
+  },
+  "position_dominance": {
+    "RB": {
+      "player": "Jahmyr Gibbs",
+      "team": "Joe Buck Yourself",
+      "points": 37.9
+    },
+    "WR": {
+      "player": "Jaxon Smith-Njigba",
+      "team": "All Gas, No Brake",
+      "points": 30.36
+    },
+    "TE": {
+      "player": "George Kittle",
+      "team": "Auto Draft All Stars",
+      "points": 23.2
+    }
+  },
+  "injury_report": {
+    "most_injuries": {
+      "team": "Auto Draft All Stars",
+      "owner": "Sara",
+      "count": 4
+    },
+    "thin_lineup_starters": [
+      {
+        "player": "Jalen Coker",
+        "team": "Brady's Brilliant Team",
+        "status": "QUESTIONABLE"
+      },
+      {
+        "player": "Justin Jefferson",
+        "team": "Jake's Supreme Team",
+        "status": "QUESTIONABLE"
+      },
+      {
+        "player": "Breece Hall",
+        "team": "Jake's Supreme Team",
+        "status": "QUESTIONABLE"
+      },
+      {
+        "player": "Josh Allen",
+        "team": "Beth's Best Team",
+        "status": "QUESTIONABLE"
+      },
+      {
+        "player": "Travis Etienne Jr.",
+        "team": "Beth's Best Team",
+        "status": "OUT"
+      }
+    ]
+  },
+  "waiver_wire_winner": {
+    "team": "Jake's Supreme Team",
+    "owner": "Jake",
+    "player": "Vikings D/ST",
+    "points": 19.0
+  },
+  "trades": [],
+  "no_trades_reason": "No TRADE_* transactions present this week; only ROSTER/WAIVER/FREEAGENT records.",
+  "primetime": {
+    "opener": {
+      "event": "Atlanta Falcons at Green Bay Packers",
+      "notes": "Bijan Robinson (34.3) in the week's opener"
+    },
+    "ender": {
+      "event": "Philadelphia Eagles at Chicago Bears",
+      "notes": "Luther Burden III (16.3) in the week's closer"
+    }
+  },
+  "streaks": {
+    "hot": [
+      {
+        "team": "Chuba Chuba Choo Choo",
+        "owner": "Evan",
+        "streak": 3
+      },
+      {
+        "team": "Bilbo Flagons",
+        "owner": "William",
+        "streak": 3
+      }
+    ],
+    "cold": [
+      {
+        "team": "Joe Buck Yourself",
+        "owner": "Riya",
+        "streak": 3
+      },
+      {
+        "team": "Brady's Brilliant Team",
+        "owner": "Brady",
+        "streak": 3
+      }
+    ],
+    "undefeated": [],
+    "winless": [
+      {
+        "team": "Joe Buck Yourself",
+        "owner": "Riya"
+      },
+      {
+        "team": "Brady's Brilliant Team",
+        "owner": "Brady"
+      }
+    ]
+  }
+}

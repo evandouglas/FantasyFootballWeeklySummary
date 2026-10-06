@@ -1,0 +1,153 @@
+{
+  "player_of_week": {
+    "team_id": 1,
+    "name": "Jahmyr Gibbs",
+    "pos": "RB",
+    "nfl_team": 8,
+    "points": 37.9,
+    "bench": false,
+    "slot": 2,
+    "injuryStatus": "ACTIVE",
+    "injured": false,
+    "external_id": "401872954"
+  },
+  "bench_warmer": {
+    "team_id": 14,
+    "name": "Sam Darnold",
+    "pos": "QB",
+    "nfl_team": 26,
+    "points": 27.66,
+    "bench": true,
+    "slot": 20,
+    "injuryStatus": "ACTIVE",
+    "injured": false,
+    "external_id": "401872955"
+  },
+  "best_rb": {
+    "team_id": 1,
+    "name": "Jahmyr Gibbs",
+    "pos": "RB",
+    "nfl_team": 8,
+    "points": 37.9,
+    "bench": false,
+    "slot": 2,
+    "injuryStatus": "ACTIVE",
+    "injured": false,
+    "external_id": "401872954"
+  },
+  "best_wr": {
+    "team_id": 10,
+    "name": "Jaxon Smith-Njigba",
+    "pos": "WR",
+    "nfl_team": 26,
+    "points": 30.36,
+    "bench": false,
+    "slot": 4,
+    "injuryStatus": "ACTIVE",
+    "injured": false,
+    "external_id": "401872955"
+  },
+  "best_te": {
+    "team_id": 6,
+    "name": "George Kittle",
+    "pos": "TE",
+    "nfl_team": 25,
+    "points": 23.2,
+    "bench": false,
+    "slot": 6,
+    "injuryStatus": "ACTIVE",
+    "injured": false,
+    "external_id": "401872958"
+  },
+  "goose_eggs": [
+    [
+      "Eagles D/ST",
+      7,
+      -1.0
+    ],
+    [
+      "49ers D/ST",
+      2,
+      0.0
+    ],
+    [
+      "Bengals D/ST",
+      9,
+      0.0
+    ],
+    [
+      "Kyle Pitts Sr.",
+      9,
+      1.0
+    ],
+    [
+      "Trey Smack",
+      1,
+      1.0
+    ],
+    [
+      "Ravens D/ST",
+      1,
+      1.0
+    ],
+    [
+      "De'Von Achane",
+      14,
+      1.7
+    ],
+    [
+      "Kenny Gainwell",
+      1,
+      2.0
+    ]
+  ],
+  "defensive_disasters": [
+    [
+      "Eagles D/ST",
+      7,
+      -1.0
+    ]
+  ],
+  "multi_blunder_teams": {
+    "6": [
+      [
+        "Jordan Addison",
+        17.5
+      ],
+      [
+        "Juwan Johnson",
+        19.3
+      ]
+    ],
+    "2": [
+      [
+        "Matthew Golden",
+        18.5
+      ],
+      [
+        "Jared Goff",
+        19.36
+      ]
+    ],
+    "11": [
+      [
+        "Michael Wilson",
+        20.4
+      ],
+      [
+        "Vikings D/ST",
+        19.0
+      ]
+    ],
+    "14": [
+      [
+        "Harold Fannin Jr.",
+        20.6
+      ],
+      [
+        "Sam Darnold",
+        27.66
+      ]
+    ]
+  }
+}

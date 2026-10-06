@@ -1,0 +1,131 @@
+{
+  "player_of_week": {
+    "team_id": 6,
+    "name": "Brock Purdy",
+    "pos": "QB",
+    "nfl_team": 25,
+    "points": 39.28,
+    "bench": false,
+    "slot": 7,
+    "injuryStatus": "ACTIVE",
+    "injured": false,
+    "external_id": "401872958"
+  },
+  "bench_warmer": {
+    "team_id": 2,
+    "name": "Jacoby Brissett",
+    "pos": "QB",
+    "nfl_team": 22,
+    "points": 29.6,
+    "bench": true,
+    "slot": 20,
+    "injuryStatus": "ACTIVE",
+    "injured": false,
+    "external_id": "401872958"
+  },
+  "best_rb": {
+    "team_id": 2,
+    "name": "Jahmyr Gibbs",
+    "pos": "RB",
+    "nfl_team": 8,
+    "points": 37.9,
+    "bench": false,
+    "slot": 2,
+    "injuryStatus": "ACTIVE",
+    "injured": false,
+    "external_id": "401872954"
+  },
+  "best_wr": {
+    "team_id": 5,
+    "name": "Jaxon Smith-Njigba",
+    "pos": "WR",
+    "nfl_team": 26,
+    "points": 30.36,
+    "bench": false,
+    "slot": 4,
+    "injuryStatus": "ACTIVE",
+    "injured": false,
+    "external_id": "401872955"
+  },
+  "best_te": {
+    "team_id": 6,
+    "name": "George Kittle",
+    "pos": "TE",
+    "nfl_team": 25,
+    "points": 23.2,
+    "bench": false,
+    "slot": 6,
+    "injuryStatus": "ACTIVE",
+    "injured": false,
+    "external_id": "401872958"
+  },
+  "goose_eggs": [
+    [
+      "Rico Dowdle",
+      6,
+      0.0
+    ],
+    [
+      "Jadarian Price",
+      3,
+      0.7
+    ],
+    [
+      "Kyle Pitts Sr.",
+      9,
+      1.0
+    ],
+    [
+      "Brian Thomas Jr.",
+      2,
+      1.3
+    ],
+    [
+      "De'Von Achane",
+      13,
+      1.7
+    ],
+    [
+      "Christian Elliss",
+      12,
+      2.0
+    ]
+  ],
+  "defensive_disasters": [],
+  "multi_blunder_teams": {
+    "9": [
+      [
+        "Matthew Golden",
+        18.5
+      ],
+      [
+        "Jordan Addison",
+        17.5
+      ]
+    ],
+    "14": [
+      [
+        "Harold Fannin Jr.",
+        20.6
+      ],
+      [
+        "Deebo Samuel Sr.",
+        15.4
+      ],
+      [
+        "Greg Rousseau",
+        18.5
+      ]
+    ],
+    "12": [
+      [
+        "Jeremiyah Love",
+        19.4
+      ],
+      [
+        "Wan'Dale Robinson",
+        15.2
+      ]
+    ]
+  }
+}
