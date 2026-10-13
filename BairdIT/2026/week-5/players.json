@@ -1,0 +1,170 @@
+{
+  "goose_eggs": [
+    {
+      "name": "T.J. Hockenson",
+      "pos": 4,
+      "pts": 1.2000000000000002,
+      "team_id": 9,
+      "proTeamId": 16
+    },
+    {
+      "name": "Jordan Addison",
+      "pos": 3,
+      "pts": 0.0,
+      "team_id": 9,
+      "proTeamId": 16
+    },
+    {
+      "name": "David Montgomery",
+      "pos": 2,
+      "pts": 1.1,
+      "team_id": 1,
+      "proTeamId": 34
+    },
+    {
+      "name": "Carnell Tate",
+      "pos": 3,
+      "pts": 1.1,
+      "team_id": 13,
+      "proTeamId": 10
+    },
+    {
+      "name": "RJ Harvey",
+      "pos": 2,
+      "pts": 0.7000000000000001,
+      "team_id": 13,
+      "proTeamId": 7
+    },
+    {
+      "name": "CeeDee Lamb",
+      "pos": 3,
+      "pts": 1.9,
+      "team_id": 4,
+      "proTeamId": 6
+    },
+    {
+      "name": "Alvin Kamara",
+      "pos": 2,
+      "pts": 1.6,
+      "team_id": 6,
+      "proTeamId": 18
+    },
+    {
+      "name": "Harold Fannin Jr.",
+      "pos": 4,
+      "pts": 0.9,
+      "team_id": 14,
+      "proTeamId": 5
+    },
+    {
+      "name": "Maxx Crosby",
+      "pos": 10,
+      "pts": 0.5,
+      "team_id": 2,
+      "proTeamId": 13
+    },
+    {
+      "name": "T.J. Watt",
+      "pos": 10,
+      "pts": 0.0,
+      "team_id": 5,
+      "proTeamId": 23
+    }
+  ],
+  "def_disasters": [
+    {
+      "name": "Tyler Shough",
+      "pos": 1,
+      "pts": -1.1600000000000001,
+      "team_id": 14,
+      "proTeamId": 18
+    },
+    {
+      "name": "Kenyon Sadiq",
+      "pos": 4,
+      "pts": -0.7,
+      "team_id": 8,
+      "proTeamId": 20
+    }
+  ],
+  "player_of_week": {
+    "name": "Drake Maye",
+    "pos": 1,
+    "pts": 47.46,
+    "team_id": 4,
+    "proTeamId": 17
+  },
+  "bench_warmer": {
+    "name": "Parker Washington",
+    "pos": 3,
+    "pts": 27.4,
+    "team_id": 7,
+    "proTeamId": 30
+  },
+  "max_bench_team": [
+    7,
+    76.8
+  ],
+  "thin_lineups": [
+    {
+      "team_id": 9,
+      "name": "T.J. Hockenson",
+      "status": "QUESTIONABLE"
+    },
+    {
+      "team_id": 9,
+      "name": "Jordan Addison",
+      "status": "OUT"
+    },
+    {
+      "team_id": 1,
+      "name": "David Montgomery",
+      "status": "DOUBTFUL"
+    },
+    {
+      "team_id": 13,
+      "name": "Michael Penix Jr.",
+      "status": "QUESTIONABLE"
+    },
+    {
+      "team_id": 4,
+      "name": "CeeDee Lamb",
+      "status": "QUESTIONABLE"
+    },
+    {
+      "team_id": 8,
+      "name": "Kenyon Sadiq",
+      "status": "QUESTIONABLE"
+    },
+    {
+      "team_id": 8,
+      "name": "Will Shipley",
+      "status": "DOUBTFUL"
+    },
+    {
+      "team_id": 5,
+      "name": "Jaxon Smith-Njigba",
+      "status": "QUESTIONABLE"
+    },
+    {
+      "team_id": 5,
+      "name": "Quinshon Judkins",
+      "status": "QUESTIONABLE"
+    }
+  ],
+  "most_injured_team": [
+    1,
+    4
+  ],
+  "positions_rostered": [
+    1,
+    2,
+    3,
+    4,
+    9,
+    10,
+    11,
+    12,
+    13
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "goose_eggs": [
+    {
+      "name": "T.J. Hockenson",
+      "pos": 4,
+      "pts": 1.2000000000000002,
+      "team_id": 9,
+      "proTeamId": 16
+    },
+    {
+      "name": "Harrison Mevis",
+      "pos": 5,
+      "pts": 2.0,
+      "team_id": 12,
+      "proTeamId": 14
+    },
+    {
+      "name": "David Montgomery",
+      "pos": 2,
+      "pts": 1.1,
+      "team_id": 7,
+      "proTeamId": 34
+    },
+    {
+      "name": "RJ Harvey",
+      "pos": 2,
+      "pts": 0.7000000000000001,
+      "team_id": 13,
+      "proTeamId": 7
+    },
+    {
+      "name": "Chad Ryland",
+      "pos": 5,
+      "pts": 2.0,
+      "team_id": 10,
+      "proTeamId": 22
+    },
+    {
+      "name": "CeeDee Lamb",
+      "pos": 3,
+      "pts": 1.9,
+      "team_id": 5,
+      "proTeamId": 6
+    },
+    {
+      "name": "Carnell Tate",
+      "pos": 3,
+      "pts": 1.1,
+      "team_id": 5,
+      "proTeamId": 10
+    },
+    {
+      "name": "Harold Fannin Jr.",
+      "pos": 4,
+      "pts": 0.9,
+      "team_id": 14,
+      "proTeamId": 5
+    },
+    {
+      "name": "Brian Robinson Jr.",
+      "pos": 2,
+      "pts": 1.6,
+      "team_id": 14,
+      "proTeamId": 1
+    }
+  ],
+  "def_disasters": [
+    {
+      "name": "Rams D/ST",
+      "pos": 16,
+      "pts": -1.0,
+      "team_id": 12,
+      "proTeamId": 14
+    },
+    {
+      "name": "Cowboys D/ST",
+      "pos": 16,
+      "pts": -2.0,
+      "team_id": 2,
+      "proTeamId": 6
+    }
+  ],
+  "player_of_week": {
+    "name": "Drake Maye",
+    "pos": 1,
+    "pts": 39.46,
+    "team_id": 1,
+    "proTeamId": 17
+  },
+  "bench_warmer": {
+    "name": "Matthew Stafford",
+    "pos": 1,
+    "pts": 27.32,
+    "team_id": 10,
+    "proTeamId": 14
+  },
+  "max_bench_team": [
+    3,
+    60.080000000000005
+  ],
+  "thin_lineups": [
+    {
+      "team_id": 9,
+      "name": "T.J. Hockenson",
+      "status": "QUESTIONABLE"
+    },
+    {
+      "team_id": 7,
+      "name": "David Montgomery",
+      "status": "DOUBTFUL"
+    },
+    {
+      "team_id": 6,
+      "name": "Quinshon Judkins",
+      "status": "QUESTIONABLE"
+    },
+    {
+      "team_id": 13,
+      "name": "TreVeyon Henderson",
+      "status": "QUESTIONABLE"
+    },
+    {
+      "team_id": 10,
+      "name": "Jaxon Smith-Njigba",
+      "status": "QUESTIONABLE"
+    },
+    {
+      "team_id": 5,
+      "name": "CeeDee Lamb",
+      "status": "QUESTIONABLE"
+    }
+  ],
+  "most_injured_team": [
+    14,
+    4
+  ],
+  "positions_rostered": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    16
+  ]
+}

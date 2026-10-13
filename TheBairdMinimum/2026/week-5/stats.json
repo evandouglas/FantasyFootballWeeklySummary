@@ -1,0 +1,357 @@
+{
+  "league": "The Baird Minimum",
+  "season": 2026,
+  "week": 5,
+  "matchups": [
+    {
+      "home_team": "Johnny Utah",
+      "home_owner": "Justin",
+      "home_score": 116.1,
+      "home_id": 9,
+      "away_team": "Brady's Brilliant Team",
+      "away_owner": "Brady",
+      "away_score": 67.84,
+      "away_id": 12,
+      "winner_id": 9,
+      "margin": 48.26,
+      "upset": false
+    },
+    {
+      "home_team": "Chuba Chuba Choo Choo",
+      "home_owner": "Evan",
+      "home_score": 153.24,
+      "home_id": 2,
+      "away_team": "You Underestimate My Bowers",
+      "away_owner": "Rob",
+      "away_score": 162.58,
+      "away_id": 7,
+      "winner_id": 7,
+      "margin": 9.34,
+      "upset": false
+    },
+    {
+      "home_team": "Auto Draft All Stars",
+      "home_owner": "Sara",
+      "home_score": 114.56,
+      "home_id": 6,
+      "away_team": "Joe's Finest Team",
+      "away_owner": "Joe",
+      "away_score": 112.94,
+      "away_id": 13,
+      "winner_id": 6,
+      "margin": 1.62,
+      "upset": false
+    },
+    {
+      "home_team": "All Gas, No Brake",
+      "home_owner": "Zack",
+      "home_score": 108.24,
+      "home_id": 10,
+      "away_team": "Schrammel's Mammals",
+      "away_owner": "Carl",
+      "away_score": 77.82,
+      "away_id": 5,
+      "winner_id": 10,
+      "margin": 30.42,
+      "upset": false
+    },
+    {
+      "home_team": "Bilbo Flagons",
+      "home_owner": "William",
+      "home_score": 114.16,
+      "home_id": 3,
+      "away_team": "Beth's Best Team",
+      "away_owner": "Beth",
+      "away_score": 89.5,
+      "away_id": 14,
+      "winner_id": 3,
+      "margin": 24.66,
+      "upset": false
+    },
+    {
+      "home_team": "Joe Buck Yourself",
+      "home_owner": "Riya",
+      "home_score": 159.96,
+      "home_id": 1,
+      "away_team": "Jake's Supreme Team",
+      "away_owner": "Jake",
+      "away_score": 94.78,
+      "away_id": 11,
+      "winner_id": 1,
+      "margin": 65.18,
+      "upset": false
+    }
+  ],
+  "sorted_scores": [
+    [
+      "You Underestimate My Bowers",
+      162.58,
+      7
+    ],
+    [
+      "Joe Buck Yourself",
+      159.96,
+      1
+    ],
+    [
+      "Chuba Chuba Choo Choo",
+      153.24,
+      2
+    ],
+    [
+      "Johnny Utah",
+      116.1,
+      9
+    ],
+    [
+      "Auto Draft All Stars",
+      114.56,
+      6
+    ],
+    [
+      "Bilbo Flagons",
+      114.16,
+      3
+    ],
+    [
+      "Joe's Finest Team",
+      112.94,
+      13
+    ],
+    [
+      "All Gas, No Brake",
+      108.24,
+      10
+    ],
+    [
+      "Jake's Supreme Team",
+      94.78,
+      11
+    ],
+    [
+      "Beth's Best Team",
+      89.5,
+      14
+    ],
+    [
+      "Schrammel's Mammals",
+      77.82,
+      5
+    ],
+    [
+      "Brady's Brilliant Team",
+      67.84,
+      12
+    ]
+  ],
+  "biggest_blowout": {
+    "home_team": "Joe Buck Yourself",
+    "home_owner": "Riya",
+    "home_score": 159.96,
+    "home_id": 1,
+    "away_team": "Jake's Supreme Team",
+    "away_owner": "Jake",
+    "away_score": 94.78,
+    "away_id": 11,
+    "winner_id": 1,
+    "margin": 65.18,
+    "upset": false
+  },
+  "closest_game": {
+    "home_team": "Auto Draft All Stars",
+    "home_owner": "Sara",
+    "home_score": 114.56,
+    "home_id": 6,
+    "away_team": "Joe's Finest Team",
+    "away_owner": "Joe",
+    "away_score": 112.94,
+    "away_id": 13,
+    "winner_id": 6,
+    "margin": 1.62,
+    "upset": false
+  },
+  "highest_score": [
+    "You Underestimate My Bowers",
+    162.58,
+    7
+  ],
+  "lowest_score": [
+    "Brady's Brilliant Team",
+    67.84,
+    12
+  ],
+  "player_of_week": {
+    "name": "Drake Maye",
+    "pos": 1,
+    "pts": 39.46,
+    "team_id": 1,
+    "proTeamId": 17
+  },
+  "bench_warmer": {
+    "name": "Matthew Stafford",
+    "pos": 1,
+    "pts": 27.32,
+    "team_id": 10,
+    "proTeamId": 14
+  },
+  "lineup_efficiency": {
+    "1": {
+      "actual_points": 159.96,
+      "optimal_points": 161.86,
+      "accuracy_pct": 98.8
+    },
+    "2": {
+      "actual_points": 153.24,
+      "optimal_points": 158.64,
+      "accuracy_pct": 96.6
+    },
+    "3": {
+      "actual_points": 114.16,
+      "optimal_points": 133.78,
+      "accuracy_pct": 85.3
+    },
+    "5": {
+      "actual_points": 77.82,
+      "optimal_points": 98.52,
+      "accuracy_pct": 79.0
+    },
+    "6": {
+      "actual_points": 114.56,
+      "optimal_points": 121.16,
+      "accuracy_pct": 94.6
+    },
+    "7": {
+      "actual_points": 162.58,
+      "optimal_points": 175.88,
+      "accuracy_pct": 92.4
+    },
+    "9": {
+      "actual_points": 116.1,
+      "optimal_points": 129.0,
+      "accuracy_pct": 90.0
+    },
+    "10": {
+      "actual_points": 108.24,
+      "optimal_points": 120.72,
+      "accuracy_pct": 89.7
+    },
+    "11": {
+      "actual_points": 94.78,
+      "optimal_points": 104.2,
+      "accuracy_pct": 91.0
+    },
+    "12": {
+      "actual_points": 67.84,
+      "optimal_points": 67.84,
+      "accuracy_pct": 100.0
+    },
+    "13": {
+      "actual_points": 112.94,
+      "optimal_points": 131.94,
+      "accuracy_pct": 85.6
+    },
+    "14": {
+      "actual_points": 89.5,
+      "optimal_points": 96.7,
+      "accuracy_pct": 92.6
+    }
+  },
+  "team_name_map": {
+    "1": "Joe Buck Yourself",
+    "2": "Chuba Chuba Choo Choo",
+    "3": "Bilbo Flagons",
+    "5": "Schrammel's Mammals",
+    "6": "Auto Draft All Stars",
+    "7": "You Underestimate My Bowers",
+    "9": "Johnny Utah",
+    "10": "All Gas, No Brake",
+    "11": "Jake's Supreme Team",
+    "12": "Brady's Brilliant Team",
+    "13": "Joe's Finest Team",
+    "14": "Beth's Best Team"
+  },
+  "owner_map": {
+    "1": "Riya",
+    "2": "Evan",
+    "3": "William",
+    "5": "Carl",
+    "6": "Sara",
+    "7": "Rob",
+    "9": "Justin",
+    "10": "Zack",
+    "11": "Jake",
+    "12": "Brady",
+    "13": "Joe",
+    "14": "Beth"
+  },
+  "streaks": [
+    [
+      "Bilbo Flagons",
+      "William",
+      "WIN",
+      5
+    ],
+    [
+      "Jake's Supreme Team",
+      "Jake",
+      "LOSS",
+      4
+    ],
+    [
+      "Brady's Brilliant Team",
+      "Brady",
+      "LOSS",
+      5
+    ]
+  ],
+  "waiver_winners": [
+    {
+      "team_id": 10,
+      "player": "Jets D/ST",
+      "pts": 18.0
+    },
+    {
+      "team_id": 7,
+      "player": "Jacoby Brissett",
+      "pts": 24.779999999999998
+    },
+    {
+      "team_id": 13,
+      "player": "Will Reichard",
+      "pts": 16.0
+    },
+    {
+      "team_id": 13,
+      "player": "MarShawn Lloyd",
+      "pts": 16.2
+    }
+  ],
+  "team_bench_totals": {
+    "9": 42.1,
+    "12": 4.3,
+    "2": 24.34,
+    "7": 28.12,
+    "6": 29.36,
+    "13": 27.5,
+    "10": 48.02,
+    "5": 31.7,
+    "3": 60.08,
+    "14": 17.1,
+    "1": 51.84,
+    "11": 28.2
+  },
+  "team_starter_totals": {
+    "9": 116.1,
+    "12": 67.84,
+    "2": 153.24,
+    "7": 162.58,
+    "6": 114.56,
+    "13": 112.94,
+    "10": 108.24,
+    "5": 77.82,
+    "3": 114.16,
+    "14": 89.5,
+    "1": 159.96,
+    "11": 94.78
+  }
+}
