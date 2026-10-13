@@ -1,0 +1,354 @@
+{
+  "league": "Baird IT",
+  "season": 2026,
+  "week": 5,
+  "matchups": [
+    {
+      "home_team": "Jackson\u2019s Jukes",
+      "home_owner": "Julianna",
+      "home_score": 150.86,
+      "home_id": 9,
+      "away_team": "The Ladd Fathers",
+      "away_owner": "Ryan",
+      "away_score": 115.38,
+      "away_id": 1,
+      "winner_id": 9,
+      "margin": 35.48,
+      "upset": false
+    },
+    {
+      "home_team": "HOT BOYZ",
+      "home_owner": "Michael",
+      "home_score": 112.52,
+      "home_id": 13,
+      "away_team": "The Maddy Efffect ",
+      "away_owner": "Madalyn",
+      "away_score": 123.44,
+      "away_id": 4,
+      "winner_id": 4,
+      "margin": 10.92,
+      "upset": false
+    },
+    {
+      "home_team": "Hurricane Ditka",
+      "home_owner": "Nick",
+      "home_score": 111.24,
+      "home_id": 12,
+      "away_team": "DEFENSE DADDIES",
+      "away_owner": "Benjamin",
+      "away_score": 107.76,
+      "away_id": 6,
+      "winner_id": 12,
+      "margin": 3.48,
+      "upset": false
+    },
+    {
+      "home_team": "Packlog Bearslayers",
+      "home_owner": "jerome",
+      "home_score": 123.62,
+      "home_id": 14,
+      "away_team": "I am Kenough",
+      "away_owner": "Evan",
+      "away_score": 122.6,
+      "away_id": 8,
+      "winner_id": 14,
+      "margin": 1.02,
+      "upset": false
+    },
+    {
+      "home_team": "Game of Throws",
+      "home_owner": "Demarion",
+      "home_score": 112.6,
+      "home_id": 3,
+      "away_team": "InstantRiyaPlay",
+      "away_owner": "Riya",
+      "away_score": 136.64,
+      "away_id": 2,
+      "winner_id": 2,
+      "margin": 24.04,
+      "upset": false
+    },
+    {
+      "home_team": "First and Freestyle",
+      "home_owner": "Mike",
+      "home_score": 158.1,
+      "home_id": 7,
+      "away_team": "Green Egbukas and Hampton",
+      "away_owner": "Rob",
+      "away_score": 130.84,
+      "away_id": 5,
+      "winner_id": 7,
+      "margin": 27.26,
+      "upset": false
+    }
+  ],
+  "sorted_scores": [
+    [
+      "First and Freestyle",
+      158.1,
+      7
+    ],
+    [
+      "Jackson\u2019s Jukes",
+      150.86,
+      9
+    ],
+    [
+      "InstantRiyaPlay",
+      136.64,
+      2
+    ],
+    [
+      "Green Egbukas and Hampton",
+      130.84,
+      5
+    ],
+    [
+      "Packlog Bearslayers",
+      123.62,
+      14
+    ],
+    [
+      "The Maddy Efffect ",
+      123.44,
+      4
+    ],
+    [
+      "I am Kenough",
+      122.6,
+      8
+    ],
+    [
+      "The Ladd Fathers",
+      115.38,
+      1
+    ],
+    [
+      "Game of Throws",
+      112.6,
+      3
+    ],
+    [
+      "HOT BOYZ",
+      112.52,
+      13
+    ],
+    [
+      "Hurricane Ditka",
+      111.24,
+      12
+    ],
+    [
+      "DEFENSE DADDIES",
+      107.76,
+      6
+    ]
+  ],
+  "biggest_blowout": {
+    "home_team": "Jackson\u2019s Jukes",
+    "home_owner": "Julianna",
+    "home_score": 150.86,
+    "home_id": 9,
+    "away_team": "The Ladd Fathers",
+    "away_owner": "Ryan",
+    "away_score": 115.38,
+    "away_id": 1,
+    "winner_id": 9,
+    "margin": 35.48,
+    "upset": false
+  },
+  "closest_game": {
+    "home_team": "Packlog Bearslayers",
+    "home_owner": "jerome",
+    "home_score": 123.62,
+    "home_id": 14,
+    "away_team": "I am Kenough",
+    "away_owner": "Evan",
+    "away_score": 122.6,
+    "away_id": 8,
+    "winner_id": 14,
+    "margin": 1.02,
+    "upset": false
+  },
+  "highest_score": [
+    "First and Freestyle",
+    158.1,
+    7
+  ],
+  "lowest_score": [
+    "DEFENSE DADDIES",
+    107.76,
+    6
+  ],
+  "player_of_week": {
+    "name": "Drake Maye",
+    "pos": 1,
+    "pts": 47.46,
+    "team_id": 4,
+    "proTeamId": 17
+  },
+  "bench_warmer": {
+    "name": "Parker Washington",
+    "pos": 3,
+    "pts": 27.4,
+    "team_id": 7,
+    "proTeamId": 30
+  },
+  "lineup_efficiency": {
+    "1": {
+      "actual_points": 115.38,
+      "optimal_points": 140.08,
+      "accuracy_pct": 82.4
+    },
+    "2": {
+      "actual_points": 136.64,
+      "optimal_points": 136.64,
+      "accuracy_pct": 100.0
+    },
+    "3": {
+      "actual_points": 112.6,
+      "optimal_points": 118.5,
+      "accuracy_pct": 95.0
+    },
+    "4": {
+      "actual_points": 123.44,
+      "optimal_points": 134.74,
+      "accuracy_pct": 91.6
+    },
+    "5": {
+      "actual_points": 130.84,
+      "optimal_points": 130.84,
+      "accuracy_pct": 100.0
+    },
+    "6": {
+      "actual_points": 107.76,
+      "optimal_points": 113.06,
+      "accuracy_pct": 95.3
+    },
+    "7": {
+      "actual_points": 158.1,
+      "optimal_points": 180.8,
+      "accuracy_pct": 87.4
+    },
+    "8": {
+      "actual_points": 122.6,
+      "optimal_points": 123.3,
+      "accuracy_pct": 99.4
+    },
+    "9": {
+      "actual_points": 150.86,
+      "optimal_points": 171.16,
+      "accuracy_pct": 88.1
+    },
+    "12": {
+      "actual_points": 111.24,
+      "optimal_points": 119.26,
+      "accuracy_pct": 93.3
+    },
+    "13": {
+      "actual_points": 112.52,
+      "optimal_points": 121.52,
+      "accuracy_pct": 92.6
+    },
+    "14": {
+      "actual_points": 123.62,
+      "optimal_points": 137.88,
+      "accuracy_pct": 89.7
+    }
+  },
+  "team_name_map": {
+    "1": "The Ladd Fathers",
+    "2": "InstantRiyaPlay",
+    "3": "Game of Throws",
+    "4": "The Maddy Efffect ",
+    "5": "Green Egbukas and Hampton",
+    "6": "DEFENSE DADDIES",
+    "7": "First and Freestyle",
+    "8": "I am Kenough",
+    "9": "Jackson\u2019s Jukes",
+    "12": "Hurricane Ditka",
+    "13": "HOT BOYZ",
+    "14": "Packlog Bearslayers"
+  },
+  "owner_map": {
+    "1": "Ryan",
+    "2": "Riya",
+    "3": "Demarion",
+    "4": "Madalyn",
+    "5": "Rob",
+    "6": "Benjamin",
+    "7": "Mike",
+    "8": "Evan",
+    "9": "Julianna",
+    "12": "Nick",
+    "13": "Michael",
+    "14": "jerome"
+  },
+  "streaks": [
+    [
+      "The Ladd Fathers",
+      "Ryan",
+      "LOSS",
+      4
+    ],
+    [
+      "InstantRiyaPlay",
+      "Riya",
+      "WIN",
+      3
+    ],
+    [
+      "Game of Throws",
+      "Demarion",
+      "LOSS",
+      5
+    ],
+    [
+      "Green Egbukas and Hampton",
+      "Rob",
+      "LOSS",
+      3
+    ],
+    [
+      "Jackson\u2019s Jukes",
+      "Julianna",
+      "WIN",
+      5
+    ]
+  ],
+  "waiver_winners": [
+    {
+      "team_id": 1,
+      "player": "Jameis Winston",
+      "pts": 31.740000000000002
+    }
+  ],
+  "team_bench_totals": {
+    "9": 40.5,
+    "1": 33.5,
+    "13": 22.62,
+    "4": 27.6,
+    "12": 37.3,
+    "6": 15.8,
+    "14": 23.1,
+    "8": 0.0,
+    "3": 19.9,
+    "2": 17.94,
+    "7": 76.8,
+    "5": 5.9
+  },
+  "team_starter_totals": {
+    "9": 150.86,
+    "1": 115.38,
+    "13": 112.52,
+    "4": 123.44,
+    "12": 111.24,
+    "6": 107.76,
+    "14": 123.62,
+    "8": 122.6,
+    "3": 112.6,
+    "2": 136.64,
+    "7": 158.1,
+    "5": 130.84
+  }
+}
