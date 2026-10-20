@@ -1,0 +1,52 @@
+{
+  "league": "The Baird Minimum",
+  "season": 2026,
+  "week": 6,
+  "player_of_week": {"name": "Tyler Shough", "position": "QB", "nfl_team": "NO", "points": 26.96, "fantasy_team": "Chuba Chuba Choo Choo"},
+  "bench_warmer": {"team": "All Gas, No Brake", "player": "Trevor Lawrence", "points": 27.34},
+  "position_best": {
+    "QB": ["Tyler Shough", "Chuba Chuba Choo Choo", 26.96],
+    "RB": ["Kenneth Walker III", "All Gas, No Brake", 26.9],
+    "WR": ["Malik Nabers", "You Underestimate My Bowers", 22.5],
+    "TE": ["Isaiah Likely", "Bilbo Flagons", 20.9],
+    "K": ["Tyler Bass", "Johnny Utah", 17.0]
+  },
+  "goose_eggs": [
+    {"player": "Rams D/ST", "team": "Brady's Brilliant Team", "points": 2.0},
+    {"player": "Harrison Mevis", "team": "Brady's Brilliant Team", "points": 0.0},
+    {"player": "Rashee Rice", "team": "Joe's Finest Team", "points": 0.0},
+    {"player": "Mark Andrews", "team": "Joe's Finest Team", "points": 0.9},
+    {"player": "MarShawn Lloyd", "team": "Joe's Finest Team", "points": 1.0},
+    {"player": "Denzel Boston", "team": "Schrammel's Mammals", "points": 2.0},
+    {"player": "Harold Fannin Jr.", "team": "Beth's Best Team", "points": 1.4},
+    {"player": "Brandon Aubrey", "team": "Beth's Best Team", "points": 1.0},
+    {"player": "Brian Robinson Jr.", "team": "Beth's Best Team", "points": 2.0},
+    {"player": "Quinshon Judkins", "team": "Auto Draft All Stars", "points": 0.0},
+    {"player": "Cam Skattebo", "team": "All Gas, No Brake", "points": 0.0}
+  ],
+  "negative_defenses": [
+    {"player": "Jaguars D/ST", "team": "Johnny Utah", "points": -2.0},
+    {"player": "Texans D/ST", "team": "Beth's Best Team", "points": -2.0}
+  ],
+  "bench_blunders": [
+    {"team": "Schrammel's Mammals", "players": [{"name": "Carnell Tate", "points": 16.0}, {"name": "Caleb Williams", "points": 16.5}, {"name": "Kirk Cousins", "points": 18.52}, {"name": "Germie Bernard", "points": 20.2}]}
+  ],
+  "injury_status_notes": {
+    "most_injuries": {"team": "Auto Draft All Stars", "count": 4},
+    "thin_lineups": [
+      {"team": "Joe's Finest Team", "player": "Rashee Rice", "status": "OUT"},
+      {"team": "Auto Draft All Stars", "player": "Quinshon Judkins", "status": "OUT"},
+      {"team": "Auto Draft All Stars", "player": "Terry McLaurin", "status": "OUT"},
+      {"team": "Joe Buck Yourself", "player": "A.J. Brown", "status": "QUESTIONABLE"},
+      {"team": "Bilbo Flagons", "player": "Davante Adams", "status": "OUT"}
+    ]
+  },
+  "primetime": {
+    "player": "Christian McCaffrey",
+    "nfl_team": "SF",
+    "points": 26.2,
+    "game": "Commanders at 49ers (Monday night closer)",
+    "fantasy_team": "Brady's Brilliant Team",
+    "note": "Fueled Brady's 2.96-point win over You Underestimate My Bowers."
+  }
+}

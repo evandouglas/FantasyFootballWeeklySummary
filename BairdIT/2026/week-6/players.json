@@ -1,0 +1,45 @@
+{
+  "league": "Baird IT",
+  "season": 2026,
+  "week": 6,
+  "player_of_week": {"name": "Trevor Lawrence", "position": "QB", "nfl_team": "JAX", "points": 34.34, "fantasy_team": "The Ladd Fathers"},
+  "bench_warmer": {"team": "Game of Throws", "player": "C.J. Stroud", "points": 27.98},
+  "position_best": {
+    "QB": ["Trevor Lawrence", "The Ladd Fathers", 34.34],
+    "RB": ["Kenneth Walker III", "I am Kenough", 26.9],
+    "WR": ["Tre Tucker", "The Ladd Fathers", 24.2],
+    "TE": ["Isaiah Likely", "First and Freestyle", 20.9]
+  },
+  "goose_eggs": [
+    {"player": "Abdul Carter", "team": "Green Egbukas and Hampton", "points": 0.0},
+    {"player": "MarShawn Lloyd", "team": "The Ladd Fathers", "points": 1.0},
+    {"player": "Jacob Rodriguez", "team": "The Ladd Fathers", "points": 0.0},
+    {"player": "Kyle Monangai", "team": "Game of Throws", "points": 0.0},
+    {"player": "Cam Skattebo", "team": "Hurricane Ditka", "points": 0.0},
+    {"player": "Tyler Warren", "team": "InstantRiyaPlay", "points": 0.0},
+    {"player": "Brian Thomas Jr.", "team": "InstantRiyaPlay", "points": 0.0},
+    {"player": "Harold Fannin Jr.", "team": "Packlog Bearslayers", "points": 1.4},
+    {"player": "Mark Andrews", "team": "HOT BOYZ", "points": 0.9},
+    {"player": "Will Anderson Jr.", "team": "HOT BOYZ", "points": 0.5}
+  ],
+  "no_dst_or_k": true,
+  "injury_status_notes": {
+    "most_injuries_tie": ["The Ladd Fathers", "Jackson\u2019s Jukes", "The Maddy Efffect", "DEFENSE DADDIES", "I am Kenough", "Packlog Bearslayers"],
+    "thin_lineups": [
+      {"team": "Green Egbukas and Hampton", "player": "A.J. Brown", "status": "QUESTIONABLE"},
+      {"team": "The Maddy Efffect", "player": "Terry McLaurin", "status": "OUT"},
+      {"team": "DEFENSE DADDIES", "player": "Davante Adams", "status": "OUT"},
+      {"team": "Game of Throws", "player": "Kyle Monangai", "status": "OUT"},
+      {"team": "InstantRiyaPlay", "player": "Tyler Warren", "status": "OUT"},
+      {"team": "HOT BOYZ", "player": "Mike Evans", "status": "DOUBTFUL"}
+    ]
+  },
+  "primetime": {
+    "player": "Christian McCaffrey",
+    "nfl_team": "SF",
+    "points": 26.2,
+    "game": "Commanders at 49ers (Monday night closer)",
+    "fantasy_team": "DEFENSE DADDIES",
+    "note": "Fueled Benjamin's 122.48-point win over First and Freestyle."
+  }
+}
