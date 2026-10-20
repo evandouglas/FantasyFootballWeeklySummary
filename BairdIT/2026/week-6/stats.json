@@ -1,0 +1,72 @@
+{
+  "league": "Baird IT",
+  "season": 2026,
+  "week": 6,
+  "matchups": [
+    {"winner": "The Ladd Fathers", "winner_owner": "Ryan", "winner_score": 105.22, "loser": "Green Egbukas and Hampton", "loser_owner": "Rob", "loser_score": 95.1, "margin": 10.12, "upset": false},
+    {"winner": "Jackson\u2019s Jukes", "winner_owner": "Julianna", "winner_score": 135.3, "loser": "The Maddy Efffect", "loser_owner": "Madalyn", "loser_score": 122.88, "margin": 12.42, "upset": false},
+    {"winner": "DEFENSE DADDIES", "winner_owner": "Benjamin", "winner_score": 122.48, "loser": "First and Freestyle", "loser_owner": "Mike", "loser_score": 99.06, "margin": 23.42, "upset": false},
+    {"winner": "I am Kenough", "winner_owner": "Evan", "winner_score": 109.26, "loser": "Game of Throws", "loser_owner": "Demarion", "loser_score": 97.7, "margin": 11.56, "upset": false},
+    {"winner": "Hurricane Ditka", "winner_owner": "Nick", "winner_score": 95.76, "loser": "InstantRiyaPlay", "loser_owner": "Riya", "loser_score": 58.38, "margin": 37.38, "upset": false},
+    {"winner": "Packlog Bearslayers", "winner_owner": "jerome", "winner_score": 115.8, "loser": "HOT BOYZ", "loser_owner": "Michael", "loser_score": 105.22, "margin": 10.58, "upset": false}
+  ],
+  "sorted_scores": [
+    ["Jackson\u2019s Jukes", 135.3], ["The Maddy Efffect", 122.88], ["DEFENSE DADDIES", 122.48], ["Packlog Bearslayers", 115.8],
+    ["I am Kenough", 109.26], ["The Ladd Fathers", 105.22], ["HOT BOYZ", 105.22], ["First and Freestyle", 99.06],
+    ["Game of Throws", 97.7], ["Hurricane Ditka", 95.76], ["Green Egbukas and Hampton", 95.1], ["InstantRiyaPlay", 58.38]
+  ],
+  "superlatives": {
+    "biggest_blowout": {"winner": "Hurricane Ditka", "loser": "InstantRiyaPlay", "margin": 37.38},
+    "closest_game": {"winner": "The Ladd Fathers", "loser": "Green Egbukas and Hampton", "margin": 10.12},
+    "highest_score": {"team": "Jackson\u2019s Jukes", "score": 135.3},
+    "lowest_score": {"team": "InstantRiyaPlay", "score": 58.38},
+    "player_of_week": {"name": "Trevor Lawrence", "position": "QB", "nfl_team": "JAX", "points": 34.34, "fantasy_team": "The Ladd Fathers"},
+    "bench_warmer": {"team": "Game of Throws", "player": "C.J. Stroud", "points": 27.98},
+    "most_accurate_lineup": {"team": "Packlog Bearslayers", "actual": 115.8, "optimal": 115.8, "accuracy_pct": 100.0},
+    "least_accurate_lineup": {"team": "The Ladd Fathers", "actual": 105.22, "optimal": 121.22, "accuracy_pct": 86.8}
+  },
+  "unlucky_losses": {
+    "The Maddy Efffect": {"score": 122.88, "rank": 2},
+    "First and Freestyle": {"score": 99.06, "rank": 8}
+  },
+  "goose_eggs": [
+    ["Abdul Carter", "Green Egbukas and Hampton", 0.0], ["MarShawn Lloyd", "The Ladd Fathers", 1.0], ["Jacob Rodriguez", "The Ladd Fathers", 0.0],
+    ["Kyle Monangai", "Game of Throws", 0.0], ["Cam Skattebo", "Hurricane Ditka", 0.0], ["Tyler Warren", "InstantRiyaPlay", 0.0],
+    ["Brian Thomas Jr.", "InstantRiyaPlay", 0.0], ["Harold Fannin Jr.", "Packlog Bearslayers", 1.4], ["Mark Andrews", "HOT BOYZ", 0.9],
+    ["Will Anderson Jr.", "HOT BOYZ", 0.5]
+  ],
+  "position_best": {
+    "QB": ["Trevor Lawrence", "The Ladd Fathers", 34.34],
+    "RB": ["Kenneth Walker III", "I am Kenough", 26.9],
+    "WR": ["Tre Tucker", "The Ladd Fathers", 24.2],
+    "TE": ["Isaiah Likely", "First and Freestyle", 20.9]
+  },
+  "no_dst_or_k": true,
+  "injury_counts": {
+    "The Ladd Fathers": 3, "Jackson\u2019s Jukes": 3, "The Maddy Efffect": 3, "DEFENSE DADDIES": 3, "I am Kenough": 3, "Packlog Bearslayers": 3,
+    "Green Egbukas and Hampton": 2, "Game of Throws": 2, "Hurricane Ditka": 2, "InstantRiyaPlay": 2, "HOT BOYZ": 2
+  },
+  "thin_lineup": [
+    ["Green Egbukas and Hampton", "A.J. Brown", "QUESTIONABLE"], ["The Maddy Efffect", "Terry McLaurin", "OUT"],
+    ["DEFENSE DADDIES", "Davante Adams", "OUT"], ["Game of Throws", "Kyle Monangai", "OUT"],
+    ["InstantRiyaPlay", "Tyler Warren", "OUT"], ["HOT BOYZ", "Mike Evans", "DOUBTFUL"]
+  ],
+  "streaks": {
+    "Jackson\u2019s Jukes": {"wins": 6, "losses": 0, "streakType": "WIN", "streakLength": 6},
+    "Game of Throws": {"wins": 0, "losses": 6, "streakType": "LOSS", "streakLength": 6},
+    "DEFENSE DADDIES": {"wins": 4, "losses": 2, "streakType": "WIN", "streakLength": 1},
+    "I am Kenough": {"wins": 5, "losses": 1, "streakType": "WIN", "streakLength": 1},
+    "Packlog Bearslayers": {"wins": 5, "losses": 1, "streakType": "WIN", "streakLength": 2},
+    "Green Egbukas and Hampton": {"wins": 2, "losses": 4, "streakType": "LOSS", "streakLength": 4}
+  },
+  "trades": [],
+  "trade_decline_note": "One trade proposal (teamId 5) was declined this week (TRADE_DECLINE) \u2014 not reported per rules.",
+  "primetime": {
+    "opener_game": "Seahawks at Broncos (Thu)",
+    "closer_game": "Commanders at 49ers (Mon)",
+    "notes": [
+      "Christian McCaffrey closed out Monday night with 26.2 points, started by DEFENSE DADDIES (Benjamin) in their 122.48-point win."
+    ]
+  },
+  "verification": "All superlatives cross-checked against sorted_scores list; margins computed directly from winner/loser totals."
+}

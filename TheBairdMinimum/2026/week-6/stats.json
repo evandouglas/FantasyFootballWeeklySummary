@@ -1,0 +1,84 @@
+{
+  "league": "The Baird Minimum",
+  "season": 2026,
+  "week": 6,
+  "matchups": [
+    {"winner": "Brady's Brilliant Team", "winner_owner": "Brady", "winner_score": 100.18, "loser": "You Underestimate My Bowers", "loser_owner": "Rob", "loser_score": 97.22, "margin": 2.96, "upset": true},
+    {"winner": "Johnny Utah", "winner_owner": "Justin", "winner_score": 115.68, "loser": "Joe's Finest Team", "loser_owner": "Joe", "loser_score": 48.92, "margin": 66.76, "upset": false},
+    {"winner": "Chuba Chuba Choo Choo", "winner_owner": "Evan", "winner_score": 115.86, "loser": "Schrammel's Mammals", "loser_owner": "Carl", "loser_score": 83.14, "margin": 32.72, "upset": false},
+    {"winner": "Auto Draft All Stars", "winner_owner": "Sara", "winner_score": 86.16, "loser": "Beth's Best Team", "loser_owner": "Beth", "loser_score": 54.5, "margin": 31.66, "upset": false},
+    {"winner": "All Gas, No Brake", "winner_owner": "Zack", "winner_score": 109.68, "loser": "Jake's Supreme Team", "loser_owner": "Jake", "loser_score": 76.18, "margin": 33.5, "upset": false},
+    {"winner": "Bilbo Flagons", "winner_owner": "William", "winner_score": 113.44, "loser": "Joe Buck Yourself", "loser_owner": "Riya", "loser_score": 85.5, "margin": 27.94, "upset": false}
+  ],
+  "sorted_scores": [
+    ["Chuba Chuba Choo Choo", 115.86], ["Johnny Utah", 115.68], ["Bilbo Flagons", 113.44], ["All Gas, No Brake", 109.68],
+    ["Brady's Brilliant Team", 100.18], ["You Underestimate My Bowers", 97.22], ["Auto Draft All Stars", 86.16],
+    ["Joe Buck Yourself", 85.5], ["Schrammel's Mammals", 83.14], ["Jake's Supreme Team", 76.18],
+    ["Beth's Best Team", 54.5], ["Joe's Finest Team", 48.92]
+  ],
+  "superlatives": {
+    "biggest_blowout": {"winner": "Johnny Utah", "loser": "Joe's Finest Team", "margin": 66.76},
+    "closest_game": {"winner": "Brady's Brilliant Team", "loser": "You Underestimate My Bowers", "margin": 2.96, "upset": true},
+    "highest_score": {"team": "Chuba Chuba Choo Choo", "score": 115.86},
+    "lowest_score": {"team": "Joe's Finest Team", "score": 48.92},
+    "player_of_week": {"name": "Tyler Shough", "position": "QB", "nfl_team": "NO", "points": 26.96, "fantasy_team": "Chuba Chuba Choo Choo"},
+    "bench_warmer": {"team": "All Gas, No Brake", "player": "Trevor Lawrence", "points": 27.34},
+    "most_accurate_lineup": {"team": "Jake's Supreme Team", "actual": 76.18, "optimal": 76.68, "accuracy_pct": 99.3},
+    "least_accurate_lineup": {"team": "Schrammel's Mammals", "actual": 83.14, "optimal": 119.94, "accuracy_pct": 69.3}
+  },
+  "unlucky_losses": {
+    "You Underestimate My Bowers": {"score": 97.22, "rank": 6}
+  },
+  "bench_total_by_team": {
+    "Joe Buck Yourself": null,
+    "Schrammel's Mammals": 90.62
+  },
+  "bench_outscores_starters": [
+    {"team": "Schrammel's Mammals", "bench": 90.62, "starters": 83.14}
+  ],
+  "bench_blunders": [
+    {"team": "Schrammel's Mammals", "players": [["Carnell Tate", 16.0], ["Caleb Williams", 16.5], ["Kirk Cousins", 18.52], ["Germie Bernard", 20.2]]}
+  ],
+  "goose_eggs": [
+    ["Rams D/ST", "Brady's Brilliant Team", 2.0], ["Harrison Mevis", "Brady's Brilliant Team", 0.0],
+    ["Rashee Rice", "Joe's Finest Team", 0.0], ["Mark Andrews", "Joe's Finest Team", 0.9], ["MarShawn Lloyd", "Joe's Finest Team", 1.0],
+    ["Denzel Boston", "Schrammel's Mammals", 2.0], ["Harold Fannin Jr.", "Beth's Best Team", 1.4], ["Brandon Aubrey", "Beth's Best Team", 1.0],
+    ["Brian Robinson Jr.", "Beth's Best Team", 2.0], ["Quinshon Judkins", "Auto Draft All Stars", 0.0], ["Cam Skattebo", "All Gas, No Brake", 0.0]
+  ],
+  "negative_defenses": [
+    ["Jaguars D/ST", "Johnny Utah", -2.0], ["Texans D/ST", "Beth's Best Team", -2.0]
+  ],
+  "position_best": {
+    "RB": ["Kenneth Walker III", "All Gas, No Brake", 26.9],
+    "WR": ["Malik Nabers", "You Underestimate My Bowers", 22.5],
+    "TE": ["Isaiah Likely", "Bilbo Flagons", 20.9],
+    "K": ["Tyler Bass", "Johnny Utah", 17.0],
+    "QB": ["Tyler Shough", "Chuba Chuba Choo Choo", 26.96]
+  },
+  "injury_counts": {
+    "Auto Draft All Stars": 4, "Brady's Brilliant Team": 3, "Joe's Finest Team": 3, "Beth's Best Team": 3, "Joe Buck Yourself": 3,
+    "You Underestimate My Bowers": 2, "Schrammel's Mammals": 2, "Chuba Chuba Choo Choo": 2, "Jake's Supreme Team": 2, "Bilbo Flagons": 2,
+    "Johnny Utah": 1, "All Gas, No Brake": 1
+  },
+  "thin_lineup": [
+    ["Joe's Finest Team", "Rashee Rice", "OUT"], ["Auto Draft All Stars", "Quinshon Judkins", "OUT"],
+    ["Auto Draft All Stars", "Terry McLaurin", "OUT"], ["Joe Buck Yourself", "A.J. Brown", "QUESTIONABLE"],
+    ["Bilbo Flagons", "Davante Adams", "OUT"]
+  ],
+  "streaks": {
+    "Bilbo Flagons": {"wins": 6, "losses": 0, "streakType": "WIN", "streakLength": 6},
+    "Jake's Supreme Team": {"wins": 1, "losses": 5, "streakType": "LOSS", "streakLength": 5},
+    "Johnny Utah": {"wins": 5, "losses": 1, "streakType": "WIN", "streakLength": 3},
+    "All Gas, No Brake": {"wins": 5, "losses": 1, "streakType": "WIN", "streakLength": 3},
+    "Joe's Finest Team": {"wins": 2, "losses": 4, "streakType": "LOSS", "streakLength": 3}
+  },
+  "trades": [],
+  "primetime": {
+    "opener_game": "Seahawks at Broncos (Thu)",
+    "closer_game": "Commanders at 49ers (Mon)",
+    "notes": [
+      "Christian McCaffrey (49ers) scored 26.2 in Monday night's closer, started by Brady's Brilliant Team in a 2.96-point win over You Underestimate My Bowers."
+    ]
+  },
+  "verification": "All superlatives cross-checked against sorted_scores list; margins computed directly from winner/loser totals."
+}
