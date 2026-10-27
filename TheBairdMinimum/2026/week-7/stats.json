@@ -1,0 +1,112 @@
+{
+  "league": "The Baird Minimum",
+  "season": 2026,
+  "week": 7,
+  "matchups": [
+    {"winner": "Joe's Finest Team", "winner_owner": "Joe", "winner_score": 108.68, "loser": "Brady's Brilliant Team", "loser_owner": "Brady", "loser_score": 93.52, "margin": 15.16},
+    {"winner": "Schrammel's Mammals", "winner_owner": "Carl", "winner_score": 115.92, "loser": "You Underestimate My Bowers", "loser_owner": "Rob", "loser_score": 101.98, "margin": 13.94},
+    {"winner": "Beth's Best Team", "winner_owner": "Beth", "winner_score": 97.5, "loser": "Johnny Utah", "loser_owner": "Justin", "loser_score": 92.38, "margin": 5.12, "upset": true},
+    {"winner": "Jake's Supreme Team", "winner_owner": "Jake", "winner_score": 96.08, "loser": "Chuba Chuba Choo Choo", "loser_owner": "Evan", "loser_score": 91.52, "margin": 4.56, "upset": true},
+    {"winner": "Joe Buck Yourself", "winner_owner": "Riya", "winner_score": 94.44, "loser": "Auto Draft All Stars", "loser_owner": "Sara", "loser_score": 88.32, "margin": 6.12},
+    {"winner": "Bilbo Flagons", "winner_owner": "William", "winner_score": 97.86, "loser": "All Gas, No Brake", "loser_owner": "Zack", "loser_score": 90.8, "margin": 7.06}
+  ],
+  "all_scores_sorted": [
+    {"rank": 1, "team": "Schrammel's Mammals", "score": 115.92},
+    {"rank": 2, "team": "Joe's Finest Team", "score": 108.68},
+    {"rank": 3, "team": "You Underestimate My Bowers", "score": 101.98},
+    {"rank": 4, "team": "Bilbo Flagons", "score": 97.86},
+    {"rank": 5, "team": "Beth's Best Team", "score": 97.5},
+    {"rank": 6, "team": "Jake's Supreme Team", "score": 96.08},
+    {"rank": 7, "team": "Joe Buck Yourself", "score": 94.44},
+    {"rank": 8, "team": "Brady's Brilliant Team", "score": 93.52},
+    {"rank": 9, "team": "Johnny Utah", "score": 92.38},
+    {"rank": 10, "team": "Chuba Chuba Choo Choo", "score": 91.52},
+    {"rank": 11, "team": "All Gas, No Brake", "score": 90.8},
+    {"rank": 12, "team": "Auto Draft All Stars", "score": 88.32}
+  ],
+  "biggest_blowout": {"winner": "Joe's Finest Team", "loser": "Brady's Brilliant Team", "margin": 15.16},
+  "closest_game": {"winner": "Jake's Supreme Team", "loser": "Chuba Chuba Choo Choo", "margin": 4.56},
+  "highest_score": {"team": "Schrammel's Mammals", "owner": "Carl", "score": 115.92},
+  "lowest_score": {"team": "Auto Draft All Stars", "owner": "Sara", "score": 88.32},
+  "player_of_week": {"name": "Tony Pollard", "position": "RB", "pro_team": "TEN", "points": 35.0, "fantasy_team": "Brady's Brilliant Team"},
+  "bench_warmer": {"team": "You Underestimate My Bowers", "owner": "Rob", "player": "Bo Nix", "points": 26.18},
+  "most_bench_points": {"team": "Chuba Chuba Choo Choo", "owner": "Evan", "bench_total": 71.52},
+  "multi_bench_blunders": [
+    {"team": "You Underestimate My Bowers", "players": [["Bo Nix", 26.18], ["KC Concepcion", 19.2], ["Jacoby Brissett", 16.48]]},
+    {"team": "Chuba Chuba Choo Choo", "players": [["Tee Higgins", 23.8], ["Rhamondre Stevenson", 20.0]]}
+  ],
+  "goose_eggs": [
+    {"name": "49ers D/ST", "team": "Joe's Finest Team", "points": 1.0},
+    {"name": "Roschon Johnson", "team": "Joe's Finest Team", "points": 1.3},
+    {"name": "Jake Ferguson", "team": "Brady's Brilliant Team", "points": 0.0},
+    {"name": "Jalen Coker", "team": "Brady's Brilliant Team", "points": 1.4},
+    {"name": "Rams D/ST", "team": "Brady's Brilliant Team", "points": 1.0},
+    {"name": "Nico Collins", "team": "Johnny Utah", "points": 1.6},
+    {"name": "Dominic Zvada", "team": "Johnny Utah", "points": 1.0},
+    {"name": "Texans D/ST", "team": "Beth's Best Team", "points": 0.0},
+    {"name": "Eddy Pineiro", "team": "Auto Draft All Stars", "points": 2.0},
+    {"name": "Jets D/ST", "team": "All Gas, No Brake", "points": 0.0}
+  ],
+  "defensive_disasters": [
+    {"name": "Panthers D/ST", "team": "Johnny Utah", "points": -3.0},
+    {"name": "Ravens D/ST", "team": "Joe Buck Yourself", "points": -3.0},
+    {"name": "Chiefs D/ST", "team": "Auto Draft All Stars", "points": -1.0}
+  ],
+  "unlucky_losses": [
+    {"team": "You Underestimate My Bowers", "owner": "Rob", "score": 101.98, "rank": 3}
+  ],
+  "upsets": [
+    {"winner": "Beth's Best Team", "loser": "Johnny Utah", "pre_week_record_winner": "2-4", "pre_week_record_loser": "5-1"},
+    {"winner": "Jake's Supreme Team", "loser": "Chuba Chuba Choo Choo", "pre_week_record_winner": "1-5", "pre_week_record_loser": "5-1"}
+  ],
+  "streaks": [
+    {"team": "Bilbo Flagons", "owner": "William", "type": "WIN", "length": 7}
+  ],
+  "waiver_wire_winners": [
+    {"player": "Kirk Cousins", "points": 20.4, "team": "Beth's Best Team"},
+    {"player": "Tre Tucker", "points": 18.8, "team": "Schrammel's Mammals"}
+  ],
+  "most_injuries": {"team": "Beth's Best Team", "injured_count": 3},
+  "trades": [],
+  "lineup_efficiency": {
+    "Joe Buck Yourself": {"actual_points": 94.44, "optimal_points": 100.24, "accuracy_pct": 94.2},
+    "Chuba Chuba Choo Choo": {"actual_points": 91.52, "optimal_points": 123.02, "accuracy_pct": 74.4},
+    "Bilbo Flagons": {"actual_points": 97.86, "optimal_points": 106.76, "accuracy_pct": 91.7},
+    "Schrammel's Mammals": {"actual_points": 115.92, "optimal_points": 140.22, "accuracy_pct": 82.7},
+    "Auto Draft All Stars": {"actual_points": 88.32, "optimal_points": 102.62, "accuracy_pct": 86.1},
+    "You Underestimate My Bowers": {"actual_points": 101.98, "optimal_points": 127.48, "accuracy_pct": 80.0},
+    "Johnny Utah": {"actual_points": 92.38, "optimal_points": 98.78, "accuracy_pct": 93.5},
+    "All Gas, No Brake": {"actual_points": 90.8, "optimal_points": 109.2, "accuracy_pct": 83.2},
+    "Jake's Supreme Team": {"actual_points": 96.08, "optimal_points": 106.28, "accuracy_pct": 90.4},
+    "Brady's Brilliant Team": {"actual_points": 93.52, "optimal_points": 113.72, "accuracy_pct": 82.2},
+    "Joe's Finest Team": {"actual_points": 108.68, "optimal_points": 117.78, "accuracy_pct": 92.3},
+    "Beth's Best Team": {"actual_points": 97.5, "optimal_points": 97.5, "accuracy_pct": 100.0}
+  },
+  "most_accurate_lineup": {"team": "Beth's Best Team", "accuracy_pct": 100.0, "actual_points": 97.5, "optimal_points": 97.5},
+  "least_accurate_lineup": {"team": "Chuba Chuba Choo Choo", "accuracy_pct": 74.4, "actual_points": 91.52, "optimal_points": 123.02},
+  "primetime": {
+    "opener_game": "New England Patriots at Chicago Bears",
+    "closer_game": "Dallas Cowboys at Philadelphia Eagles",
+    "opener_notables": [
+      {"player": "Roschon Johnson", "points": 1.3, "team": "Joe's Finest Team"},
+      {"player": "Colston Loveland", "points": 16.4, "team": "Schrammel's Mammals"},
+      {"player": "Caleb Williams", "points": 22.12, "team": "Schrammel's Mammals"},
+      {"player": "D'Andre Swift", "points": 17.0, "team": "Johnny Utah"},
+      {"player": "Luther Burden III", "points": 21.7, "team": "Jake's Supreme Team"},
+      {"player": "A.J. Brown", "points": 6.3, "team": "Joe Buck Yourself"},
+      {"player": "Drake Maye", "points": 27.44, "team": "Joe Buck Yourself"}
+    ],
+    "closer_notables": [
+      {"player": "Dak Prescott", "points": 23.28, "team": "Joe's Finest Team"},
+      {"player": "Jake Ferguson", "points": 0.0, "team": "Brady's Brilliant Team"},
+      {"player": "CeeDee Lamb", "points": 21.9, "team": "Schrammel's Mammals"},
+      {"player": "George Pickens", "points": 13.7, "team": "Johnny Utah"},
+      {"player": "Brandon Aubrey", "points": 14.0, "team": "Beth's Best Team"},
+      {"player": "Dameon Pierce", "points": 11.3, "team": "All Gas, No Brake"},
+      {"player": "Javonte Williams", "points": 21.5, "team": "Bilbo Flagons"},
+      {"player": "Dallas Goedert", "points": 7.3, "team": "Bilbo Flagons"},
+      {"player": "Makai Lemon", "points": 16.2, "team": "Bilbo Flagons"}
+    ]
+  },
+  "verification_note": "Superlatives verified against all_scores_sorted. Roster includes D/ST (slot 16) and K (slot 17), confirmed rostered in this league."
+}

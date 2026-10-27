@@ -1,0 +1,98 @@
+{
+  "league": "Baird IT",
+  "season": 2026,
+  "week": 7,
+  "matchups": [
+    {"winner": "HOT BOYZ", "winner_owner": "Michael", "winner_score": 123.88, "loser": "The Ladd Fathers", "loser_owner": "Ryan", "loser_score": 113.38, "margin": 10.5},
+    {"winner": "The Maddy Efffect", "winner_owner": "Madalyn", "winner_score": 138.72, "loser": "InstantRiyaPlay", "loser_owner": "Riya", "loser_score": 113.58, "margin": 25.14},
+    {"winner": "Packlog Bearslayers", "winner_owner": "jerome", "winner_score": 145.38, "loser": "DEFENSE DADDIES", "loser_owner": "Benjamin", "loser_score": 102.6, "margin": 42.78},
+    {"winner": "Hurricane Ditka", "winner_owner": "Nick", "winner_score": 154.48, "loser": "I am Kenough", "loser_owner": "Evan", "loser_score": 114.18, "margin": 40.3},
+    {"winner": "Green Egbukas and Hampton", "winner_owner": "Rob", "winner_score": 116.84, "loser": "Game of Throws", "loser_owner": "Demarion", "loser_score": 112.04, "margin": 4.8},
+    {"winner": "Jackson's Jukes", "winner_owner": "Julianna", "winner_score": 116.98, "loser": "First and Freestyle", "loser_owner": "Mike", "loser_score": 78.4, "margin": 38.58}
+  ],
+  "all_scores_sorted": [
+    {"rank": 1, "team": "Hurricane Ditka", "score": 154.48},
+    {"rank": 2, "team": "Packlog Bearslayers", "score": 145.38},
+    {"rank": 3, "team": "The Maddy Efffect", "score": 138.72},
+    {"rank": 4, "team": "HOT BOYZ", "score": 123.88},
+    {"rank": 5, "team": "Jackson's Jukes", "score": 116.98},
+    {"rank": 6, "team": "Green Egbukas and Hampton", "score": 116.84},
+    {"rank": 7, "team": "I am Kenough", "score": 114.18},
+    {"rank": 8, "team": "InstantRiyaPlay", "score": 113.58},
+    {"rank": 9, "team": "The Ladd Fathers", "score": 113.38},
+    {"rank": 10, "team": "Game of Throws", "score": 112.04},
+    {"rank": 11, "team": "DEFENSE DADDIES", "score": 102.6},
+    {"rank": 12, "team": "First and Freestyle", "score": 78.4}
+  ],
+  "biggest_blowout": {"winner": "Packlog Bearslayers", "loser": "DEFENSE DADDIES", "margin": 42.78},
+  "closest_game": {"winner": "Green Egbukas and Hampton", "loser": "Game of Throws", "margin": 4.8},
+  "highest_score": {"team": "Hurricane Ditka", "owner": "Nick", "score": 154.48},
+  "lowest_score": {"team": "First and Freestyle", "owner": "Mike", "score": 78.4},
+  "player_of_week": {"name": "Joe Burrow", "position": "QB", "pro_team": "CIN", "points": 36.88, "fantasy_team": "I am Kenough"},
+  "bench_warmer": {"team": "The Maddy Efffect", "owner": "Madalyn", "player": "Blake Cashman", "points": 34.0},
+  "most_bench_points": {"team": "First and Freestyle", "owner": "Mike", "bench_total": 64.8},
+  "multi_bench_blunders": [
+    {"team": "Hurricane Ditka", "players": [["Colston Loveland", 16.4], ["Tyler Huntley", 16.12]]},
+    {"team": "First and Freestyle", "players": [["Ashton Jeanty", 17.6], ["Jameson Williams", 23.6], ["Blake Corum", 16.6]]}
+  ],
+  "goose_eggs": [
+    {"name": "Tyler Warren", "team": "InstantRiyaPlay", "points": 0.0},
+    {"name": "Nico Collins", "team": "Game of Throws", "points": 1.6},
+    {"name": "Foyesade Oluokun", "team": "First and Freestyle", "points": 0.0}
+  ],
+  "defensive_disasters": [],
+  "defensive_disasters_note": "No D/ST or K rostered in this IDP league; no negative-defense storyline applies.",
+  "unlucky_losses": [],
+  "upsets": [],
+  "upsets_note": "No matchup had a pre-week win-pct gap exceeding the upset threshold this week.",
+  "streaks": [
+    {"team": "Game of Throws", "owner": "Demarion", "type": "LOSS", "length": 7},
+    {"team": "Jackson's Jukes", "owner": "Julianna", "type": "WIN", "length": 7},
+    {"team": "Hurricane Ditka", "owner": "Nick", "type": "WIN", "length": 3},
+    {"team": "Packlog Bearslayers", "owner": "jerome", "type": "WIN", "length": 3}
+  ],
+  "waiver_wire_winners": [
+    {"player": "Omar Cooper Jr.", "points": 20.0, "team": "Green Egbukas and Hampton"}
+  ],
+  "most_injuries": {"team": "DEFENSE DADDIES", "injured_count": 2},
+  "trades": [],
+  "lineup_efficiency": {
+    "The Ladd Fathers": {"actual_points": 113.38, "optimal_points": 113.68, "accuracy_pct": 99.7},
+    "InstantRiyaPlay": {"actual_points": 113.58, "optimal_points": 116.58, "accuracy_pct": 97.4},
+    "Game of Throws": {"actual_points": 112.04, "optimal_points": 115.44, "accuracy_pct": 97.1},
+    "The Maddy Efffect": {"actual_points": 138.72, "optimal_points": 166.32, "accuracy_pct": 83.4},
+    "Green Egbukas and Hampton": {"actual_points": 116.84, "optimal_points": 117.04, "accuracy_pct": 99.8},
+    "DEFENSE DADDIES": {"actual_points": 102.6, "optimal_points": 102.6, "accuracy_pct": 100.0},
+    "First and Freestyle": {"actual_points": 78.4, "optimal_points": 132.0, "accuracy_pct": 59.4},
+    "I am Kenough": {"actual_points": 114.18, "optimal_points": 120.48, "accuracy_pct": 94.8},
+    "Jackson's Jukes": {"actual_points": 116.98, "optimal_points": 124.88, "accuracy_pct": 93.7},
+    "Hurricane Ditka": {"actual_points": 154.48, "optimal_points": 169.74, "accuracy_pct": 91.0},
+    "HOT BOYZ": {"actual_points": 123.88, "optimal_points": 128.3, "accuracy_pct": 96.6},
+    "Packlog Bearslayers": {"actual_points": 145.38, "optimal_points": 145.38, "accuracy_pct": 100.0}
+  },
+  "most_accurate_lineup": {"teams_tied": ["DEFENSE DADDIES", "Packlog Bearslayers"], "accuracy_pct": 100.0, "note": "Two-way tie at 100% optimal-lineup accuracy"},
+  "least_accurate_lineup": {"team": "First and Freestyle", "accuracy_pct": 59.4, "actual_points": 78.4, "optimal_points": 132.0},
+  "primetime": {
+    "opener_game": "New England Patriots at Chicago Bears",
+    "closer_game": "Dallas Cowboys at Philadelphia Eagles",
+    "opener_notables": [
+      {"player": "George Pickens", "points": 13.7, "team": "HOT BOYZ"},
+      {"player": "Rhamondre Stevenson", "points": 20.0, "team": "InstantRiyaPlay"},
+      {"player": "Drake Maye", "points": 30.44, "team": "The Maddy Efffect"},
+      {"player": "DeMario Douglas", "points": 3.8, "team": "The Maddy Efffect"},
+      {"player": "Rome Odunze", "points": 8.9, "team": "DEFENSE DADDIES"},
+      {"player": "Luther Burden III", "points": 21.7, "team": "Hurricane Ditka"},
+      {"player": "Caleb Williams", "points": 26.12, "team": "Game of Throws"},
+      {"player": "A.J. Brown", "points": 6.3, "team": "Green Egbukas and Hampton"},
+      {"player": "D'Andre Swift", "points": 17.0, "team": "Jackson's Jukes"}
+    ],
+    "closer_notables": [
+      {"player": "CeeDee Lamb", "points": 21.9, "team": "The Maddy Efffect"},
+      {"player": "Saquon Barkley", "points": 14.1, "team": "I am Kenough"},
+      {"player": "Javonte Williams", "points": 21.5, "team": "First and Freestyle"},
+      {"player": "Dallas Goedert", "points": 8.3, "team": "First and Freestyle"},
+      {"player": "Dak Prescott", "points": 29.28, "team": "Jackson's Jukes"}
+    ]
+  },
+  "verification_note": "Superlatives verified against all_scores_sorted. League rosters IDP positions (DT/DE/LB/CB/S); no D/ST or K slots exist, so those jokes are excluded."
+}
