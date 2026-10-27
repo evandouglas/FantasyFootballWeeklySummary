@@ -1,0 +1,62 @@
+{
+  "league": "The Baird Minimum",
+  "season": 2026,
+  "week": 7,
+  "player_of_week": {"name": "Tony Pollard", "position": "RB", "pro_team": "TEN", "points": 35.0, "fantasy_team": "Brady's Brilliant Team", "slot": "starter"},
+  "top_bench_performer": {"name": "Bo Nix", "position": "QB", "points": 26.18, "fantasy_team": "You Underestimate My Bowers"},
+  "goose_eggs_0_to_2pts": [
+    {"name": "49ers D/ST", "position": "D/ST", "points": 1.0, "team": "Joe's Finest Team"},
+    {"name": "Roschon Johnson", "position": "RB", "points": 1.3, "team": "Joe's Finest Team"},
+    {"name": "Jake Ferguson", "position": "TE", "points": 0.0, "team": "Brady's Brilliant Team"},
+    {"name": "Jalen Coker", "position": "WR", "points": 1.4, "team": "Brady's Brilliant Team"},
+    {"name": "Rams D/ST", "position": "D/ST", "points": 1.0, "team": "Brady's Brilliant Team"},
+    {"name": "Nico Collins", "position": "WR", "points": 1.6, "team": "Johnny Utah"},
+    {"name": "Dominic Zvada", "position": "K", "points": 1.0, "team": "Johnny Utah"},
+    {"name": "Texans D/ST", "position": "D/ST", "points": 0.0, "team": "Beth's Best Team"},
+    {"name": "Eddy Pineiro", "position": "K", "points": 2.0, "team": "Auto Draft All Stars"},
+    {"name": "Jets D/ST", "position": "D/ST", "points": 0.0, "team": "All Gas, No Brake"}
+  ],
+  "defensive_disasters_negative_pts": [
+    {"name": "Panthers D/ST", "points": -3.0, "team": "Johnny Utah"},
+    {"name": "Ravens D/ST", "points": -3.0, "team": "Joe Buck Yourself"},
+    {"name": "Chiefs D/ST", "points": -1.0, "team": "Auto Draft All Stars"}
+  ],
+  "waiver_wire_winners_15plus": [
+    {"name": "Kirk Cousins", "points": 20.4, "team": "Beth's Best Team"},
+    {"name": "Tre Tucker", "points": 18.8, "team": "Schrammel's Mammals"}
+  ],
+  "multi_bench_blunders_2plus_15pts": [
+    {"team": "You Underestimate My Bowers", "players": [{"name": "Bo Nix", "points": 26.18}, {"name": "KC Concepcion", "points": 19.2}, {"name": "Jacoby Brissett", "points": 16.48}]},
+    {"team": "Chuba Chuba Choo Choo", "players": [{"name": "Tee Higgins", "points": 23.8}, {"name": "Rhamondre Stevenson", "points": 20.0}]}
+  ],
+  "primetime_performers": {
+    "opener_patriots_bears": [
+      {"name": "Roschon Johnson", "points": 1.3, "team": "Joe's Finest Team"},
+      {"name": "Colston Loveland", "points": 16.4, "team": "Schrammel's Mammals"},
+      {"name": "Caleb Williams", "points": 22.12, "team": "Schrammel's Mammals"},
+      {"name": "D'Andre Swift", "points": 17.0, "team": "Johnny Utah"},
+      {"name": "Luther Burden III", "points": 21.7, "team": "Jake's Supreme Team"},
+      {"name": "A.J. Brown", "points": 6.3, "team": "Joe Buck Yourself"},
+      {"name": "Drake Maye", "points": 27.44, "team": "Joe Buck Yourself"}
+    ],
+    "closer_cowboys_eagles": [
+      {"name": "Dak Prescott", "points": 23.28, "team": "Joe's Finest Team"},
+      {"name": "Jake Ferguson", "points": 0.0, "team": "Brady's Brilliant Team"},
+      {"name": "CeeDee Lamb", "points": 21.9, "team": "Schrammel's Mammals"},
+      {"name": "George Pickens", "points": 13.7, "team": "Johnny Utah"},
+      {"name": "Brandon Aubrey", "points": 14.0, "team": "Beth's Best Team"},
+      {"name": "Dameon Pierce", "points": 11.3, "team": "All Gas, No Brake"},
+      {"name": "Javonte Williams", "points": 21.5, "team": "Bilbo Flagons"},
+      {"name": "Dallas Goedert", "points": 7.3, "team": "Bilbo Flagons"},
+      {"name": "Makai Lemon", "points": 16.2, "team": "Bilbo Flagons"}
+    ]
+  },
+  "thin_lineups_questionable_or_worse": [
+    {"name": "Christian McCaffrey", "status": "QUESTIONABLE", "team": "Brady's Brilliant Team"},
+    {"name": "Amon-Ra St. Brown", "status": "QUESTIONABLE", "team": "You Underestimate My Bowers"},
+    {"name": "Jaylen Waddle", "status": "QUESTIONABLE", "team": "You Underestimate My Bowers"},
+    {"name": "Matthew Golden", "status": "QUESTIONABLE", "team": "Chuba Chuba Choo Choo"},
+    {"name": "Aaron Jones Sr.", "status": "QUESTIONABLE", "team": "All Gas, No Brake"},
+    {"name": "Dameon Pierce", "status": "QUESTIONABLE", "team": "All Gas, No Brake"}
+  ]
+}

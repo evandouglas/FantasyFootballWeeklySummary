@@ -1,0 +1,62 @@
+{
+  "league": "Baird IT",
+  "season": 2026,
+  "week": 7,
+  "player_of_week": {"name": "Joe Burrow", "position": "QB", "pro_team": "CIN", "points": 36.88, "fantasy_team": "I am Kenough", "slot": "starter"},
+  "top_bench_performer": {"name": "Blake Cashman", "position": "LB", "points": 34.0, "fantasy_team": "The Maddy Efffect"},
+  "goose_eggs_0_to_2pts": [
+    {"name": "Tyler Warren", "position": "TE", "points": 0.0, "team": "InstantRiyaPlay", "note": "listed as QUESTIONABLE as of this fetch"},
+    {"name": "Nico Collins", "position": "WR", "points": 1.6, "team": "Game of Throws"},
+    {"name": "Foyesade Oluokun", "position": "LB", "points": 0.0, "team": "First and Freestyle"}
+  ],
+  "defensive_disasters_negative_pts": [],
+  "defensive_disasters_note": "League does not roster D/ST or K; no team-defense scoring applies.",
+  "waiver_wire_winners_15plus": [
+    {"name": "Omar Cooper Jr.", "points": 20.0, "team": "Green Egbukas and Hampton"}
+  ],
+  "multi_bench_blunders_2plus_15pts": [
+    {"team": "Hurricane Ditka", "players": [{"name": "Colston Loveland", "points": 16.4}, {"name": "Tyler Huntley", "points": 16.12}]},
+    {"team": "First and Freestyle", "players": [{"name": "Ashton Jeanty", "points": 17.6}, {"name": "Jameson Williams", "points": 23.6}, {"name": "Blake Corum", "points": 16.6}]}
+  ],
+  "primetime_performers": {
+    "opener_patriots_bears": [
+      {"name": "George Pickens", "points": 13.7, "team": "HOT BOYZ"},
+      {"name": "Rhamondre Stevenson", "points": 20.0, "team": "InstantRiyaPlay"},
+      {"name": "Drake Maye", "points": 30.44, "team": "The Maddy Efffect"},
+      {"name": "DeMario Douglas", "points": 3.8, "team": "The Maddy Efffect"},
+      {"name": "Rome Odunze", "points": 8.9, "team": "DEFENSE DADDIES"},
+      {"name": "Luther Burden III", "points": 21.7, "team": "Hurricane Ditka"},
+      {"name": "Caleb Williams", "points": 26.12, "team": "Game of Throws"},
+      {"name": "A.J. Brown", "points": 6.3, "team": "Green Egbukas and Hampton"},
+      {"name": "D'Andre Swift", "points": 17.0, "team": "Jackson's Jukes"}
+    ],
+    "closer_cowboys_eagles": [
+      {"name": "CeeDee Lamb", "points": 21.9, "team": "The Maddy Efffect"},
+      {"name": "Saquon Barkley", "points": 14.1, "team": "I am Kenough"},
+      {"name": "Javonte Williams", "points": 21.5, "team": "First and Freestyle"},
+      {"name": "Dallas Goedert", "points": 8.3, "team": "First and Freestyle"},
+      {"name": "Dak Prescott", "points": 29.28, "team": "Jackson's Jukes"}
+    ]
+  },
+  "thin_lineups_questionable_or_worse": [
+    {"name": "Tyler Warren", "status": "QUESTIONABLE", "team": "InstantRiyaPlay"},
+    {"name": "Amon-Ra St. Brown", "status": "QUESTIONABLE", "team": "Packlog Bearslayers"},
+    {"name": "Christian McCaffrey", "status": "QUESTIONABLE", "team": "DEFENSE DADDIES"},
+    {"name": "Cam Skattebo", "status": "QUESTIONABLE", "team": "Hurricane Ditka"},
+    {"name": "Saquon Barkley", "status": "QUESTIONABLE", "team": "I am Kenough"},
+    {"name": "Jaylen Waddle", "status": "QUESTIONABLE", "team": "I am Kenough"},
+    {"name": "Aaron Jones Sr.", "status": "QUESTIONABLE", "team": "Green Egbukas and Hampton"},
+    {"name": "Matthew Golden", "status": "QUESTIONABLE", "team": "Jackson's Jukes"}
+  ],
+  "injury_reserve_by_team": {
+    "The Ladd Fathers": ["Jordyn Tyson"],
+    "InstantRiyaPlay": ["Jayden Reed"],
+    "The Maddy Efffect": ["Travis Etienne Jr."],
+    "Packlog Bearslayers": ["Romeo Doubs"],
+    "DEFENSE DADDIES": ["Davante Adams", "Michael Pittman Jr."],
+    "I am Kenough": ["Jacory Croskey-Merritt"],
+    "Game of Throws": ["Jadarian Price"],
+    "Green Egbukas and Hampton": ["Jalen Hurts"],
+    "Jackson's Jukes": ["Myles Garrett"]
+  }
+}
