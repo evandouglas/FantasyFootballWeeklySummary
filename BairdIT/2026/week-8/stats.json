@@ -1,0 +1,78 @@
+{
+  "league": "BairdIT",
+  "season": 2026,
+  "week": 8,
+  "matchups": [
+    {"winner": "The Ladd Fathers", "winner_score": 110.1, "loser": "Game of Throws", "loser_score": 92.66, "margin": 17.44},
+    {"winner": "The Maddy Efffect", "winner_score": 157.16, "loser": "First and Freestyle", "loser_score": 110.68, "margin": 46.48},
+    {"winner": "InstantRiyaPlay", "winner_score": 126.36, "loser": "DEFENSE DADDIES", "loser_score": 50.08, "margin": 76.28},
+    {"winner": "I am Kenough", "winner_score": 144.62, "loser": "Green Egbukas and Hampton", "loser_score": 95.9, "margin": 48.72},
+    {"winner": "Jackson's Jukes", "winner_score": 133.48, "loser": "Packlog Bearslayers", "loser_score": 126.7, "margin": 6.78},
+    {"winner": "Hurricane Ditka", "winner_score": 106.24, "loser": "HOT BOYZ", "loser_score": 77.58, "margin": 28.66}
+  ],
+  "all_scores_sorted": [
+    {"rank": 1, "team": "The Maddy Efffect", "score": 157.16},
+    {"rank": 2, "team": "I am Kenough", "score": 144.62},
+    {"rank": 3, "team": "Jackson's Jukes", "score": 133.48},
+    {"rank": 4, "team": "Packlog Bearslayers", "score": 126.7},
+    {"rank": 5, "team": "InstantRiyaPlay", "score": 126.36},
+    {"rank": 6, "team": "First and Freestyle", "score": 110.68},
+    {"rank": 7, "team": "The Ladd Fathers", "score": 110.1},
+    {"rank": 8, "team": "Hurricane Ditka", "score": 106.24},
+    {"rank": 9, "team": "Green Egbukas and Hampton", "score": 95.9},
+    {"rank": 10, "team": "Game of Throws", "score": 92.66},
+    {"rank": 11, "team": "HOT BOYZ", "score": 77.58},
+    {"rank": 12, "team": "DEFENSE DADDIES", "score": 50.08}
+  ],
+  "superlatives": {
+    "biggest_blowout": {"winner": "InstantRiyaPlay", "loser": "DEFENSE DADDIES", "margin": 76.28},
+    "closest_game": {"winner": "Jackson's Jukes", "loser": "Packlog Bearslayers", "margin": 6.78},
+    "highest_score": {"team": "The Maddy Efffect", "score": 157.16},
+    "lowest_score": {"team": "DEFENSE DADDIES", "score": 50.08},
+    "player_of_the_week": {"name": "Joe Burrow", "pos": "QB", "nfl_team": "CIN", "points": 46.48, "fantasy_team": "I am Kenough"},
+    "bench_warmer_of_the_week": {"team": "InstantRiyaPlay", "player": "Tyler Allgeier", "points": 33.6},
+    "most_accurate_lineup": {"team": "The Maddy Efffect", "actual": 157.16, "optimal": 165.46, "accuracy_pct": 95.0},
+    "least_accurate_lineup": {"team": "HOT BOYZ", "actual": 77.58, "optimal": 106.76, "accuracy_pct": 72.7}
+  },
+  "unlucky_losses": [
+    {"team": "Packlog Bearslayers", "score": 126.7, "rank": 4}
+  ],
+  "bench_totals": {
+    "InstantRiyaPlay": 67.98,
+    "I am Kenough": 63.56,
+    "First and Freestyle": 55.66,
+    "Jackson's Jukes": 49.2,
+    "Green Egbukas and Hampton": 38.1,
+    "Hurricane Ditka": 29.9,
+    "Packlog Bearslayers": 26.1,
+    "HOT BOYZ": 23.28,
+    "Game of Throws": 21.3,
+    "The Maddy Efffect": 17.2,
+    "DEFENSE DADDIES": 13.5,
+    "The Ladd Fathers": 12.7
+  },
+  "total_bench_leader": {"team": "InstantRiyaPlay", "points": 67.98},
+  "streaks": {
+    "undefeated_watch": {"team": "Jackson's Jukes", "record": "8-0", "streak_length": 8},
+    "winless_watch": {"team": "Game of Throws", "record": "0-8", "streak_length": 8},
+    "hot": [{"team": "Hurricane Ditka", "record": "5-3", "streak_length": 4}]
+  },
+  "waiver_winners": [
+    {"team": "The Ladd Fathers", "player": "Alex Singleton", "points": 19.0},
+    {"team": "Green Egbukas and Hampton", "player": "Jonah Coleman", "points": 18.4}
+  ],
+  "injury_report": {
+    "most_tagged_count": 4,
+    "most_tagged_teams": ["The Ladd Fathers", "DEFENSE DADDIES", "Jackson's Jukes", "HOT BOYZ"],
+    "note": "injury statuses current as of fetch, not necessarily as of kickoff"
+  },
+  "trades": [],
+  "primetime": {
+    "opener": {"game": "Panthers at Packers", "top_performer": "Jordan Love", "points": 26.52, "team": "Packlog Bearslayers"},
+    "ender": {"game": "Bears at Seahawks", "top_performer": "D'Andre Swift", "points": 26.9, "team": "Jackson's Jukes"}
+  },
+  "qb_duels": [
+    {"qb1": "Josh Allen", "pts1": 29.56, "team1": "First and Freestyle", "qb2": "Drake Maye", "pts2": 26.46, "team2": "The Maddy Efffect"}
+  ],
+  "divisions": {"0": "Wizards", "1": "Barbarians", "2": "Sorcerers"}
+}
