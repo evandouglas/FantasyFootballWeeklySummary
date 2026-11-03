@@ -316,6 +316,51 @@
                 "team": "First and Freestyle",
                 "score": 78.4
             }
+        },
+        {
+            "week": 8,
+            "matchups": [
+                {
+                    "winner": "The Ladd Fathers",
+                    "winner_score": 110.1,
+                    "loser": "Game of Throws",
+                    "loser_score": 92.66
+                },
+                {
+                    "winner": "The Maddy Efffect",
+                    "winner_score": 157.16,
+                    "loser": "First and Freestyle",
+                    "loser_score": 110.68
+                },
+                {
+                    "winner": "InstantRiyaPlay",
+                    "winner_score": 126.36,
+                    "loser": "DEFENSE DADDIES",
+                    "loser_score": 50.08
+                },
+                {
+                    "winner": "I am Kenough",
+                    "winner_score": 144.62,
+                    "loser": "Green Egbukas and Hampton",
+                    "loser_score": 95.9
+                },
+                {
+                    "winner": "Jackson's Jukes",
+                    "winner_score": 133.48,
+                    "loser": "Packlog Bearslayers",
+                    "loser_score": 126.7
+                },
+                {
+                    "winner": "Hurricane Ditka",
+                    "winner_score": 106.24,
+                    "loser": "HOT BOYZ",
+                    "loser_score": 77.58
+                }
+            ],
+            "lowest_scorer": {
+                "team": "DEFENSE DADDIES",
+                "score": 50.08
+            }
         }
     ]
 }
