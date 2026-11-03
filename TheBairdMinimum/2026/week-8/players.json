@@ -1,0 +1,67 @@
+{
+  "league": "TheBairdMinimum",
+  "season": 2026,
+  "week": 8,
+  "player_of_the_week": {"name": "Joe Burrow", "position": "QB", "nfl_team": "CIN", "points": 39.48, "fantasy_team": "Johnny Utah"},
+  "bench_warmer": {"name": "Tyler Allgeier", "points": 33.6, "team": "Jake's Supreme Team"},
+  "best_by_position": {
+    "RB": {"name": "Bhayshul Tuten", "points": 28.9, "team": "Johnny Utah"},
+    "WR": {"name": "Ja'Marr Chase", "points": 25.6, "team": "Joe's Finest Team"},
+    "TE": {"name": "Brock Bowers", "points": 24.7, "team": "You Underestimate My Bowers"}
+  },
+  "goose_eggs": [
+    {"name": "DK Metcalf", "points": 0.9, "team": "Brady's Brilliant Team"},
+    {"name": "Jake Ferguson", "points": 0.0, "team": "Brady's Brilliant Team"},
+    {"name": "Jason Myers", "points": 2.0, "team": "Brady's Brilliant Team"},
+    {"name": "Seahawks D/ST", "points": 1.0, "team": "Schrammel's Mammals"},
+    {"name": "Emanuel Wilson", "points": 0.0, "team": "Schrammel's Mammals"},
+    {"name": "Spencer Shrader", "points": 1.0, "team": "Schrammel's Mammals"},
+    {"name": "Tre Tucker", "points": 0.0, "team": "Schrammel's Mammals"},
+    {"name": "Bengals D/ST", "points": 2.0, "team": "Beth's Best Team"},
+    {"name": "Drake London", "points": 1.3, "team": "Joe's Finest Team"},
+    {"name": "Lamar Jackson", "points": 0.0, "team": "Joe's Finest Team"},
+    {"name": "Will Reichard", "points": 0.0, "team": "Joe's Finest Team"},
+    {"name": "Baker Mayfield", "points": 1.4, "team": "Jake's Supreme Team"},
+    {"name": "Ravens D/ST", "points": -1.0, "team": "Joe Buck Yourself"},
+    {"name": "Kyle Pitts Sr.", "points": 1.6, "team": "Johnny Utah"},
+    {"name": "Tez Johnson", "points": 0.0, "team": "Johnny Utah"},
+    {"name": "Browns D/ST", "points": 2.0, "team": "Bilbo Flagons"},
+    {"name": "Zay Flowers", "points": 0.0, "team": "Chuba Chuba Choo Choo"},
+    {"name": "Jets D/ST", "points": -2.0, "team": "All Gas, No Brake"}
+  ],
+  "defensive_disasters": [
+    {"name": "Ravens D/ST", "points": -1.0, "team": "Joe Buck Yourself"},
+    {"name": "Jets D/ST", "points": -2.0, "team": "All Gas, No Brake"}
+  ],
+  "thin_lineups_started_while_tagged": [
+    {"name": "Lamar Jackson", "status": "OUT", "team": "Joe's Finest Team", "points": 0.0},
+    {"name": "Jake Ferguson", "status": "QUESTIONABLE", "team": "Brady's Brilliant Team", "points": 0.0},
+    {"name": "Michael Wilson", "status": "QUESTIONABLE", "team": "Jake's Supreme Team"},
+    {"name": "Kyler Murray", "status": "QUESTIONABLE", "team": "Bilbo Flagons"},
+    {"name": "Christian Watson", "status": "QUESTIONABLE", "team": "Chuba Chuba Choo Choo"},
+    {"name": "DJ Moore", "status": "QUESTIONABLE", "team": "All Gas, No Brake"},
+    {"name": "Hunter Henry", "status": "QUESTIONABLE", "team": "All Gas, No Brake"},
+    {"name": "Bhayshul Tuten", "status": "QUESTIONABLE", "team": "Johnny Utah"}
+  ],
+  "injury_counts_per_team": {
+    "Beth's Best Team": 5,
+    "Joe Buck Yourself": 5,
+    "All Gas, No Brake": 5,
+    "Joe's Finest Team": 3,
+    "Jake's Supreme Team": 3,
+    "Bilbo Flagons": 3,
+    "Brady's Brilliant Team": 4,
+    "Schrammel's Mammals": 2,
+    "You Underestimate My Bowers": 2,
+    "Johnny Utah": 2,
+    "Chuba Chuba Choo Choo": 2,
+    "Auto Draft All Stars": 1
+  },
+  "waiver_winners_15plus": [
+    {"name": "Jaguars D/ST", "points": 21.0, "team": "Joe's Finest Team"},
+    {"name": "Jonah Coleman", "points": 18.4, "team": "You Underestimate My Bowers"},
+    {"name": "Geno Smith", "points": 18.0, "team": "You Underestimate My Bowers"},
+    {"name": "Tyler Bass", "points": 16.0, "team": "Auto Draft All Stars"},
+    {"name": "Mike Gesicki", "points": 15.6, "team": "Auto Draft All Stars"}
+  ]
+}

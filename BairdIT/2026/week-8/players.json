@@ -1,0 +1,61 @@
+{
+  "league": "BairdIT",
+  "season": 2026,
+  "week": 8,
+  "player_of_the_week": {"name": "Joe Burrow", "position": "QB", "nfl_team": "CIN", "points": 46.48, "fantasy_team": "I am Kenough"},
+  "bench_warmer": {"name": "Tyler Allgeier", "points": 33.6, "team": "InstantRiyaPlay"},
+  "best_by_position": {
+    "RB": {"name": "Bhayshul Tuten", "points": 28.9, "team": "The Maddy Efffect"},
+    "WR": {"name": "Tee Higgins", "points": 32.5, "team": "InstantRiyaPlay"},
+    "TE": {"name": "Brock Bowers", "points": 24.7, "team": "The Maddy Efffect"}
+  },
+  "goose_eggs": [
+    {"name": "Zay Flowers", "points": 0.0, "team": "Game of Throws"},
+    {"name": "J.K. Dobbins", "points": 1.3, "team": "Game of Throws"},
+    {"name": "Chris Godwin Jr.", "points": 0.0, "team": "Game of Throws"},
+    {"name": "Lamar Jackson", "points": 0.0, "team": "The Ladd Fathers"},
+    {"name": "Tyler Higbee", "points": 1.9, "team": "The Ladd Fathers"},
+    {"name": "DK Metcalf", "points": 1.9, "team": "The Maddy Efffect"},
+    {"name": "Chris Olave", "points": 0.0, "team": "InstantRiyaPlay"},
+    {"name": "Omar Cooper Jr.", "points": 0.0, "team": "Green Egbukas and Hampton"},
+    {"name": "Jordan Mason", "points": 2.0, "team": "I am Kenough"},
+    {"name": "Kyle Pitts Sr.", "points": 1.6, "team": "Jackson's Jukes"},
+    {"name": "Baker Mayfield", "points": 1.4, "team": "Hurricane Ditka"},
+    {"name": "Carnell Tate", "points": 0.0, "team": "HOT BOYZ"},
+    {"name": "Michael Penix Jr.", "points": -5.9, "team": "HOT BOYZ"}
+  ],
+  "defensive_disasters": [],
+  "thin_lineups_started_while_tagged": [
+    {"name": "Lamar Jackson", "status": "OUT", "team": "The Ladd Fathers", "points": 0.0},
+    {"name": "Carnell Tate", "status": "OUT", "team": "HOT BOYZ", "points": 0.0},
+    {"name": "Roquan Smith", "status": "QUESTIONABLE", "team": "Game of Throws"},
+    {"name": "Bhayshul Tuten", "status": "QUESTIONABLE", "team": "The Maddy Efffect"},
+    {"name": "Kyler Murray", "status": "QUESTIONABLE", "team": "InstantRiyaPlay"},
+    {"name": "Jakobi Meyers", "status": "QUESTIONABLE", "team": "DEFENSE DADDIES"},
+    {"name": "Hunter Henry", "status": "QUESTIONABLE", "team": "DEFENSE DADDIES"},
+    {"name": "Christian Watson", "status": "QUESTIONABLE", "team": "I am Kenough"},
+    {"name": "Matthew Stafford", "status": "QUESTIONABLE", "team": "Jackson's Jukes"},
+    {"name": "Michael Wilson", "status": "QUESTIONABLE", "team": "Hurricane Ditka"}
+  ],
+  "injury_counts_per_team": {
+    "Game of Throws": 3,
+    "The Ladd Fathers": 4,
+    "The Maddy Efffect": 3,
+    "InstantRiyaPlay": 2,
+    "DEFENSE DADDIES": 4,
+    "Green Egbukas and Hampton": 2,
+    "I am Kenough": 3,
+    "Packlog Bearslayers": 2,
+    "Jackson's Jukes": 4,
+    "Hurricane Ditka": 4,
+    "HOT BOYZ": 4
+  },
+  "waiver_winners_15plus": [
+    {"name": "Alex Singleton", "points": 19.0, "team": "The Ladd Fathers"},
+    {"name": "Jonah Coleman", "points": 18.4, "team": "Green Egbukas and Hampton"}
+  ],
+  "qb_duels_25plus": [
+    {"qb": "Josh Allen", "points": 29.56, "team": "First and Freestyle"},
+    {"qb": "Drake Maye", "points": 26.46, "team": "The Maddy Efffect"}
+  ]
+}
