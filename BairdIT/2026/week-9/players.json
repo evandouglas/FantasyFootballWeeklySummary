@@ -1,0 +1,33 @@
+{
+  "player_of_week": {"name": "C.J. Stroud", "pos": "QB", "nfl_team": "HOU", "points": 44.36, "team": "Game of Throws"},
+  "position_bests": {
+    "QB": {"name": "C.J. Stroud", "points": 44.36, "team": "Game of Throws"},
+    "RB": {"name": "Kenneth Walker III", "points": 34.3, "team": "I am Kenough"},
+    "WR": {"name": "Puka Nacua", "points": 29.0, "team": "Hurricane Ditka"},
+    "TE": {"name": "Brock Bowers", "points": 18.8, "team": "The Maddy Efffect"}
+  },
+  "bench_warmer_of_week": {"name": "Arvell Reese", "points": 32.0, "team": "Hurricane Ditka"},
+  "goose_eggs": [
+    {"name": "Garrett Wilson", "pos": "WR", "points": 0.0, "team": "First and Freestyle"},
+    {"name": "Sam Darnold", "pos": "QB", "points": 0.0, "team": "First and Freestyle"},
+    {"name": "Ladd McConkey", "pos": "WR", "points": 0.0, "team": "The Ladd Fathers"},
+    {"name": "Tyler Higbee", "pos": "TE", "points": 1.8, "team": "The Ladd Fathers"},
+    {"name": "Tucker Kraft", "pos": "TE", "points": 1.4, "team": "Game of Throws"},
+    {"name": "Jacoby Brissett", "pos": "QB", "points": 0.0, "team": "InstantRiyaPlay"},
+    {"name": "George Pickens", "pos": "WR", "points": 0.0, "team": "HOT BOYZ"},
+    {"name": "Josh Jacobs", "pos": "RB", "points": 0.5, "team": "HOT BOYZ"}
+  ],
+  "multi_bench_blunders": [],
+  "injury_merge_succeeded": true,
+  "thin_lineup_now_banged_up": [
+    {"name": "Garrett Wilson", "team": "First and Freestyle", "status": "OUT"},
+    {"name": "Sam Darnold", "team": "First and Freestyle", "status": "OUT"},
+    {"name": "Michael Wilson", "team": "Hurricane Ditka", "status": "OUT"},
+    {"name": "George Pickens", "team": "HOT BOYZ", "status": "OUT"},
+    {"name": "Josh Jacobs", "team": "HOT BOYZ", "status": "OUT"}
+  ],
+  "most_injured_roster": {"team": "HOT BOYZ", "flagged_count": 6},
+  "qb_duels_25plus_both": [],
+  "waiver_pickup_big_games": [],
+  "note_no_kicker_or_dst": "This league rosters no K or D/ST slots (IDP league with DT/DE/LB/CB/S) — no kicker/defense commentary applies."
+}
