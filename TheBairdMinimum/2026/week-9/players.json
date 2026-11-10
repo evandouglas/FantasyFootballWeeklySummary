@@ -1,0 +1,35 @@
+{
+  "player_of_week": {"name": "C.J. Stroud", "pos": "QB", "nfl_team": "HOU", "points": 35.36, "team": "Brady's Brilliant Team"},
+  "position_bests": {
+    "QB": {"name": "C.J. Stroud", "points": 35.36, "team": "Brady's Brilliant Team"},
+    "RB": {"name": "Kenneth Walker III", "points": 34.3, "team": "All Gas, No Brake"},
+    "WR": {"name": "CeeDee Lamb", "points": 28.5, "team": "Schrammel's Mammals"},
+    "TE": {"name": "Brock Bowers", "points": 18.8, "team": "You Underestimate My Bowers"}
+  },
+  "bench_warmer_of_week": {"name": "Jordan Love", "points": 36.18, "team": "Bilbo Flagons"},
+  "goose_eggs": [
+    {"name": "Josh Jacobs", "pos": "RB", "points": 0.5, "team": "Brady's Brilliant Team"},
+    {"name": "Wan'Dale Robinson", "pos": "WR", "points": 0.0, "team": "Bilbo Flagons"},
+    {"name": "Kyler Murray", "pos": "QB", "points": 0.0, "team": "Bilbo Flagons"},
+    {"name": "George Pickens", "pos": "WR", "points": 0.0, "team": "Johnny Utah"},
+    {"name": "Tucker Kraft", "pos": "TE", "points": 1.4, "team": "All Gas, No Brake"},
+    {"name": "Garrett Wilson", "pos": "WR", "points": 0.0, "team": "Auto Draft All Stars"}
+  ],
+  "multi_bench_blunders": [
+    {"team": "You Underestimate My Bowers", "players": [["Bo Nix", 15.68], ["KC Concepcion", 16.8]]},
+    {"team": "Chuba Chuba Choo Choo", "players": [["Matthew Golden", 27.4], ["Tyler Shough", 19.7]]}
+  ],
+  "injury_merge_succeeded": true,
+  "thin_lineup_now_banged_up": [
+    {"name": "Josh Jacobs", "team": "Brady's Brilliant Team", "status": "OUT"},
+    {"name": "Michael Wilson", "team": "Jake's Supreme Team", "status": "OUT"},
+    {"name": "Kyler Murray", "team": "Bilbo Flagons", "status": "OUT"},
+    {"name": "George Pickens", "team": "Johnny Utah", "status": "OUT"},
+    {"name": "Garrett Wilson", "team": "Auto Draft All Stars", "status": "OUT"}
+  ],
+  "most_injured_roster": {"team": "Beth's Best Team", "flagged_count": 5},
+  "qb_duels_25plus_both": [],
+  "waiver_pickup_big_games": [
+    {"name": "Ka'imi Fairbairn", "points": 17.0, "team": "Chuba Chuba Choo Choo", "pos": "K"}
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "league": "The Baird Minimum",
+  "season": 2026,
+  "week": 9,
+  "matchups": [
+    {"home": "Beth's Best Team", "home_owner": "Beth", "home_score": 72.56, "away": "Brady's Brilliant Team", "away_owner": "Brady", "away_score": 119.06, "winner": "Brady's Brilliant Team", "margin": 46.5},
+    {"home": "Schrammel's Mammals", "home_owner": "Carl", "home_score": 110.76, "away": "Jake's Supreme Team", "away_owner": "Jake", "away_score": 77.22, "winner": "Schrammel's Mammals", "margin": 33.54},
+    {"home": "Joe's Finest Team", "home_owner": "Joe", "home_score": 120.4, "away": "Joe Buck Yourself", "away_owner": "Riya", "away_score": 80.56, "winner": "Joe's Finest Team", "margin": 39.84},
+    {"home": "You Underestimate My Bowers", "home_owner": "Rob", "home_score": 103.0, "away": "Bilbo Flagons", "away_owner": "William", "away_score": 63.2, "winner": "You Underestimate My Bowers", "margin": 39.8},
+    {"home": "Johnny Utah", "home_owner": "Justin", "home_score": 100.04, "away": "All Gas, No Brake", "away_owner": "Zack", "away_score": 84.88, "winner": "Johnny Utah", "margin": 15.16},
+    {"home": "Chuba Chuba Choo Choo", "home_owner": "Evan", "home_score": 115.68, "away": "Auto Draft All Stars", "away_owner": "Sara", "away_score": 99.38, "winner": "Chuba Chuba Choo Choo", "margin": 16.3}
+  ],
+  "sorted_scores": [
+    ["Joe's Finest Team", 120.4], ["Brady's Brilliant Team", 119.06], ["Chuba Chuba Choo Choo", 115.68],
+    ["Schrammel's Mammals", 110.76], ["You Underestimate My Bowers", 103.0], ["Johnny Utah", 100.04],
+    ["Auto Draft All Stars", 99.38], ["All Gas, No Brake", 84.88], ["Joe Buck Yourself", 80.56],
+    ["Jake's Supreme Team", 77.22], ["Beth's Best Team", 72.56], ["Bilbo Flagons", 63.2]
+  ],
+  "biggest_blowout": {"winner": "Brady's Brilliant Team", "loser": "Beth's Best Team", "margin": 46.5},
+  "closest_game": {"winner": "Johnny Utah", "loser": "All Gas, No Brake", "margin": 15.16},
+  "highest_score": {"team": "Joe's Finest Team", "owner": "Joe", "score": 120.4},
+  "lowest_score": {"team": "Bilbo Flagons", "owner": "William", "score": 63.2},
+  "unlucky_losses": [],
+  "upsets": [],
+  "player_of_week": {"name": "C.J. Stroud", "pos": "QB", "nfl_team": "HOU", "points": 35.36, "fantasy_team": "Brady's Brilliant Team"},
+  "bench_warmer": {"name": "Jordan Love", "points": 36.18, "team": "Bilbo Flagons", "owner": "William"},
+  "accurate_lineup_skipped": true,
+  "accurate_lineup_note": "scripts/lineup_efficiency.py returned 0 actual/optimal points for every team this run; awards skipped, script needs a manual look.",
+  "goose_eggs": [
+    {"name": "Josh Jacobs", "pos": "RB", "points": 0.5, "team": "Brady's Brilliant Team"},
+    {"name": "Wan'Dale Robinson", "pos": "WR", "points": 0.0, "team": "Bilbo Flagons"},
+    {"name": "Kyler Murray", "pos": "QB", "points": 0.0, "team": "Bilbo Flagons"},
+    {"name": "George Pickens", "pos": "WR", "points": 0.0, "team": "Johnny Utah"},
+    {"name": "Tucker Kraft", "pos": "TE", "points": 1.4, "team": "All Gas, No Brake"},
+    {"name": "Garrett Wilson", "pos": "WR", "points": 0.0, "team": "Auto Draft All Stars"}
+  ],
+  "bench_totals": {"max_team": "Chuba Chuba Choo Choo", "max_points": 75.4},
+  "multi_bench_blunders": [
+    {"team": "You Underestimate My Bowers", "players": [["Bo Nix", 15.68], ["KC Concepcion", 16.8]]},
+    {"team": "Chuba Chuba Choo Choo", "players": [["Matthew Golden", 27.4], ["Tyler Shough", 19.7]]}
+  ],
+  "injury_report": {"most_injured_team": "Beth's Best Team", "count": 5},
+  "thin_lineup": [
+    {"name": "Josh Jacobs", "team": "Brady's Brilliant Team", "status": "OUT"},
+    {"name": "Michael Wilson", "team": "Jake's Supreme Team", "status": "OUT"},
+    {"name": "Kyler Murray", "team": "Bilbo Flagons", "status": "OUT"},
+    {"name": "George Pickens", "team": "Johnny Utah", "status": "OUT"},
+    {"name": "Garrett Wilson", "team": "Auto Draft All Stars", "status": "OUT"}
+  ],
+  "pos_best": {
+    "QB": {"name": "C.J. Stroud", "points": 35.36, "team": "Brady's Brilliant Team"},
+    "RB": {"name": "Kenneth Walker III", "points": 34.3, "team": "All Gas, No Brake"},
+    "WR": {"name": "CeeDee Lamb", "points": 28.5, "team": "Schrammel's Mammals"},
+    "TE": {"name": "Brock Bowers", "points": 18.8, "team": "You Underestimate My Bowers"}
+  },
+  "waiver_winners": [
+    {"name": "Ka'imi Fairbairn", "points": 17.0, "team": "Chuba Chuba Choo Choo", "pos": "K"}
+  ],
+  "streaks": {
+    "win_streaks_3plus": [],
+    "loss_streaks_3plus": [{"team": "All Gas, No Brake", "owner": "Zack", "length": 3}]
+  },
+  "primetime": {
+    "opener": {"game": "Jacksonville Jaguars at Baltimore Ravens", "note": "Travis Hunter scored -1.6 for Bilbo Flagons off the bench; Trevor Lawrence (13.58) was the top starter involved."},
+    "ender": {"game": "Buffalo Bills at Minnesota Vikings", "note": "James Cook III (16.7) powered Chuba Chuba Choo Choo's Monday closer."}
+  },
+  "trades": [],
+  "playoff_context": {
+    "week": 9,
+    "top_seeds": [
+      {"seed": 1, "team": "Chuba Chuba Choo Choo", "owner": "Evan", "record": "7-2"},
+      {"seed": 2, "team": "Johnny Utah", "owner": "Justin", "record": "7-2"},
+      {"seed": 3, "team": "Bilbo Flagons", "owner": "William", "record": "7-2"},
+      {"seed": 4, "team": "All Gas, No Brake", "owner": "Zack", "record": "5-4"}
+    ],
+    "bubble": "Seeds 5-9 are bunched at 4-5, including Schrammel's Mammals, Joe's Finest Team, and Beth's Best Team."
+  }
+}

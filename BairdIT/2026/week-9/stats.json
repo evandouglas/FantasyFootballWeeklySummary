@@ -1,0 +1,82 @@
+{
+  "league": "Baird IT",
+  "season": 2026,
+  "week": 9,
+  "matchups": [
+    {"home": "First and Freestyle", "home_owner": "Mike", "home_score": 76.14, "away": "The Ladd Fathers", "away_owner": "Ryan", "away_score": 58.96, "winner": "First and Freestyle", "margin": 17.18, "upset": true},
+    {"home": "Game of Throws", "home_owner": "Demarion", "home_score": 108.22, "away": "The Maddy Efffect", "away_owner": "Madalyn", "away_score": 120.66, "winner": "The Maddy Efffect", "margin": 12.44},
+    {"home": "Green Egbukas and Hampton", "home_owner": "Rob", "home_score": 82.74, "away": "DEFENSE DADDIES", "away_owner": "Benjamin", "away_score": 113.98, "winner": "DEFENSE DADDIES", "margin": 31.24, "upset": true},
+    {"home": "InstantRiyaPlay", "home_owner": "Riya", "home_score": 99.3, "away": "I am Kenough", "away_owner": "Evan", "away_score": 158.92, "winner": "I am Kenough", "margin": 59.62},
+    {"home": "Hurricane Ditka", "home_owner": "Nick", "home_score": 93.64, "away": "Jackson's Jukes", "away_owner": "Julianna", "away_score": 123.02, "winner": "Jackson's Jukes", "margin": 29.38},
+    {"home": "Packlog Bearslayers", "home_owner": "jerome", "home_score": 169.18, "away": "HOT BOYZ", "away_owner": "Michael", "away_score": 95.26, "winner": "Packlog Bearslayers", "margin": 73.92}
+  ],
+  "sorted_scores": [
+    ["Packlog Bearslayers", 169.18], ["I am Kenough", 158.92], ["Jackson's Jukes", 123.02],
+    ["The Maddy Efffect", 120.66], ["DEFENSE DADDIES", 113.98], ["Game of Throws", 108.22],
+    ["InstantRiyaPlay", 99.3], ["HOT BOYZ", 95.26], ["Hurricane Ditka", 93.64],
+    ["Green Egbukas and Hampton", 82.74], ["First and Freestyle", 76.14], ["The Ladd Fathers", 58.96]
+  ],
+  "biggest_blowout": {"winner": "Packlog Bearslayers", "loser": "HOT BOYZ", "margin": 73.92},
+  "closest_game": {"winner": "The Maddy Efffect", "loser": "Game of Throws", "margin": 12.44},
+  "highest_score": {"team": "Packlog Bearslayers", "owner": "jerome", "score": 169.18},
+  "lowest_score": {"team": "The Ladd Fathers", "owner": "Ryan", "score": 58.96},
+  "unlucky_losses": [
+    {"team": "Game of Throws", "owner": "Demarion", "score": 108.22, "rank": 6, "note": "6th-highest score in the league this week despite losing"}
+  ],
+  "upsets": [
+    {"winner": "First and Freestyle", "loser": "The Ladd Fathers", "margin": 17.18},
+    {"winner": "DEFENSE DADDIES", "loser": "Green Egbukas and Hampton", "margin": 31.24}
+  ],
+  "player_of_week": {"name": "C.J. Stroud", "pos": "QB", "nfl_team": "HOU", "points": 44.36, "fantasy_team": "Game of Throws"},
+  "bench_warmer": {"name": "Arvell Reese", "points": 32.0, "team": "Hurricane Ditka", "owner": "Nick"},
+  "accurate_lineup_skipped": true,
+  "accurate_lineup_note": "scripts/lineup_efficiency.py returned 0 actual/optimal points for every team this run; awards skipped, script needs a manual look.",
+  "goose_eggs": [
+    {"name": "Garrett Wilson", "pos": "WR", "points": 0.0, "team": "First and Freestyle"},
+    {"name": "Sam Darnold", "pos": "QB", "points": 0.0, "team": "First and Freestyle"},
+    {"name": "Ladd McConkey", "pos": "WR", "points": 0.0, "team": "The Ladd Fathers"},
+    {"name": "Tyler Higbee", "pos": "TE", "points": 1.8, "team": "The Ladd Fathers"},
+    {"name": "Tucker Kraft", "pos": "TE", "points": 1.4, "team": "Game of Throws"},
+    {"name": "Jacoby Brissett", "pos": "QB", "points": 0.0, "team": "InstantRiyaPlay"},
+    {"name": "George Pickens", "pos": "WR", "points": 0.0, "team": "HOT BOYZ"},
+    {"name": "Josh Jacobs", "pos": "RB", "points": 0.5, "team": "HOT BOYZ"}
+  ],
+  "bench_totals": {"max_team": "First and Freestyle", "max_points": 52.2},
+  "multi_bench_blunders": [],
+  "injury_report": {"most_injured_team": "HOT BOYZ", "count": 6},
+  "thin_lineup": [
+    {"name": "Garrett Wilson", "team": "First and Freestyle", "status": "OUT"},
+    {"name": "Sam Darnold", "team": "First and Freestyle", "status": "OUT"},
+    {"name": "Michael Wilson", "team": "Hurricane Ditka", "status": "OUT"},
+    {"name": "George Pickens", "team": "HOT BOYZ", "status": "OUT"},
+    {"name": "Josh Jacobs", "team": "HOT BOYZ", "status": "OUT"}
+  ],
+  "pos_best": {
+    "QB": {"name": "C.J. Stroud", "points": 44.36, "team": "Game of Throws"},
+    "RB": {"name": "Kenneth Walker III", "points": 34.3, "team": "I am Kenough"},
+    "WR": {"name": "Puka Nacua", "points": 29.0, "team": "Hurricane Ditka"},
+    "TE": {"name": "Brock Bowers", "points": 18.8, "team": "The Maddy Efffect"}
+  },
+  "waiver_winners": [],
+  "streaks": {
+    "win_streaks_3plus": [{"team": "The Maddy Efffect", "owner": "Madalyn", "length": 3}],
+    "loss_streaks_3plus": [{"team": "Game of Throws", "owner": "Demarion", "length": 9}]
+  },
+  "undefeated_watch": {"team": "Jackson's Jukes", "owner": "Julianna", "record": "9-0"},
+  "winless_watch": {"team": "Game of Throws", "owner": "Demarion", "record": "0-9"},
+  "primetime": {
+    "opener": {"game": "Jacksonville Jaguars at Baltimore Ravens", "note": "Trevor Lawrence (15.58) was the top starter for The Ladd Fathers in Thursday's opener, which Ryan's squad went on to lose."},
+    "ender": {"game": "Buffalo Bills at Minnesota Vikings", "note": "Blake Cashman's 15.0 off the bench highlighted The Maddy Efffect's Monday closer."}
+  },
+  "trades": [],
+  "playoff_context": {
+    "week": 9,
+    "top_seeds": [
+      {"seed": 1, "team": "Jackson's Jukes", "owner": "Julianna", "record": "9-0"},
+      {"seed": 2, "team": "Packlog Bearslayers", "owner": "jerome", "record": "7-2"},
+      {"seed": 3, "team": "I am Kenough", "owner": "Evan", "record": "7-2"},
+      {"seed": 4, "team": "The Maddy Efffect", "owner": "Madalyn", "record": "5-4"}
+    ],
+    "note": "Julianna's Jackson's Jukes is still perfect at 9-0."
+  }
+}
