@@ -1,0 +1,559 @@
+{
+  "league": "TheBairdMinimum",
+  "season": 2026,
+  "week": 9,
+  "matchups": [
+    {
+      "home_team_id": 14,
+      "away_team_id": 12,
+      "winner_id": 12,
+      "loser_id": 14,
+      "winner_name": "Brady's Brilliant Team",
+      "loser_name": "Beth's Best Team",
+      "winner_score": 119.06,
+      "loser_score": 72.56,
+      "margin": 46.5,
+      "upset": true
+    },
+    {
+      "home_team_id": 5,
+      "away_team_id": 11,
+      "winner_id": 5,
+      "loser_id": 11,
+      "winner_name": "Schrammel's Mammals",
+      "loser_name": "Jake's Supreme Team",
+      "winner_score": 110.76,
+      "loser_score": 77.22,
+      "margin": 33.54,
+      "upset": false
+    },
+    {
+      "home_team_id": 13,
+      "away_team_id": 1,
+      "winner_id": 13,
+      "loser_id": 1,
+      "winner_name": "Joe's Finest Team",
+      "loser_name": "Joe Buck Yourself",
+      "winner_score": 120.4,
+      "loser_score": 80.56,
+      "margin": 39.84,
+      "upset": false
+    },
+    {
+      "home_team_id": 7,
+      "away_team_id": 3,
+      "winner_id": 7,
+      "loser_id": 3,
+      "winner_name": "You Underestimate My Bowers",
+      "loser_name": "Bilbo Flagons",
+      "winner_score": 103.0,
+      "loser_score": 63.2,
+      "margin": 39.8,
+      "upset": true
+    },
+    {
+      "home_team_id": 9,
+      "away_team_id": 10,
+      "winner_id": 9,
+      "loser_id": 10,
+      "winner_name": "Johnny Utah",
+      "loser_name": "All Gas, No Brake",
+      "winner_score": 100.04,
+      "loser_score": 84.88,
+      "margin": 15.16,
+      "upset": false
+    },
+    {
+      "home_team_id": 2,
+      "away_team_id": 6,
+      "winner_id": 2,
+      "loser_id": 6,
+      "winner_name": "Chuba Chuba Choo Choo",
+      "loser_name": "Auto Draft All Stars",
+      "winner_score": 115.68,
+      "loser_score": 99.38,
+      "margin": 16.3,
+      "upset": false
+    }
+  ],
+  "superlatives": {
+    "biggest_blowout": {
+      "home_team_id": 14,
+      "away_team_id": 12,
+      "winner_id": 12,
+      "loser_id": 14,
+      "winner_name": "Brady's Brilliant Team",
+      "loser_name": "Beth's Best Team",
+      "winner_score": 119.06,
+      "loser_score": 72.56,
+      "margin": 46.5
+    },
+    "closest_game": {
+      "home_team_id": 9,
+      "away_team_id": 10,
+      "winner_id": 9,
+      "loser_id": 10,
+      "winner_name": "Johnny Utah",
+      "loser_name": "All Gas, No Brake",
+      "winner_score": 100.04,
+      "loser_score": 84.88,
+      "margin": 15.16
+    },
+    "highest_score": {
+      "team_id": 13,
+      "team": "Joe's Finest Team",
+      "score": 120.4
+    },
+    "lowest_score": {
+      "team_id": 3,
+      "team": "Bilbo Flagons",
+      "score": 63.2
+    },
+    "player_of_the_week": {
+      "name": "C.J. Stroud",
+      "pos": 1,
+      "pts": 35.36,
+      "lineupSlotId": 0,
+      "injuryStatus": "ACTIVE",
+      "injured": false,
+      "proTeamId": 34,
+      "externalId": "401873046",
+      "team": "Brady's Brilliant Team"
+    },
+    "bench_warmer": {
+      "team": "Bilbo Flagons",
+      "player": "Jordan Love",
+      "pts": 36.18
+    },
+    "most_accurate_lineup": {
+      "team": "Beth's Best Team",
+      "actual_points": 72.56,
+      "optimal_points": 73.26,
+      "accuracy_pct": 99.0
+    },
+    "least_accurate_lineup": {
+      "team": "Bilbo Flagons",
+      "actual_points": 63.2,
+      "optimal_points": 113.58,
+      "accuracy_pct": 55.6
+    }
+  },
+  "lineup_efficiency": {
+    "Joe Buck Yourself": {
+      "actual_points": 80.56,
+      "optimal_points": 91.96,
+      "accuracy_pct": 87.6
+    },
+    "Chuba Chuba Choo Choo": {
+      "actual_points": 115.68,
+      "optimal_points": 153.6,
+      "accuracy_pct": 75.3
+    },
+    "Bilbo Flagons": {
+      "actual_points": 63.2,
+      "optimal_points": 113.58,
+      "accuracy_pct": 55.6
+    },
+    "Schrammel's Mammals": {
+      "actual_points": 110.76,
+      "optimal_points": 126.64,
+      "accuracy_pct": 87.5
+    },
+    "Auto Draft All Stars": {
+      "actual_points": 99.38,
+      "optimal_points": 113.78,
+      "accuracy_pct": 87.3
+    },
+    "You Underestimate My Bowers": {
+      "actual_points": 103.0,
+      "optimal_points": 120.48,
+      "accuracy_pct": 85.5
+    },
+    "Johnny Utah": {
+      "actual_points": 100.04,
+      "optimal_points": 113.34,
+      "accuracy_pct": 88.3
+    },
+    "All Gas, No Brake": {
+      "actual_points": 84.88,
+      "optimal_points": 102.08,
+      "accuracy_pct": 83.2
+    },
+    "Jake's Supreme Team": {
+      "actual_points": 77.22,
+      "optimal_points": 90.22,
+      "accuracy_pct": 85.6
+    },
+    "Brady's Brilliant Team": {
+      "actual_points": 119.06,
+      "optimal_points": 127.66,
+      "accuracy_pct": 93.3
+    },
+    "Joe's Finest Team": {
+      "actual_points": 120.4,
+      "optimal_points": 130.7,
+      "accuracy_pct": 92.1
+    },
+    "Beth's Best Team": {
+      "actual_points": 72.56,
+      "optimal_points": 73.26,
+      "accuracy_pct": 99.0
+    }
+  },
+  "rank_by_score": [
+    {
+      "team_id": 13,
+      "team": "Joe's Finest Team",
+      "score": 120.4
+    },
+    {
+      "team_id": 12,
+      "team": "Brady's Brilliant Team",
+      "score": 119.06
+    },
+    {
+      "team_id": 2,
+      "team": "Chuba Chuba Choo Choo",
+      "score": 115.68
+    },
+    {
+      "team_id": 5,
+      "team": "Schrammel's Mammals",
+      "score": 110.76
+    },
+    {
+      "team_id": 7,
+      "team": "You Underestimate My Bowers",
+      "score": 103.0
+    },
+    {
+      "team_id": 9,
+      "team": "Johnny Utah",
+      "score": 100.04
+    },
+    {
+      "team_id": 6,
+      "team": "Auto Draft All Stars",
+      "score": 99.38
+    },
+    {
+      "team_id": 10,
+      "team": "All Gas, No Brake",
+      "score": 84.88
+    },
+    {
+      "team_id": 1,
+      "team": "Joe Buck Yourself",
+      "score": 80.56
+    },
+    {
+      "team_id": 11,
+      "team": "Jake's Supreme Team",
+      "score": 77.22
+    },
+    {
+      "team_id": 14,
+      "team": "Beth's Best Team",
+      "score": 72.56
+    },
+    {
+      "team_id": 3,
+      "team": "Bilbo Flagons",
+      "score": 63.2
+    }
+  ],
+  "goose_eggs": [
+    {
+      "name": "Josh Jacobs",
+      "pos": 2,
+      "pts": 0.5,
+      "lineupSlotId": 23,
+      "injuryStatus": "OUT",
+      "injured": true,
+      "proTeamId": 9,
+      "externalId": "401873049",
+      "team": "Brady's Brilliant Team"
+    },
+    {
+      "name": "Ravens D/ST",
+      "pos": 16,
+      "pts": 1.0,
+      "lineupSlotId": 16,
+      "injuryStatus": null,
+      "injured": false,
+      "proTeamId": 33,
+      "externalId": "401873037",
+      "team": "Joe Buck Yourself"
+    },
+    {
+      "name": "Wan'Dale Robinson",
+      "pos": 3,
+      "pts": 0.0,
+      "lineupSlotId": 4,
+      "injuryStatus": "ACTIVE",
+      "injured": false,
+      "proTeamId": 10,
+      "externalId": null,
+      "team": "Bilbo Flagons"
+    },
+    {
+      "name": "Kyler Murray",
+      "pos": 1,
+      "pts": 0.0,
+      "lineupSlotId": 0,
+      "injuryStatus": "OUT",
+      "injured": true,
+      "proTeamId": 16,
+      "externalId": "401873051",
+      "team": "Bilbo Flagons"
+    },
+    {
+      "name": "George Pickens",
+      "pos": 3,
+      "pts": 0.0,
+      "lineupSlotId": 4,
+      "injuryStatus": "OUT",
+      "injured": true,
+      "proTeamId": 6,
+      "externalId": "401873040",
+      "team": "Johnny Utah"
+    },
+    {
+      "name": "Tucker Kraft",
+      "pos": 4,
+      "pts": 1.4,
+      "lineupSlotId": 6,
+      "injuryStatus": "ACTIVE",
+      "injured": false,
+      "proTeamId": 9,
+      "externalId": "401873049",
+      "team": "All Gas, No Brake"
+    },
+    {
+      "name": "Jets D/ST",
+      "pos": 16,
+      "pts": 2.0,
+      "lineupSlotId": 16,
+      "injuryStatus": null,
+      "injured": false,
+      "proTeamId": 20,
+      "externalId": "401873045",
+      "team": "All Gas, No Brake"
+    },
+    {
+      "name": "Garrett Wilson",
+      "pos": 3,
+      "pts": 0.0,
+      "lineupSlotId": 4,
+      "injuryStatus": "OUT",
+      "injured": true,
+      "proTeamId": 20,
+      "externalId": "401873045",
+      "team": "Auto Draft All Stars"
+    }
+  ],
+  "def_disasters": [],
+  "total_bench_points": {
+    "Beth's Best Team": 17.24,
+    "Brady's Brilliant Team": 19.1,
+    "Schrammel's Mammals": 50.74,
+    "Jake's Supreme Team": 40.12,
+    "Joe's Finest Team": 41.0,
+    "Joe Buck Yourself": 42.92,
+    "You Underestimate My Bowers": 48.58,
+    "Bilbo Flagons": 59.48,
+    "Johnny Utah": 37.78,
+    "All Gas, No Brake": 49.32,
+    "Chuba Chuba Choo Choo": 75.4,
+    "Auto Draft All Stars": 53.36
+  },
+  "multi_bench_blunder": {
+    "You Underestimate My Bowers": [
+      {
+        "name": "Bo Nix",
+        "pos": 1,
+        "pts": 15.68,
+        "lineupSlotId": 20,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "proTeamId": 7,
+        "externalId": "401873041",
+        "team": "You Underestimate My Bowers"
+      },
+      {
+        "name": "KC Concepcion",
+        "pos": 3,
+        "pts": 16.8,
+        "lineupSlotId": 20,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "proTeamId": 5,
+        "externalId": "401873039",
+        "team": "You Underestimate My Bowers"
+      }
+    ],
+    "Chuba Chuba Choo Choo": [
+      {
+        "name": "Matthew Golden",
+        "pos": 3,
+        "pts": 27.4,
+        "lineupSlotId": 20,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "proTeamId": 9,
+        "externalId": "401873049",
+        "team": "Chuba Chuba Choo Choo"
+      },
+      {
+        "name": "Tyler Shough",
+        "pos": 1,
+        "pts": 19.7,
+        "lineupSlotId": 20,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "proTeamId": 18,
+        "externalId": "401873039",
+        "team": "Chuba Chuba Choo Choo"
+      }
+    ]
+  },
+  "thin_lineup": {
+    "Brady's Brilliant Team": [
+      {
+        "name": "Josh Jacobs",
+        "pos": 2,
+        "pts": 0.5,
+        "lineupSlotId": 23,
+        "injuryStatus": "OUT",
+        "injured": true,
+        "proTeamId": 9,
+        "externalId": "401873049",
+        "team": "Brady's Brilliant Team"
+      },
+      {
+        "name": "Chig Okonkwo",
+        "pos": 4,
+        "pts": 8.7,
+        "lineupSlotId": 6,
+        "injuryStatus": "QUESTIONABLE",
+        "injured": false,
+        "proTeamId": 28,
+        "externalId": "401873043",
+        "team": "Brady's Brilliant Team"
+      }
+    ],
+    "Jake's Supreme Team": [
+      {
+        "name": "Luther Burden III",
+        "pos": 3,
+        "pts": 17.2,
+        "lineupSlotId": 23,
+        "injuryStatus": "QUESTIONABLE",
+        "injured": false,
+        "proTeamId": 3,
+        "externalId": "401873050",
+        "team": "Jake's Supreme Team"
+      },
+      {
+        "name": "Michael Wilson",
+        "pos": 3,
+        "pts": 9.0,
+        "lineupSlotId": 4,
+        "injuryStatus": "OUT",
+        "injured": true,
+        "proTeamId": 22,
+        "externalId": "401873048",
+        "team": "Jake's Supreme Team"
+      },
+      {
+        "name": "Malik Willis",
+        "pos": 1,
+        "pts": 3.82,
+        "lineupSlotId": 0,
+        "injuryStatus": "QUESTIONABLE",
+        "injured": false,
+        "proTeamId": 15,
+        "externalId": "401873042",
+        "team": "Jake's Supreme Team"
+      }
+    ],
+    "You Underestimate My Bowers": [
+      {
+        "name": "Drew Lock",
+        "pos": 1,
+        "pts": 12.6,
+        "lineupSlotId": 0,
+        "injuryStatus": "QUESTIONABLE",
+        "injured": false,
+        "proTeamId": 26,
+        "externalId": "401873048",
+        "team": "You Underestimate My Bowers"
+      }
+    ],
+    "Bilbo Flagons": [
+      {
+        "name": "Kyler Murray",
+        "pos": 1,
+        "pts": 0.0,
+        "lineupSlotId": 0,
+        "injuryStatus": "OUT",
+        "injured": true,
+        "proTeamId": 16,
+        "externalId": "401873051",
+        "team": "Bilbo Flagons"
+      }
+    ],
+    "Johnny Utah": [
+      {
+        "name": "George Pickens",
+        "pos": 3,
+        "pts": 0.0,
+        "lineupSlotId": 4,
+        "injuryStatus": "OUT",
+        "injured": true,
+        "proTeamId": 6,
+        "externalId": "401873040",
+        "team": "Johnny Utah"
+      }
+    ],
+    "Auto Draft All Stars": [
+      {
+        "name": "Puka Nacua",
+        "pos": 3,
+        "pts": 28.0,
+        "lineupSlotId": 4,
+        "injuryStatus": "DOUBTFUL",
+        "injured": false,
+        "proTeamId": 14,
+        "externalId": "401873043",
+        "team": "Auto Draft All Stars"
+      },
+      {
+        "name": "Garrett Wilson",
+        "pos": 3,
+        "pts": 0.0,
+        "lineupSlotId": 4,
+        "injuryStatus": "OUT",
+        "injured": true,
+        "proTeamId": 20,
+        "externalId": "401873045",
+        "team": "Auto Draft All Stars"
+      }
+    ]
+  },
+  "injury_counts": {
+    "Beth's Best Team": 5,
+    "Brady's Brilliant Team": 2,
+    "Schrammel's Mammals": 2,
+    "Jake's Supreme Team": 2,
+    "Joe's Finest Team": 3,
+    "Joe Buck Yourself": 2,
+    "You Underestimate My Bowers": 2,
+    "Bilbo Flagons": 3,
+    "Johnny Utah": 2,
+    "All Gas, No Brake": 1,
+    "Auto Draft All Stars": 3
+  },
+  "has_dst": true,
+  "has_k": true
+}
