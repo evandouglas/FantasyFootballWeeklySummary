@@ -1,0 +1,332 @@
+{
+  "league": "BairdIT",
+  "season": 2026,
+  "week": 9,
+  "position_best": {
+    "RB": [
+      34.3,
+      "Kenneth Walker III",
+      "I am Kenough"
+    ],
+    "WR": [
+      29.0,
+      "Puka Nacua",
+      "Hurricane Ditka"
+    ],
+    "TE": [
+      18.8,
+      "Brock Bowers",
+      "The Maddy Efffect "
+    ]
+  },
+  "player_of_the_week": {
+    "name": "C.J. Stroud",
+    "pos": 1,
+    "pts": 44.36,
+    "lineupSlotId": 0,
+    "injuryStatus": "ACTIVE",
+    "injured": false,
+    "proTeamId": 34,
+    "externalId": "401873046",
+    "team": "Game of Throws"
+  },
+  "goose_eggs": [
+    {
+      "name": "Garrett Wilson",
+      "pos": 3,
+      "pts": 0.0,
+      "lineupSlotId": 4,
+      "injuryStatus": "OUT",
+      "injured": true,
+      "proTeamId": 20,
+      "externalId": "401873045",
+      "team": "First and Freestyle"
+    },
+    {
+      "name": "Sam Darnold",
+      "pos": 1,
+      "pts": 0.0,
+      "lineupSlotId": 7,
+      "injuryStatus": "OUT",
+      "injured": true,
+      "proTeamId": 26,
+      "externalId": "401873048",
+      "team": "First and Freestyle"
+    },
+    {
+      "name": "Ladd McConkey",
+      "pos": 3,
+      "pts": 0.0,
+      "lineupSlotId": 4,
+      "injuryStatus": "QUESTIONABLE",
+      "injured": false,
+      "proTeamId": 24,
+      "externalId": "401873046",
+      "team": "The Ladd Fathers"
+    },
+    {
+      "name": "Tyler Higbee",
+      "pos": 4,
+      "pts": 1.8,
+      "lineupSlotId": 6,
+      "injuryStatus": "ACTIVE",
+      "injured": false,
+      "proTeamId": 14,
+      "externalId": "401873043",
+      "team": "The Ladd Fathers"
+    },
+    {
+      "name": "Tucker Kraft",
+      "pos": 4,
+      "pts": 1.4,
+      "lineupSlotId": 6,
+      "injuryStatus": "ACTIVE",
+      "injured": false,
+      "proTeamId": 9,
+      "externalId": "401873049",
+      "team": "Game of Throws"
+    },
+    {
+      "name": "Jacoby Brissett",
+      "pos": 1,
+      "pts": 0.0,
+      "lineupSlotId": 7,
+      "injuryStatus": "ACTIVE",
+      "injured": false,
+      "proTeamId": 33,
+      "externalId": null,
+      "team": "InstantRiyaPlay"
+    },
+    {
+      "name": "George Pickens",
+      "pos": 3,
+      "pts": 0.0,
+      "lineupSlotId": 4,
+      "injuryStatus": "OUT",
+      "injured": true,
+      "proTeamId": 6,
+      "externalId": "401873040",
+      "team": "HOT BOYZ"
+    },
+    {
+      "name": "Josh Jacobs",
+      "pos": 2,
+      "pts": 0.5,
+      "lineupSlotId": 2,
+      "injuryStatus": "OUT",
+      "injured": true,
+      "proTeamId": 9,
+      "externalId": "401873049",
+      "team": "HOT BOYZ"
+    }
+  ],
+  "defensive_disasters": [],
+  "thin_lineup": {
+    "First and Freestyle": [
+      {
+        "name": "Garrett Wilson",
+        "pos": 3,
+        "pts": 0.0,
+        "lineupSlotId": 4,
+        "injuryStatus": "OUT",
+        "injured": true,
+        "proTeamId": 20,
+        "externalId": "401873045",
+        "team": "First and Freestyle"
+      },
+      {
+        "name": "Sam Darnold",
+        "pos": 1,
+        "pts": 0.0,
+        "lineupSlotId": 7,
+        "injuryStatus": "OUT",
+        "injured": true,
+        "proTeamId": 26,
+        "externalId": "401873048",
+        "team": "First and Freestyle"
+      }
+    ],
+    "The Ladd Fathers": [
+      {
+        "name": "Ladd McConkey",
+        "pos": 3,
+        "pts": 0.0,
+        "lineupSlotId": 4,
+        "injuryStatus": "QUESTIONABLE",
+        "injured": false,
+        "proTeamId": 24,
+        "externalId": "401873046",
+        "team": "The Ladd Fathers"
+      },
+      {
+        "name": "J.J. McCarthy",
+        "pos": 1,
+        "pts": 7.28,
+        "lineupSlotId": 0,
+        "injuryStatus": "QUESTIONABLE",
+        "injured": false,
+        "proTeamId": 19,
+        "externalId": "401873044",
+        "team": "The Ladd Fathers"
+      }
+    ],
+    "InstantRiyaPlay": [
+      {
+        "name": "Rhamondre Stevenson",
+        "pos": 2,
+        "pts": 13.3,
+        "lineupSlotId": 23,
+        "injuryStatus": "QUESTIONABLE",
+        "injured": false,
+        "proTeamId": 17,
+        "externalId": "401873049",
+        "team": "InstantRiyaPlay"
+      },
+      {
+        "name": "Drew Lock",
+        "pos": 1,
+        "pts": 14.6,
+        "lineupSlotId": 0,
+        "injuryStatus": "QUESTIONABLE",
+        "injured": false,
+        "proTeamId": 26,
+        "externalId": "401873048",
+        "team": "InstantRiyaPlay"
+      }
+    ],
+    "I am Kenough": [
+      {
+        "name": "Patrick Mahomes",
+        "pos": 1,
+        "pts": 20.48,
+        "lineupSlotId": 7,
+        "injuryStatus": "QUESTIONABLE",
+        "injured": false,
+        "proTeamId": 12,
+        "externalId": "401873045",
+        "team": "I am Kenough"
+      },
+      {
+        "name": "Jaylen Waddle",
+        "pos": 3,
+        "pts": 2.7,
+        "lineupSlotId": 4,
+        "injuryStatus": "QUESTIONABLE",
+        "injured": false,
+        "proTeamId": 7,
+        "externalId": "401873041",
+        "team": "I am Kenough"
+      }
+    ],
+    "Hurricane Ditka": [
+      {
+        "name": "Puka Nacua",
+        "pos": 3,
+        "pts": 29.0,
+        "lineupSlotId": 4,
+        "injuryStatus": "DOUBTFUL",
+        "injured": false,
+        "proTeamId": 14,
+        "externalId": "401873043",
+        "team": "Hurricane Ditka"
+      },
+      {
+        "name": "Malik Willis",
+        "pos": 1,
+        "pts": 2.82,
+        "lineupSlotId": 0,
+        "injuryStatus": "QUESTIONABLE",
+        "injured": false,
+        "proTeamId": 15,
+        "externalId": "401873042",
+        "team": "Hurricane Ditka"
+      },
+      {
+        "name": "Luther Burden III",
+        "pos": 3,
+        "pts": 18.2,
+        "lineupSlotId": 4,
+        "injuryStatus": "QUESTIONABLE",
+        "injured": false,
+        "proTeamId": 3,
+        "externalId": "401873050",
+        "team": "Hurricane Ditka"
+      },
+      {
+        "name": "Michael Wilson",
+        "pos": 3,
+        "pts": 9.0,
+        "lineupSlotId": 23,
+        "injuryStatus": "OUT",
+        "injured": true,
+        "proTeamId": 22,
+        "externalId": "401873048",
+        "team": "Hurricane Ditka"
+      }
+    ],
+    "Jackson\u2019s Jukes": [
+      {
+        "name": "Zack Baun",
+        "pos": 11,
+        "pts": 18.5,
+        "lineupSlotId": 15,
+        "injuryStatus": "QUESTIONABLE",
+        "injured": false,
+        "proTeamId": 21,
+        "externalId": "401873044",
+        "team": "Jackson\u2019s Jukes"
+      }
+    ],
+    "HOT BOYZ": [
+      {
+        "name": "George Pickens",
+        "pos": 3,
+        "pts": 0.0,
+        "lineupSlotId": 4,
+        "injuryStatus": "OUT",
+        "injured": true,
+        "proTeamId": 6,
+        "externalId": "401873040",
+        "team": "HOT BOYZ"
+      },
+      {
+        "name": "Josh Jacobs",
+        "pos": 2,
+        "pts": 0.5,
+        "lineupSlotId": 2,
+        "injuryStatus": "OUT",
+        "injured": true,
+        "proTeamId": 9,
+        "externalId": "401873049",
+        "team": "HOT BOYZ"
+      }
+    ]
+  },
+  "waiver_big_scores": [],
+  "qb_duels": [
+    [
+      {
+        "name": "Bryce Young",
+        "pos": 1,
+        "pts": 25.34,
+        "lineupSlotId": 7,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "proTeamId": 29,
+        "externalId": "401873041",
+        "team": "Green Egbukas and Hampton"
+      },
+      {
+        "name": "Brock Purdy",
+        "pos": 1,
+        "pts": 28.28,
+        "lineupSlotId": 0,
+        "injuryStatus": "ACTIVE",
+        "injured": false,
+        "proTeamId": 25,
+        "externalId": "401873047",
+        "team": "DEFENSE DADDIES"
+      }
+    ]
+  ]
+}

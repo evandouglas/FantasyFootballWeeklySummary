@@ -1,0 +1,256 @@
+{
+  "league": "TheBairdMinimum",
+  "season": 2026,
+  "week": 9,
+  "position_best": {
+    "RB": [
+      34.3,
+      "Kenneth Walker III",
+      "All Gas, No Brake"
+    ],
+    "WR": [
+      28.5,
+      "CeeDee Lamb",
+      "Schrammel's Mammals"
+    ],
+    "TE": [
+      18.8,
+      "Brock Bowers",
+      "You Underestimate My Bowers"
+    ]
+  },
+  "player_of_the_week": {
+    "name": "C.J. Stroud",
+    "pos": 1,
+    "pts": 35.36,
+    "lineupSlotId": 0,
+    "injuryStatus": "ACTIVE",
+    "injured": false,
+    "proTeamId": 34,
+    "externalId": "401873046",
+    "team": "Brady's Brilliant Team"
+  },
+  "goose_eggs": [
+    {
+      "name": "Josh Jacobs",
+      "pos": 2,
+      "pts": 0.5,
+      "lineupSlotId": 23,
+      "injuryStatus": "OUT",
+      "injured": true,
+      "proTeamId": 9,
+      "externalId": "401873049",
+      "team": "Brady's Brilliant Team"
+    },
+    {
+      "name": "Ravens D/ST",
+      "pos": 16,
+      "pts": 1.0,
+      "lineupSlotId": 16,
+      "injuryStatus": null,
+      "injured": false,
+      "proTeamId": 33,
+      "externalId": "401873037",
+      "team": "Joe Buck Yourself"
+    },
+    {
+      "name": "Wan'Dale Robinson",
+      "pos": 3,
+      "pts": 0.0,
+      "lineupSlotId": 4,
+      "injuryStatus": "ACTIVE",
+      "injured": false,
+      "proTeamId": 10,
+      "externalId": null,
+      "team": "Bilbo Flagons"
+    },
+    {
+      "name": "Kyler Murray",
+      "pos": 1,
+      "pts": 0.0,
+      "lineupSlotId": 0,
+      "injuryStatus": "OUT",
+      "injured": true,
+      "proTeamId": 16,
+      "externalId": "401873051",
+      "team": "Bilbo Flagons"
+    },
+    {
+      "name": "George Pickens",
+      "pos": 3,
+      "pts": 0.0,
+      "lineupSlotId": 4,
+      "injuryStatus": "OUT",
+      "injured": true,
+      "proTeamId": 6,
+      "externalId": "401873040",
+      "team": "Johnny Utah"
+    },
+    {
+      "name": "Tucker Kraft",
+      "pos": 4,
+      "pts": 1.4,
+      "lineupSlotId": 6,
+      "injuryStatus": "ACTIVE",
+      "injured": false,
+      "proTeamId": 9,
+      "externalId": "401873049",
+      "team": "All Gas, No Brake"
+    },
+    {
+      "name": "Jets D/ST",
+      "pos": 16,
+      "pts": 2.0,
+      "lineupSlotId": 16,
+      "injuryStatus": null,
+      "injured": false,
+      "proTeamId": 20,
+      "externalId": "401873045",
+      "team": "All Gas, No Brake"
+    },
+    {
+      "name": "Garrett Wilson",
+      "pos": 3,
+      "pts": 0.0,
+      "lineupSlotId": 4,
+      "injuryStatus": "OUT",
+      "injured": true,
+      "proTeamId": 20,
+      "externalId": "401873045",
+      "team": "Auto Draft All Stars"
+    }
+  ],
+  "defensive_disasters": [],
+  "thin_lineup": {
+    "Brady's Brilliant Team": [
+      {
+        "name": "Josh Jacobs",
+        "pos": 2,
+        "pts": 0.5,
+        "lineupSlotId": 23,
+        "injuryStatus": "OUT",
+        "injured": true,
+        "proTeamId": 9,
+        "externalId": "401873049",
+        "team": "Brady's Brilliant Team"
+      },
+      {
+        "name": "Chig Okonkwo",
+        "pos": 4,
+        "pts": 8.7,
+        "lineupSlotId": 6,
+        "injuryStatus": "QUESTIONABLE",
+        "injured": false,
+        "proTeamId": 28,
+        "externalId": "401873043",
+        "team": "Brady's Brilliant Team"
+      }
+    ],
+    "Jake's Supreme Team": [
+      {
+        "name": "Luther Burden III",
+        "pos": 3,
+        "pts": 17.2,
+        "lineupSlotId": 23,
+        "injuryStatus": "QUESTIONABLE",
+        "injured": false,
+        "proTeamId": 3,
+        "externalId": "401873050",
+        "team": "Jake's Supreme Team"
+      },
+      {
+        "name": "Michael Wilson",
+        "pos": 3,
+        "pts": 9.0,
+        "lineupSlotId": 4,
+        "injuryStatus": "OUT",
+        "injured": true,
+        "proTeamId": 22,
+        "externalId": "401873048",
+        "team": "Jake's Supreme Team"
+      },
+      {
+        "name": "Malik Willis",
+        "pos": 1,
+        "pts": 3.82,
+        "lineupSlotId": 0,
+        "injuryStatus": "QUESTIONABLE",
+        "injured": false,
+        "proTeamId": 15,
+        "externalId": "401873042",
+        "team": "Jake's Supreme Team"
+      }
+    ],
+    "You Underestimate My Bowers": [
+      {
+        "name": "Drew Lock",
+        "pos": 1,
+        "pts": 12.6,
+        "lineupSlotId": 0,
+        "injuryStatus": "QUESTIONABLE",
+        "injured": false,
+        "proTeamId": 26,
+        "externalId": "401873048",
+        "team": "You Underestimate My Bowers"
+      }
+    ],
+    "Bilbo Flagons": [
+      {
+        "name": "Kyler Murray",
+        "pos": 1,
+        "pts": 0.0,
+        "lineupSlotId": 0,
+        "injuryStatus": "OUT",
+        "injured": true,
+        "proTeamId": 16,
+        "externalId": "401873051",
+        "team": "Bilbo Flagons"
+      }
+    ],
+    "Johnny Utah": [
+      {
+        "name": "George Pickens",
+        "pos": 3,
+        "pts": 0.0,
+        "lineupSlotId": 4,
+        "injuryStatus": "OUT",
+        "injured": true,
+        "proTeamId": 6,
+        "externalId": "401873040",
+        "team": "Johnny Utah"
+      }
+    ],
+    "Auto Draft All Stars": [
+      {
+        "name": "Puka Nacua",
+        "pos": 3,
+        "pts": 28.0,
+        "lineupSlotId": 4,
+        "injuryStatus": "DOUBTFUL",
+        "injured": false,
+        "proTeamId": 14,
+        "externalId": "401873043",
+        "team": "Auto Draft All Stars"
+      },
+      {
+        "name": "Garrett Wilson",
+        "pos": 3,
+        "pts": 0.0,
+        "lineupSlotId": 4,
+        "injuryStatus": "OUT",
+        "injured": true,
+        "proTeamId": 20,
+        "externalId": "401873045",
+        "team": "Auto Draft All Stars"
+      }
+    ]
+  },
+  "waiver_big_scores": [
+    {
+      "team": "Chuba Chuba Choo Choo",
+      "name": "Ka'imi Fairbairn",
+      "pts": 17.0
+    }
+  ],
+  "qb_duels": []
+}
