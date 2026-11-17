@@ -1,0 +1,35 @@
+{
+  "league": "The Baird Minimum",
+  "season": 2026,
+  "week": 10,
+  "player_of_week": {"player": "Christian McCaffrey", "position": "RB", "nfl_team": "LV", "points": 44.3, "fantasy_team": "Brady's Brilliant Team"},
+  "position_dominance": {
+    "QB": {"player": "Dak Prescott", "points": 34.42, "fantasy_team": "Joe's Finest Team"},
+    "RB": {"player": "Christian McCaffrey", "points": 44.3, "fantasy_team": "Brady's Brilliant Team"},
+    "WR": {"player": "George Pickens", "points": 38.0, "fantasy_team": "Johnny Utah"},
+    "TE": {"player": "Isaiah Likely", "points": 23.2, "fantasy_team": "Bilbo Flagons"},
+    "K": {"player": "Cam Little", "points": 19.0, "fantasy_team": "You Underestimate My Bowers"},
+    "D/ST": {"player": "Rams D/ST", "points": 16.0, "fantasy_team": "Brady's Brilliant Team"}
+  },
+  "bench_warmer_of_week": {"player": "Patrick Mahomes", "position": "QB", "points": 35.42, "fantasy_team": "Johnny Utah"},
+  "goose_eggs": [
+    {"player": "Jason Myers", "points": 2.0, "position": "K", "fantasy_team": "Brady's Brilliant Team"},
+    {"player": "Tre Tucker", "points": 1.4, "position": "WR", "fantasy_team": "Jake's Supreme Team"},
+    {"player": "Tyler Warren", "points": 1.4, "position": "TE", "fantasy_team": "Joe Buck Yourself"},
+    {"player": "Kenneth Walker III", "points": 0.0, "position": "RB", "fantasy_team": "All Gas, No Brake"},
+    {"player": "Jordan Addison", "points": 0.0, "position": "WR", "fantasy_team": "Auto Draft All Stars"}
+  ],
+  "waiver_wire_pickups_this_week": [
+    {"player": "Emmett Johnson", "fantasy_team": "Jake's Supreme Team", "points": 32.1, "note": "waiver pickup, massive game"},
+    {"player": "Cam Little", "fantasy_team": "You Underestimate My Bowers", "points": 19.0, "note": "waiver K"},
+    {"player": "Aaron Rodgers", "fantasy_team": "Jake's Supreme Team", "points": 15.62, "note": "FA pickup"}
+  ],
+  "thin_lineups_current_injury_status": [
+    {"team": "Joe Buck Yourself", "player": "Drake Maye", "status": "DOUBTFUL"},
+    {"team": "Beth's Best Team", "player": "Woody Marks", "status": "DOUBTFUL"},
+    {"team": "Bilbo Flagons", "player": "Wan'Dale Robinson", "status": "QUESTIONABLE"},
+    {"team": "All Gas, No Brake", "player": "Kenneth Walker III", "status": "QUESTIONABLE"},
+    {"team": "Auto Draft All Stars", "player": "Jordan Addison", "status": "OUT"},
+    {"team": "You Underestimate My Bowers", "player": "Brock Bowers", "status": "QUESTIONABLE"}
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "league": "Baird IT",
+  "season": 2026,
+  "week": 10,
+  "matchups": [
+    {"winner": "The Ladd Fathers", "winner_score": 120.1, "loser": "Hurricane Ditka", "loser_score": 89.24, "margin": 30.86},
+    {"winner": "Packlog Bearslayers", "winner_score": 124.98, "loser": "The Maddy Efffect", "loser_score": 86.48, "margin": 38.5},
+    {"winner": "DEFENSE DADDIES", "winner_score": 155.38, "loser": "HOT BOYZ", "loser_score": 128.52, "margin": 26.86},
+    {"winner": "Jackson's Jukes", "winner_score": 147.58, "loser": "I am Kenough", "loser_score": 146.18, "margin": 1.4},
+    {"winner": "First and Freestyle", "winner_score": 151.22, "loser": "InstantRiyaPlay", "loser_score": 132.3, "margin": 18.92},
+    {"winner": "Game of Throws", "winner_score": 118.12, "loser": "Green Egbukas and Hampton", "loser_score": 109.52, "margin": 8.6}
+  ],
+  "highest_score": {"team": "DEFENSE DADDIES", "score": 155.38},
+  "lowest_score": {"team": "The Maddy Efffect", "score": 86.48},
+  "biggest_blowout": {"winner": "Packlog Bearslayers", "loser": "The Maddy Efffect", "margin": 38.5},
+  "closest_game": {"winner": "Jackson's Jukes", "loser": "I am Kenough", "margin": 1.4},
+  "player_of_week": {"player": "Patrick Mahomes", "position": "QB", "points": 45.42, "fantasy_team": "I am Kenough"},
+  "bench_warmer_of_week": {"player": "Deebo Samuel Sr.", "position": "WR", "points": 24.4, "fantasy_team": "Packlog Bearslayers"},
+  "lineup_efficiency": {
+    "most_accurate": {"team": "I am Kenough", "actual_points": 146.18, "optimal_points": 146.18, "accuracy_pct": 100.0},
+    "least_accurate": {"team": "The Maddy Efffect", "actual_points": 86.48, "optimal_points": 108.06, "accuracy_pct": 80.0}
+  },
+  "goose_eggs": [
+    {"player": "Germie Bernard", "points": 1.0, "position": "WR", "fantasy_team": "The Ladd Fathers"},
+    {"player": "DeMario Douglas", "points": 0.9, "position": "WR", "fantasy_team": "The Maddy Efffect"},
+    {"player": "RJ Harvey", "points": 0.0, "position": "RB", "fantasy_team": "HOT BOYZ"},
+    {"player": "Xavier Worthy", "points": 0.0, "position": "WR", "fantasy_team": "I am Kenough"},
+    {"player": "Tyler Warren", "points": 1.4, "position": "TE", "fantasy_team": "InstantRiyaPlay"},
+    {"player": "Rhamondre Stevenson", "points": 1.0, "position": "RB", "fantasy_team": "InstantRiyaPlay"}
+  ],
+  "defensive_disasters": "not applicable - league does not roster D/ST",
+  "unlucky_losses": [
+    {"team": "I am Kenough", "score": 146.18, "league_rank": 4}
+  ],
+  "qb_duel": {
+    "matchup": "Jackson's Jukes vs I am Kenough",
+    "players": [
+      {"player": "Dak Prescott", "points": 43.42, "fantasy_team": "Jackson's Jukes"},
+      {"player": "Patrick Mahomes", "points": 45.42, "fantasy_team": "I am Kenough"}
+    ]
+  },
+  "position_dominance": {
+    "QB": {"player": "Patrick Mahomes", "points": 45.42, "fantasy_team": "I am Kenough"},
+    "RB": {"player": "Christian McCaffrey", "points": 44.3, "fantasy_team": "DEFENSE DADDIES"},
+    "WR": {"player": "George Pickens", "points": 38.0, "fantasy_team": "HOT BOYZ"},
+    "TE": {"player": "Isaiah Likely", "points": 23.2, "fantasy_team": "First and Freestyle"}
+  },
+  "streaks": {
+    "undefeated_watch": {"team": "Jackson's Jukes", "record": "10-0", "streak_length": 10},
+    "win_streaks_3plus": [],
+    "loss_streaks_3plus": [
+      {"team": "HOT BOYZ", "length": 3, "record": "2-8"}
+    ]
+  },
+  "injury_report": {
+    "merge_succeeded": true,
+    "thin_lineups": [
+      {"team": "Hurricane Ditka", "player": "Wan'Dale Robinson", "status": "QUESTIONABLE"},
+      {"team": "The Maddy Efffect", "player": "Drake Maye", "status": "DOUBTFUL"},
+      {"team": "The Maddy Efffect", "player": "Brock Bowers", "status": "QUESTIONABLE"},
+      {"team": "The Maddy Efffect", "player": "Blake Cashman", "status": "QUESTIONABLE"},
+      {"team": "Game of Throws", "player": "Geno Smith", "status": "QUESTIONABLE"},
+      {"team": "Green Egbukas and Hampton", "player": "A.J. Brown", "status": "QUESTIONABLE"}
+    ],
+    "most_injuries_team": {"team": "Hurricane Ditka / HOT BOYZ", "count": 3}
+  },
+  "trades_this_week": "none reportable - teamId 5/8 and teamId 14 trade activity ended in PENDING, CANCELED, or TRADE_DECLINE; a TRADE_ACCEPT by teamId 3 (Game of Throws) was found but its counterparty record is absent this week, so it was omitted rather than guessed",
+  "verification_notes": "All scores and superlatives cross-checked against sorted scores: [DEFENSE DADDIES 155.38, First and Freestyle 151.22, Jackson's Jukes 147.58, I am Kenough 146.18, InstantRiyaPlay 132.3, HOT BOYZ 128.52, Packlog Bearslayers 124.98, The Ladd Fathers 120.1, Game of Throws 118.12, Green Egbukas and Hampton 109.52, Hurricane Ditka 89.24, The Maddy Efffect 86.48]."
+}

@@ -1,0 +1,42 @@
+{
+  "league": "Baird IT",
+  "season": 2026,
+  "week": 10,
+  "player_of_week": {"player": "Patrick Mahomes", "position": "QB", "nfl_team": "KC", "points": 45.42, "fantasy_team": "I am Kenough"},
+  "position_dominance": {
+    "QB": {"player": "Patrick Mahomes", "points": 45.42, "fantasy_team": "I am Kenough"},
+    "RB": {"player": "Christian McCaffrey", "points": 44.3, "fantasy_team": "DEFENSE DADDIES"},
+    "WR": {"player": "George Pickens", "points": 38.0, "fantasy_team": "HOT BOYZ"},
+    "TE": {"player": "Isaiah Likely", "points": 23.2, "fantasy_team": "First and Freestyle"},
+    "LB": {"player": "Carson Schwesinger", "points": 10.5, "fantasy_team": "The Ladd Fathers"},
+    "DE": {"player": "Maxx Crosby", "points": 13.5, "fantasy_team": "InstantRiyaPlay"},
+    "S": {"player": "Nick Emmanwori", "points": 9.0, "fantasy_team": "DEFENSE DADDIES"},
+    "CB": {"player": "Kyle Hamilton", "points": 8.5, "fantasy_team": "Jackson's Jukes"}
+  },
+  "qb_duel": {
+    "matchup": "Jackson's Jukes vs I am Kenough",
+    "note": "Both starting QBs topped 40 points in the same closest-game matchup of the week",
+    "players": [
+      {"player": "Dak Prescott", "points": 43.42, "fantasy_team": "Jackson's Jukes"},
+      {"player": "Patrick Mahomes", "points": 45.42, "fantasy_team": "I am Kenough"}
+    ]
+  },
+  "bench_warmer_of_week": {"player": "Deebo Samuel Sr.", "position": "WR", "points": 24.4, "fantasy_team": "Packlog Bearslayers"},
+  "goose_eggs": [
+    {"player": "Germie Bernard", "points": 1.0, "position": "WR", "fantasy_team": "The Ladd Fathers"},
+    {"player": "DeMario Douglas", "points": 0.9, "position": "WR", "fantasy_team": "The Maddy Efffect"},
+    {"player": "RJ Harvey", "points": 0.0, "position": "RB", "fantasy_team": "HOT BOYZ"},
+    {"player": "Xavier Worthy", "points": 0.0, "position": "WR", "fantasy_team": "I am Kenough"},
+    {"player": "Tyler Warren", "points": 1.4, "position": "TE", "fantasy_team": "InstantRiyaPlay"},
+    {"player": "Rhamondre Stevenson", "points": 1.0, "position": "RB", "fantasy_team": "InstantRiyaPlay"}
+  ],
+  "waiver_wire_pickups_this_week": "no pickups reached the 15+ point threshold this week",
+  "thin_lineups_current_injury_status": [
+    {"team": "Hurricane Ditka", "player": "Wan'Dale Robinson", "status": "QUESTIONABLE"},
+    {"team": "The Maddy Efffect", "player": "Drake Maye", "status": "DOUBTFUL"},
+    {"team": "The Maddy Efffect", "player": "Brock Bowers", "status": "QUESTIONABLE"},
+    {"team": "The Maddy Efffect", "player": "Blake Cashman", "status": "QUESTIONABLE"},
+    {"team": "Game of Throws", "player": "Geno Smith", "status": "QUESTIONABLE"},
+    {"team": "Green Egbukas and Hampton", "player": "A.J. Brown", "status": "QUESTIONABLE"}
+  ]
+}
