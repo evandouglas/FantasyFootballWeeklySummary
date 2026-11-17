@@ -1,0 +1,76 @@
+{
+  "league": "The Baird Minimum",
+  "season": 2026,
+  "week": 10,
+  "matchups": [
+    {"winner": "Brady's Brilliant Team", "winner_score": 135.84, "loser": "Jake's Supreme Team", "loser_score": 112.02, "margin": 23.82},
+    {"winner": "Joe Buck Yourself", "winner_score": 101.98, "loser": "Beth's Best Team", "loser_score": 87.64, "margin": 14.34},
+    {"winner": "Bilbo Flagons", "winner_score": 91.3, "loser": "Schrammel's Mammals", "loser_score": 89.8, "margin": 1.5},
+    {"winner": "Joe's Finest Team", "winner_score": 126.62, "loser": "All Gas, No Brake", "loser_score": 98.18, "margin": 28.44},
+    {"winner": "You Underestimate My Bowers", "winner_score": 107.1, "loser": "Auto Draft All Stars", "loser_score": 95.86, "margin": 11.24},
+    {"winner": "Johnny Utah", "winner_score": 152.06, "loser": "Chuba Chuba Choo Choo", "loser_score": 116.68, "margin": 35.38}
+  ],
+  "highest_score": {"team": "Johnny Utah", "score": 152.06},
+  "lowest_score": {"team": "Beth's Best Team", "score": 87.64},
+  "biggest_blowout": {"winner": "Johnny Utah", "loser": "Chuba Chuba Choo Choo", "margin": 35.38},
+  "closest_game": {"winner": "Bilbo Flagons", "loser": "Schrammel's Mammals", "margin": 1.5},
+  "player_of_week": {"player": "Christian McCaffrey", "position": "RB", "points": 44.3, "fantasy_team": "Brady's Brilliant Team"},
+  "bench_warmer_of_week": {"player": "Patrick Mahomes", "position": "QB", "points": 35.42, "fantasy_team": "Johnny Utah"},
+  "lineup_efficiency": {
+    "most_accurate": {"team": "Brady's Brilliant Team", "actual_points": 135.84, "optimal_points": 135.84, "accuracy_pct": 100.0},
+    "least_accurate": {"team": "All Gas, No Brake", "actual_points": 98.18, "optimal_points": 124.68, "accuracy_pct": 78.7}
+  },
+  "goose_eggs": [
+    {"player": "Jason Myers", "points": 2.0, "position": "K", "fantasy_team": "Brady's Brilliant Team"},
+    {"player": "Tre Tucker", "points": 1.4, "position": "WR", "fantasy_team": "Jake's Supreme Team"},
+    {"player": "Tyler Warren", "points": 1.4, "position": "TE", "fantasy_team": "Joe Buck Yourself"},
+    {"player": "Kenneth Walker III", "points": 0.0, "position": "RB", "fantasy_team": "All Gas, No Brake"},
+    {"player": "Jordan Addison", "points": 0.0, "position": "WR", "fantasy_team": "Auto Draft All Stars"}
+  ],
+  "defensive_disasters": [],
+  "bench_outscored_starters": null,
+  "multiple_bench_blunders": [
+    {"team": "Jake's Supreme Team", "players": [{"player": "Chase Brown", "points": 24.3}, {"player": "Vikings D/ST", "points": 21.0}]},
+    {"team": "All Gas, No Brake", "players": [{"player": "Cam Skattebo", "points": 25.7}, {"player": "Matthew Stafford", "points": 19.76}]}
+  ],
+  "unlucky_losses": [
+    {"team": "Jake's Supreme Team", "score": 112.02, "league_rank": 5},
+    {"team": "Chuba Chuba Choo Choo", "score": 116.68, "league_rank": 4}
+  ],
+  "waiver_wire_winners": [
+    {"player": "Emmett Johnson", "points": 32.1, "fantasy_team": "Jake's Supreme Team"}
+  ],
+  "streaks": {
+    "win_streaks_3plus": [
+      {"team": "Johnny Utah", "length": 3, "record": "8-2"},
+      {"team": "Brady's Brilliant Team", "length": 3, "record": "4-6"}
+    ],
+    "loss_streaks_3plus": [
+      {"team": "All Gas, No Brake", "length": 4, "record": "5-5"}
+    ]
+  },
+  "injury_report": {
+    "merge_succeeded": true,
+    "thin_lineups": [
+      {"team": "Joe Buck Yourself", "player": "Drake Maye", "status": "DOUBTFUL"},
+      {"team": "Beth's Best Team", "player": "Woody Marks", "status": "DOUBTFUL"},
+      {"team": "Bilbo Flagons", "player": "Wan'Dale Robinson", "status": "QUESTIONABLE"},
+      {"team": "All Gas, No Brake", "player": "Kenneth Walker III", "status": "QUESTIONABLE"},
+      {"team": "Auto Draft All Stars", "player": "Jordan Addison", "status": "OUT"},
+      {"team": "You Underestimate My Bowers", "player": "Brock Bowers", "status": "QUESTIONABLE"}
+    ],
+    "most_injuries_team": {"team": "Beth's Best Team / Bilbo Flagons / Joe's Finest Team / Auto Draft All Stars", "count": 3}
+  },
+  "primetime": {
+    "opener_event_id": "401873052",
+    "closer_event_id": "401873065",
+    "opener_notes": [
+      {"team": "Bilbo Flagons", "player": "Isaiah Likely", "points": 23.2, "note": "best opener performance, in winning effort"},
+      {"team": "Joe Buck Yourself", "player": "Stefon Diggs", "points": 17.3, "note": "solid opener, in winning effort"}
+    ],
+    "closer_notes": [
+      {"team": "Chuba Chuba Choo Choo", "player": "Derrick Henry", "points": 16.5, "note": "closing-game effort in a loss"}
+    ]
+  },
+  "verification_notes": "All scores and superlatives cross-checked against sorted all_scores_sorted list: [Johnny Utah 152.06, Brady's Brilliant Team 135.84, Joe's Finest Team 126.62, Chuba Chuba Choo Choo 116.68, Jake's Supreme Team 112.02, You Underestimate My Bowers 107.1, Joe Buck Yourself 101.98, All Gas No Brake 98.18, Auto Draft All Stars 95.86, Bilbo Flagons 91.3, Schrammel's Mammals 89.8, Beth's Best Team 87.64]."
+}
