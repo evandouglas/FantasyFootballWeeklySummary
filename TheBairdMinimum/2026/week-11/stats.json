@@ -1,0 +1,66 @@
+{
+  "league": "The Baird Minimum",
+  "season": 2026,
+  "week": 11,
+  "matchups": [
+    {"winner": "Brady's Brilliant Team", "winner_owner": "Brady", "winner_score": 100.56, "loser": "Joe Buck Yourself", "loser_owner": "Riya", "loser_score": 98.04, "margin": 2.52},
+    {"winner": "Jake's Supreme Team", "winner_owner": "Jake", "winner_score": 99.38, "loser": "Bilbo Flagons", "loser_owner": "William", "loser_score": 44.8, "margin": 54.58},
+    {"winner": "Beth's Best Team", "winner_owner": "Beth", "winner_score": 103.36, "loser": "All Gas, No Brake", "loser_owner": "Zack", "loser_score": 83.24, "margin": 20.12},
+    {"winner": "Auto Draft All Stars", "winner_owner": "Sara", "winner_score": 119.06, "loser": "Schrammel's Mammals", "loser_owner": "Carl", "loser_score": 92.04, "margin": 27.02},
+    {"winner": "Chuba Chuba Choo Choo", "winner_owner": "Evan", "winner_score": 107.08, "loser": "Joe's Finest Team", "loser_owner": "Joe", "loser_score": 82.0, "margin": 25.08},
+    {"winner": "You Underestimate My Bowers", "winner_owner": "Rob", "winner_score": 115.7, "loser": "Johnny Utah", "loser_owner": "Justin", "loser_score": 110.5, "margin": 5.2}
+  ],
+  "sorted_scores": [
+    {"team": "Auto Draft All Stars", "score": 119.06, "rank": 1},
+    {"team": "You Underestimate My Bowers", "score": 115.7, "rank": 2},
+    {"team": "Johnny Utah", "score": 110.5, "rank": 3},
+    {"team": "Chuba Chuba Choo Choo", "score": 107.08, "rank": 4},
+    {"team": "Beth's Best Team", "score": 103.36, "rank": 5},
+    {"team": "Brady's Brilliant Team", "score": 100.56, "rank": 6},
+    {"team": "Jake's Supreme Team", "score": 99.38, "rank": 7},
+    {"team": "Joe Buck Yourself", "score": 98.04, "rank": 8},
+    {"team": "Schrammel's Mammals", "score": 92.04, "rank": 9},
+    {"team": "All Gas, No Brake", "score": 83.24, "rank": 10},
+    {"team": "Joe's Finest Team", "score": 82.0, "rank": 11},
+    {"team": "Bilbo Flagons", "score": 44.8, "rank": 12}
+  ],
+  "superlatives": {
+    "biggest_blowout": {"winner": "Jake's Supreme Team", "loser": "Bilbo Flagons", "margin": 54.58},
+    "closest_game": {"winner": "Brady's Brilliant Team", "loser": "Joe Buck Yourself", "margin": 2.52},
+    "highest_score": {"team": "Auto Draft All Stars", "owner": "Sara", "score": 119.06},
+    "lowest_score": {"team": "Bilbo Flagons", "owner": "William", "score": 44.8},
+    "player_of_week": {"name": "Dak Prescott", "position": "QB", "fantasy_team": "Joe's Finest Team", "points": 35.9},
+    "bench_warmer": {"team": "Joe Buck Yourself", "player": "Mike Evans", "points": 19.9},
+    "most_accurate_lineup": {"team": "Beth's Best Team", "owner": "Beth", "actual": 103.36, "optimal": 103.36, "accuracy_pct": 100.0},
+    "least_accurate_lineup": {"team": "Jake's Supreme Team", "owner": "Jake", "actual": 99.38, "optimal": 123.88, "accuracy_pct": 80.2}
+  },
+  "unlucky_losses": [
+    {"team": "Johnny Utah", "owner": "Justin", "score": 110.5, "rank": 3}
+  ],
+  "streaks": {
+    "hot": [{"team": "You Underestimate My Bowers", "owner": "Rob", "length": 3}, {"team": "Brady's Brilliant Team", "owner": "Brady", "length": 4}],
+    "cold": [{"team": "All Gas, No Brake", "owner": "Zack", "length": 5}]
+  },
+  "waiver_adds": [
+    {"team": "Schrammel's Mammals", "owner": "Carl", "player": "Bears D/ST", "points": 15.0},
+    {"team": "Auto Draft All Stars", "owner": "Sara", "player": "Justice Hill", "points": 15.6}
+  ],
+  "trades": [],
+  "injury_report": {
+    "note": "merged injuryStatus/injured fields available",
+    "most_injuries": {"team": "Bilbo Flagons", "count": 4, "tied_with": "Beth's Best Team / Joe's Finest Team"}
+  },
+  "thin_lineup": [
+    {"player": "Justin Herbert", "team": "Joe Buck Yourself", "status": "QUESTIONABLE", "points": 22.44},
+    {"player": "Saquon Barkley", "team": "Brady's Brilliant Team", "status": "QUESTIONABLE", "points": 13.5},
+    {"player": "Dalton Kincaid", "team": "Jake's Supreme Team", "status": "OUT", "points": 0.0},
+    {"player": "Kyler Murray", "team": "Bilbo Flagons", "status": "OUT", "points": 0.0},
+    {"player": "Sam LaPorta", "team": "Chuba Chuba Choo Choo", "status": "QUESTIONABLE", "points": 7.7},
+    {"player": "Bhayshul Tuten", "team": "Johnny Utah", "status": "QUESTIONABLE", "points": 6.8}
+  ],
+  "primetime": {
+    "opener": {"game": "Colts at Texans (TNF)", "note": "C.J. Stroud led all opener players with 20.46 for Brady's Brilliant Team"},
+    "closer": {"game": "Bengals at Commanders (MNF)", "note": "Joe Burrow closed the week with 19.9 for Johnny Utah"}
+  },
+  "verification": "All superlatives cross-checked against sorted_scores list; margins computed from exact home/away totals."
+}

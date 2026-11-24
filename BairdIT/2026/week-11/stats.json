@@ -1,0 +1,70 @@
+{
+  "league": "Baird IT",
+  "season": 2026,
+  "week": 11,
+  "matchups": [
+    {"winner": "Packlog Bearslayers", "winner_owner": "jerome", "winner_score": 92.38, "loser": "The Ladd Fathers", "loser_owner": "Ryan", "loser_score": 91.86, "margin": 0.52},
+    {"winner": "The Maddy Efffect", "winner_owner": "Madalyn", "winner_score": 93.2, "loser": "Hurricane Ditka", "loser_owner": "Nick", "loser_score": 82.24, "margin": 10.96},
+    {"winner": "InstantRiyaPlay", "winner_owner": "Riya", "winner_score": 137.08, "loser": "DEFENSE DADDIES", "loser_owner": "Benjamin", "loser_score": 105.18, "margin": 31.9},
+    {"winner": "I am Kenough", "winner_owner": "Evan", "winner_score": 148.86, "loser": "HOT BOYZ", "loser_owner": "Michael", "loser_score": 63.4, "margin": 85.46},
+    {"winner": "Jackson's Jukes", "winner_owner": "Julianna", "winner_score": 119.6, "loser": "Green Egbukas and Hampton", "loser_owner": "Rob", "loser_score": 105.12, "margin": 14.48},
+    {"winner": "First and Freestyle", "winner_owner": "Mike", "winner_score": 126.76, "loser": "Game of Throws", "loser_owner": "Demarion", "loser_score": 94.3, "margin": 32.46}
+  ],
+  "sorted_scores": [
+    {"team": "I am Kenough", "score": 148.86, "rank": 1},
+    {"team": "InstantRiyaPlay", "score": 137.08, "rank": 2},
+    {"team": "First and Freestyle", "score": 126.76, "rank": 3},
+    {"team": "Jackson's Jukes", "score": 119.6, "rank": 4},
+    {"team": "DEFENSE DADDIES", "score": 105.18, "rank": 5},
+    {"team": "Green Egbukas and Hampton", "score": 105.12, "rank": 6},
+    {"team": "Game of Throws", "score": 94.3, "rank": 7},
+    {"team": "The Maddy Efffect", "score": 93.2, "rank": 8},
+    {"team": "Packlog Bearslayers", "score": 92.38, "rank": 9},
+    {"team": "The Ladd Fathers", "score": 91.86, "rank": 10},
+    {"team": "Hurricane Ditka", "score": 82.24, "rank": 11},
+    {"team": "HOT BOYZ", "score": 63.4, "rank": 12}
+  ],
+  "superlatives": {
+    "biggest_blowout": {"winner": "I am Kenough", "loser": "HOT BOYZ", "margin": 85.46},
+    "closest_game": {"winner": "Packlog Bearslayers", "loser": "The Ladd Fathers", "margin": 0.52},
+    "highest_score": {"team": "I am Kenough", "owner": "Evan", "score": 148.86},
+    "lowest_score": {"team": "HOT BOYZ", "owner": "Michael", "score": 63.4},
+    "player_of_week": {"name": "Dak Prescott", "position": "QB", "fantasy_team": "Jackson's Jukes", "points": 43.9},
+    "bench_warmer": {"team": "I am Kenough", "player": "Cam Ward", "points": 26.22},
+    "most_accurate_lineup": {"team": "Jackson's Jukes", "owner": "Julianna", "actual": 119.6, "optimal": 119.6, "accuracy_pct": 100.0},
+    "least_accurate_lineup": {"team": "HOT BOYZ", "owner": "Michael", "actual": 63.4, "optimal": 96.5, "accuracy_pct": 65.7}
+  },
+  "unlucky_losses": [
+    {"team": "DEFENSE DADDIES", "owner": "Benjamin", "score": 105.18, "rank": 5},
+    {"team": "Green Egbukas and Hampton", "owner": "Rob", "score": 105.12, "rank": 6}
+  ],
+  "qb_duels_25plus": [
+    {"matchup": "InstantRiyaPlay vs DEFENSE DADDIES", "qb1": "Justin Herbert", "qb1_pts": 26.44, "qb2": "Brock Purdy", "qb2_pts": 28.2}
+  ],
+  "streaks": {
+    "hot": [
+      {"team": "First and Freestyle", "owner": "Mike", "length": 3},
+      {"team": "Jackson's Jukes", "owner": "Julianna", "length": 11},
+      {"team": "Packlog Bearslayers", "owner": "jerome", "length": 3}
+    ],
+    "cold": [
+      {"team": "Green Egbukas and Hampton", "owner": "Rob", "length": 4},
+      {"team": "Hurricane Ditka", "owner": "Nick", "length": 3},
+      {"team": "HOT BOYZ", "owner": "Michael", "length": 4}
+    ]
+  },
+  "undefeated_watch": [{"team": "Jackson's Jukes", "owner": "Julianna", "record": "11-0"}],
+  "trades": [],
+  "injury_report": {
+    "note": "merged injuryStatus/injured fields available",
+    "most_injuries": {"team": "Hurricane Ditka", "count": 4}
+  },
+  "thin_lineup": [
+    {"player": "Bhayshul Tuten", "team": "The Maddy Efffect", "status": "QUESTIONABLE", "points": 6.8},
+    {"player": "Justin Herbert", "team": "InstantRiyaPlay", "status": "QUESTIONABLE", "points": 26.44},
+    {"player": "Saquon Barkley", "team": "I am Kenough", "status": "QUESTIONABLE", "points": 13.5},
+    {"player": "Sam LaPorta", "team": "Green Egbukas and Hampton", "status": "QUESTIONABLE", "points": 7.7},
+    {"player": "Jacob Parrish", "team": "Green Egbukas and Hampton", "status": "QUESTIONABLE", "points": 0.5}
+  ],
+  "verification": "All superlatives cross-checked against sorted_scores list; margins computed from exact home/away totals."
+}
