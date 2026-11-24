@@ -1,0 +1,54 @@
+{
+  "league": "The Baird Minimum",
+  "season": 2026,
+  "week": 11,
+  "player_of_week": {"name": "Dak Prescott", "position": "QB", "nfl_team_id": 6, "fantasy_team": "Joe's Finest Team", "owner": "Joe", "points": 35.9},
+  "position_best": {
+    "QB": {"name": "Dak Prescott", "points": 35.9, "team": "Joe's Finest Team"},
+    "RB": {"name": "Jonah Coleman", "points": 32.9, "team": "You Underestimate My Bowers"},
+    "WR": {"name": "CeeDee Lamb", "points": 24.7, "team": "Schrammel's Mammals"},
+    "TE": {"name": "Travis Kelce", "points": 22.4, "team": "Beth's Best Team"},
+    "K": {"name": "Tyler Bass", "points": 17.0, "team": "Auto Draft All Stars"}
+  },
+  "bench_best_by_team": {
+    "Joe Buck Yourself": {"player": "Mike Evans", "points": 19.9},
+    "Brady's Brilliant Team": {"player": "Cam Ward", "points": 22.22},
+    "Jake's Supreme Team": {"player": "Ladd McConkey", "points": 18.2},
+    "Bilbo Flagons": {"player": "Samaje Perine", "points": 11.7},
+    "Beth's Best Team": {"player": "Kirk Cousins", "points": 7.4},
+    "All Gas, No Brake": {"player": "Kimani Vidal", "points": 6.4},
+    "Schrammel's Mammals": {"player": "Bryce Young", "points": 15.96},
+    "Auto Draft All Stars": {"player": "Brock Purdy", "points": 22.2},
+    "Joe's Finest Team": {"player": "Elic Ayomanor", "points": 4.2},
+    "Chuba Chuba Choo Choo": {"player": "Jared Goff", "points": 20.36},
+    "You Underestimate My Bowers": {"player": "J.J. McCarthy", "points": 14.22},
+    "Johnny Utah": {"player": "Patrick Mahomes", "points": 24.96}
+  },
+  "goose_eggs_leq_2pts": [
+    {"player": "Browns D/ST", "points": 0.0, "team": "Bilbo Flagons"},
+    {"player": "Courtland Sutton", "points": 0.0, "team": "All Gas, No Brake"},
+    {"player": "Dalton Kincaid", "points": 0.0, "team": "Jake's Supreme Team"},
+    {"player": "Kyler Murray", "points": 0.0, "team": "Bilbo Flagons"},
+    {"player": "Rachaad White", "points": 0.0, "team": "Schrammel's Mammals"},
+    {"player": "Wan'Dale Robinson", "points": 0.0, "team": "Bilbo Flagons"},
+    {"player": "DK Metcalf", "points": 0.7, "team": "Brady's Brilliant Team"},
+    {"player": "Makai Lemon", "points": 0.8, "team": "Bilbo Flagons"},
+    {"player": "Michael Mayer", "points": 0.9, "team": "You Underestimate My Bowers"},
+    {"player": "Spencer Shrader", "points": 1.0, "team": "Schrammel's Mammals"},
+    {"player": "Jordyn Tyson", "points": 1.5, "team": "Chuba Chuba Choo Choo"},
+    {"player": "Dalton Schultz", "points": 1.6, "team": "All Gas, No Brake"},
+    {"player": "Ryan Flournoy", "points": 1.6, "team": "Joe's Finest Team"},
+    {"player": "Kaelon Black", "points": 2.0, "team": "Joe's Finest Team"}
+  ],
+  "defensive_disasters": [],
+  "kicker_chaos": [],
+  "qb_duels_25plus": [],
+  "thin_lineup_started": [
+    {"player": "Justin Herbert", "team": "Joe Buck Yourself", "status": "QUESTIONABLE", "points": 22.44},
+    {"player": "Saquon Barkley", "team": "Brady's Brilliant Team", "status": "QUESTIONABLE", "points": 13.5},
+    {"player": "Dalton Kincaid", "team": "Jake's Supreme Team", "status": "OUT", "points": 0.0},
+    {"player": "Kyler Murray", "team": "Bilbo Flagons", "status": "OUT", "points": 0.0},
+    {"player": "Sam LaPorta", "team": "Chuba Chuba Choo Choo", "status": "QUESTIONABLE", "points": 7.7},
+    {"player": "Bhayshul Tuten", "team": "Johnny Utah", "status": "QUESTIONABLE", "points": 6.8}
+  ]
+}

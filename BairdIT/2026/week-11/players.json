@@ -1,0 +1,53 @@
+{
+  "league": "Baird IT",
+  "season": 2026,
+  "week": 11,
+  "player_of_week": {"name": "Dak Prescott", "position": "QB", "nfl_team_id": 6, "fantasy_team": "Jackson's Jukes", "owner": "Julianna", "points": 43.9},
+  "position_best": {
+    "QB": {"name": "Dak Prescott", "points": 43.9, "team": "Jackson's Jukes"},
+    "RB": {"name": "Jonah Coleman", "points": 32.9, "team": "Green Egbukas and Hampton"},
+    "WR": {"name": "CeeDee Lamb", "points": 24.7, "team": "The Maddy Efffect"},
+    "TE": {"name": "Travis Kelce", "points": 22.4, "team": "I am Kenough"}
+  },
+  "bench_best_by_team": {
+    "Packlog Bearslayers": {"player": "Jalen Coker", "points": 6.7},
+    "The Ladd Fathers": {"player": "Ladd McConkey", "points": 18.2},
+    "Hurricane Ditka": {"player": "Baker Mayfield", "points": 23.08},
+    "The Maddy Efffect": {"player": "Kenny Gainwell", "points": 7.9},
+    "InstantRiyaPlay": {"player": "Brian Thomas Jr.", "points": 8.3},
+    "DEFENSE DADDIES": {"player": "Alvin Kamara", "points": 6.7},
+    "HOT BOYZ": {"player": "Mike Evans", "points": 19.9},
+    "I am Kenough": {"player": "Cam Ward", "points": 26.22},
+    "Jackson's Jukes": {"player": "Matthew Stafford", "points": 0.0},
+    "Green Egbukas and Hampton": {"player": "Kaelon Black", "points": 2.0},
+    "First and Freestyle": {"player": "Jordyn Brooks", "points": 11.0},
+    "Game of Throws": {"player": "Caleb Williams", "points": 17.34}
+  },
+  "goose_eggs_leq_2pts": [
+    {"player": "Bijan Robinson", "points": 0.0, "team": "HOT BOYZ"},
+    {"player": "Courtland Sutton", "points": 0.0, "team": "DEFENSE DADDIES"},
+    {"player": "Jadarian Price", "points": 0.0, "team": "Game of Throws"},
+    {"player": "Jalon Daniels", "points": 0.0, "team": "Packlog Bearslayers"},
+    {"player": "Michael Penix Jr.", "points": 0.0, "team": "HOT BOYZ"},
+    {"player": "RJ Harvey", "points": 0.0, "team": "HOT BOYZ"},
+    {"player": "Tucker Kraft", "points": 0.0, "team": "Game of Throws"},
+    {"player": "Jacob Parrish", "points": 0.5, "team": "Green Egbukas and Hampton"},
+    {"player": "DK Metcalf", "points": 0.7, "team": "The Maddy Efffect"},
+    {"player": "Jordyn Tyson", "points": 1.5, "team": "The Ladd Fathers"},
+    {"player": "Dalton Schultz", "points": 1.6, "team": "The Ladd Fathers"},
+    {"player": "Ryan Flournoy", "points": 1.6, "team": "Green Egbukas and Hampton"}
+  ],
+  "defensive_disasters": [],
+  "kicker_chaos": [],
+  "qb_duels_25plus": [
+    {"game": "InstantRiyaPlay vs DEFENSE DADDIES", "qb1": "Justin Herbert", "qb1_pts": 26.44, "qb2": "Brock Purdy", "qb2_pts": 28.2}
+  ],
+  "thin_lineup_started": [
+    {"player": "Bhayshul Tuten", "team": "The Maddy Efffect", "status": "QUESTIONABLE", "points": 6.8},
+    {"player": "Justin Herbert", "team": "InstantRiyaPlay", "status": "QUESTIONABLE", "points": 26.44},
+    {"player": "Saquon Barkley", "team": "I am Kenough", "status": "QUESTIONABLE", "points": 13.5},
+    {"player": "Sam LaPorta", "team": "Green Egbukas and Hampton", "status": "QUESTIONABLE", "points": 7.7},
+    {"player": "Jacob Parrish", "team": "Green Egbukas and Hampton", "status": "QUESTIONABLE", "points": 0.5}
+  ],
+  "roster_note": "Position IDs 9-13 (DT/DE/LB/CB/S) are rostered as IDP slots in this league; no standard D/ST or K slots are used."
+}
